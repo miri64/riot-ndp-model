@@ -1,37 +1,154 @@
-## Welcome to GitHub Pages
+# STILL WIP
 
-You can use the [editor on GitHub](https://github.com/miri64/riot-ndp-model.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Architecture
+## Node classes
+How the NIB is constructed is greatly dependent on what role the node takes in a network. Analysis of the corresponding RFCs resulted in the following made-up of node classes:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Node classes](class_nodes.svg)
 
-### Markdown
+Depending on the node class certain features are compiled into the RIOT image of the node. This is marked with the corresponding color of the node class:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Features of all IPv6 hosts are marked <span style="color: #000000; font-weight: bold;">black</span>
+- features for IPv6 routers are marked <span style="color: #800000; font-weight: bold;">maroon</span>,
+- features for all 6LoWPAN nodes (6LN) are marked <span style="color: #008000; font-weight: bold;">green</span>,
+- features for 6LoWPAN routers (6LR) are marked <span style="color: #800080; font-weight: bold;">purple</span>, and
+- features for 6LoWPAN border routers (6LBR) are marked <span style="color: #008080; font-weight: bold;">teal</span>.
 
-```markdown
-Syntax highlighted code block
+Additional to their role in the network there are certain features that are beyond orthogonal to these roles:
 
-# Header 1
-## Header 2
-### Header 3
+- Components and behaviors required for the NDP address resolution state-machine (typically provided on non-6LoWPAN hosts and all routers) are marked <span style="color: #808000; font-weight: bold;">olive</span>,
+- Nodes that start advertising themselves as routers on start-up are marked <span style="color: #ff6600; font-weight: bold;">orange</span>, and
+- Nodes that do not advertising themselves as routers on start-up are marked <span style="color: #ffcc00; font-weight: bold;">gold</span>.
 
-- Bulleted
-- List
+The reasoning for not including the NDP address resolution state-machine on non-routing 6LN is that on these kinds of nodes non-link-local addresses are always considered off-link and the link-layer addresses of link-local addresses are derived from their IID [[1][6lowpan-host-behavior]]. So none of this information needs to be stored.
 
-1. Numbered
-2. List
+Lastly, there are features the user can decide to de-/activate:
 
-**Bold** and _Italic_ and `Code` text
+- Asynchronous error reporting is marked <span style="color: #ff0000; font-weight: bold;">red</span>
+- Usage of a destination cache is marked <span style="color: #000080; font-weight: bold;">navy</span>
+- Handling of redirect messages (which requires a destination cache) is marked <span style="color: #2ad4ff; font-weight: bold;">blue</span>
 
-[Link](url) and ![Image](src)
-```
+## API
+![NIB: API architecture](class_api.svg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Implementation
+![NIB: Internal architecture](class_impl.svg)
 
-### Jekyll Themes
+(**OffLinkEntry** also on non-routers for prefix list.)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/miri64/riot-ndp-model.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Use-cases
+## Initialize interface
+![Sequence diagram: Interface initialization](seq_nib_use_case_001.svg)
 
-### Support or Contact
+## Determine next hop link-layer address
+![Sequence diagram: Next-hop determination](seq_nib_use_case_002.svg)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(Search in **OffLinkEntry**s also on non-routers for prefix list)
+
+### Get link-layer address of route entry
+![Sequence diagram: Route entry address resolution](seq_nib_use_case_002.1.svg)
+
+### Address resolution
+![Sequence diagram: Address resolution](seq_nib_use_case_002.2.svg)
+
+## Probe neighbor
+![Sequence diagram: Probe neighbor](seq_nib_use_case_003.svg)
+
+## Become an router advertising interface
+TODO
+
+## Cease to be an router advertising interface
+TODO
+
+## Upper-layer reachability confirmation
+TODO
+
+## Receive packet event
+![Sequence diagram: Receive packet event](seq_nib_use_case_004.svg)
+
+### Handle Neighbor Solicitation
+TODO
+
+### Handle Neighbor Advertisement
+TODO
+
+### Handle Router Solicitation
+TODO
+
+### Handle Router Advertisement
+TODO
+
+### Handle Redirect
+TODO
+
+### Handle Duplicate Address Request
+TODO
+
+### Handle Duplicate Address Confirmation
+TODO
+
+## Retransmit Neighbor Solicitation timer event
+TODO
+
+## Delayed Neighbor Advertisement timer event
+(Advertisement of anycast address)
+TODO
+
+## Reconfirm router timer event
+TODO
+
+## Reachability timeout timer event
+TODO
+
+## Delay timeout timer event
+TODO
+
+## Address registration timeout timer event
+TODO
+
+## 6LoWPAN Context timeout timer event
+
+## Authoritive Border Router timeout timer event
+TODO
+
+## Prefix timeout timer event
+TODO
+
+## Route timeout timer event
+TODO
+
+## Router timer event
+TODO
+
+## Search router timer event
+TODO
+
+## Send initial unsolicited Router Advertisement timer event
+TODO
+
+## Send unsolicited Router Advertisement timer event
+TODO
+
+## Send final unsolicited Router Advertisement timer event
+TODO
+
+## Set neighbor cache entry externally
+TODO
+
+## Delete neighbor cache entry externally
+TODO
+
+## Set prefix externally
+TODO
+
+## Delete prefix externally
+TODO
+
+## Add forwarding table entry
+TODO
+
+## Delete forwarding table entry
+TODO
+
+## Set reactive routing callback
+TODO

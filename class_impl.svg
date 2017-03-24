@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="762"
+   height="922"
+   viewBox="0 0 762 922"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="class_impl.svg">
+  <defs
+     id="defs4">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="inherit"
+       style="overflow:visible">
+      <path
+         id="path4249"
+         d="m 0,0 -24,-12 0,24 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="assoc"
+       style="overflow:visible">
+      <path
+         id="path4391"
+         d="M -24,12 0,0 -24,-12 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="dep"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M -24,12 0,0 -24,-12"
+         id="path4679" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="dep-dc"
+       style="overflow:visible">
+      <path
+         id="path4029"
+         d="M -24,12 0,0 -24,-12"
+         style="fill:none;stroke:#000080;stroke-width:1pt;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="dep-rtr"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#800000;stroke-width:1pt;stroke-opacity:1"
+         d="M -24,12 0,0 -24,-12"
+         id="path3605" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1616161"
+     inkscape:cx="203.94024"
+     inkscape:cy="263.34506"
+     inkscape:document-units="px"
+     inkscape:current-layer="dep-def-rtr-nib-ft"
+     showgrid="true"
+     units="px"
+     fit-margin-top="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     fit-margin-left="1"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       originx="207.03975"
+       originy="-810.61218" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1,1)">
+    <g
+       id="class-main">
+      <rect
+         y="0"
+         x="0"
+         height="920"
+         width="760"
+         id="sd-main-frame"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
+      <g
+         id="class-main-label">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 0,20 180,20 190,10 190,0 0,0 Z"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path20" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="90"
+           y="15.1675"
+           sodipodi:linespacing="125%"
+           id="text22"><tspan
+             sodipodi:role="line"
+             x="90"
+             y="15.1675"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
+             id="tspan24">class</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
+             id="tspan26"> NIB Implementation</tspan></text>
+      </g>
+      <g
+         id="nib-interface"
+         transform="translate(300,10)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
+           id="rect4182"
+           width="160"
+           height="35"
+           x="-80"
+           y="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="0"
+           y="12.3"
+           id="text4184"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4186"
+             x="0"
+             y="12.3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'">«interface», «synchronized»</tspan><tspan
+             sodipodi:role="line"
+             x="0"
+             y="29.692602"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
+             id="tspan4188">NIB</tspan></text>
+      </g>
+      <g
+         id="evtimer"
+         transform="translate(620,20)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
+           id="rect3481"
+           width="110"
+           height="15"
+           x="-55"
+           y="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="0"
+           y="12.3"
+           id="text3483"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3485"
+             x="0"
+             y="12.3"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'">evtimer_msg_t</tspan></text>
+      </g>
+      <g
+         id="nib-impl"
+         transform="translate(300,80)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
+           id="rect4218-9"
+           width="290"
+           height="470"
+           x="-145"
+           y="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="0"
+           y="12.3"
+           id="text4222-2"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="0"
+             y="12.3"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
+             id="tspan5460">NIBImpl</tspan></text>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -145,15 290,0"
+           id="path4220-9"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text6517"
+           y="31.237492"
+           x="-143"
+           xml:space="preserve"
+           sodipodi:linespacing="120%"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+             x="-143"
+             y="31.237492"
+             sodipodi:role="line"
+             id="tspan5161"
+             style="fill:#800000"># rrqCB : rrq_cb_t</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path6521"
+           d="m -145,40 290,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           sodipodi:linespacing="120%"
+           xml:space="preserve"
+           x="-143"
+           y="56.237488"
+           id="text4688"><tspan
+             x="-143"
+             y="56.237488"
+             sodipodi:role="line"
+             id="tspan4718">– <tspan
+   id="tspan4720"
+   style="text-decoration: underline;text-decoration-line: underline">onLink(dst : ipv6_addr_t) : bool</tspan></tspan><tspan
+             id="tspan4722"
+             sodipodi:role="line"
+             y="71.237488"
+             x="-143">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan4724">handleNbrSol(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
+             id="tspan4726"
+             sodipodi:role="line"
+             y="86.237488"
+             x="-143"><tspan
+               id="tspan4728"
+               style="fill:none">000000000</tspan><tspan
+               id="tspan4730"
+               style="text-decoration: underline;text-decoration-line: underline">nbrSol : nbr_sol_t, icmpv6Len : unsigned)</tspan></tspan><tspan
+             id="tspan4732"
+             sodipodi:role="line"
+             y="101.23749"
+             x="-143">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan4734">handleNbrAdv(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
+             id="tspan4736"
+             sodipodi:role="line"
+             y="116.23749"
+             x="-143"><tspan
+               id="tspan4738"
+               style="fill:none">000000000</tspan><tspan
+               id="tspan4740"
+               style="text-decoration: underline;text-decoration-line: underline">nbrAdv : nbr_adv_t, icmpv6Len : unsigned)</tspan></tspan><tspan
+             id="tspan4742"
+             sodipodi:role="line"
+             style="fill:#800000"
+             y="131.23749"
+             x="-143">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan4744">handleRtrSol(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
+             id="tspan4746"
+             sodipodi:role="line"
+             y="146.23749"
+             x="-143"><tspan
+               id="tspan4748"
+               style="fill:none">000000000</tspan><tspan
+               id="tspan4750"
+               style="text-decoration: underline;text-decoration-line: underline;fill:#800000">rtrSol : rtr_sol_t, icmpv6Len : unsigned)</tspan></tspan><tspan
+             id="tspan4752"
+             sodipodi:role="line"
+             y="161.23749"
+             x="-143">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan4754">handleRtrAdv(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
+             id="tspan4756"
+             sodipodi:role="line"
+             y="176.23749"
+             x="-143"><tspan
+               id="tspan4758"
+               style="fill:none">000000000</tspan><tspan
+               id="tspan4760"
+               style="text-decoration: underline;text-decoration-line: underline">rtrAdv : rtr_adv_t, icmpv6Len : unsigned)</tspan></tspan><tspan
+             id="tspan4762"
+             sodipodi:role="line"
+             style="fill:#2ad4ff"
+             y="191.23749"
+             x="-143">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan4764">handleRedirect(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
+             id="tspan4766"
+             sodipodi:role="line"
+             y="206.23749"
+             x="-143"><tspan
+               id="tspan4768"
+               style="fill:none">000000000</tspan><tspan
+               id="tspan4770"
+               style="text-decoration: underline;text-decoration-line: underline;fill:#2ad4ff">redirect : redirect_t, icmpv6Len : unsigned)</tspan></tspan><tspan
+             id="tspan4772"
+             sodipodi:role="line"
+             style="fill:#800080"
+             y="221.23749"
+             x="-143">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan4774">handleDAR(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
+             id="tspan4776"
+             sodipodi:role="line"
+             y="236.23749"
+             x="-143"><tspan
+               id="tspan4778"
+               style="fill:none">000000000</tspan><tspan
+               id="tspan4780"
+               style="text-decoration: underline;text-decoration-line: underline;fill:#800080">dar : da_t, icmpv6Len : unsigned)</tspan></tspan><tspan
+             id="tspan4782"
+             sodipodi:role="line"
+             style="fill:#800080"
+             y="251.2375"
+             x="-143">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan4784">handleDAC(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
+             id="tspan4786"
+             sodipodi:role="line"
+             y="266.23749"
+             x="-143"><tspan
+               id="tspan4788"
+               style="fill:none">000000000</tspan><tspan
+               id="tspan4790"
+               style="text-decoration: underline;text-decoration-line: underline;fill:#800080">dac : da_t, icmpv6Len : unsigned)</tspan></tspan><tspan
+             id="tspan4792"
+             sodipodi:role="line"
+             y="281.23749"
+             x="-143">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan4794">handleSndNSEvent(nbr : OnLinkEntry)</tspan></tspan><tspan
+             x="-143"
+             y="296.23749"
+             sodipodi:role="line"
+             id="tspan4796">– <tspan
+   id="tspan4798"
+   style="text-decoration: underline;text-decoration-line: underline">handleSndNAEvent(nbr : OnLinkEntry)</tspan></tspan><tspan
+             id="tspan4800"
+             sodipodi:role="line"
+             y="311.23749"
+             x="-143">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan4802">handleReconfirmRouterEvent(nbr : OnLinkEntry)</tspan></tspan><tspan
+             id="tspan4804"
+             sodipodi:role="line"
+             style="fill:#808000"
+             y="326.23749"
+             x="-143">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan4806">handleNUDReachTimeout(nbr : OnLinkEntry)</tspan></tspan><tspan
+             x="-143"
+             y="341.23749"
+             sodipodi:role="line"
+             style="fill:#808000"
+             id="tspan4808">– <tspan
+   id="tspan4810"
+   style="text-decoration: underline;text-decoration-line: underline">handleNUDDelayTimeout(nbr : OnLinkEntry)</tspan></tspan><tspan
+             x="-143"
+             y="356.23749"
+             sodipodi:role="line"
+             style="fill:#800080"
+             id="tspan4816">– <tspan
+   id="tspan4818"
+   style="text-decoration: underline;text-decoration-line: underline">handleAddrRegTimeout(nbr : OnLinkEntry)</tspan></tspan><tspan
+             id="tspan4820"
+             sodipodi:role="line"
+             style="fill:#008000"
+             y="371.23749"
+             x="-143">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan4822">handle6LoCtxTimeout(ctx : void*)</tspan></tspan><tspan
+             x="-143"
+             y="386.23749"
+             sodipodi:role="line"
+             style="fill:#008000"
+             id="tspan4824">– <tspan
+   id="tspan4826"
+   style="text-decoration: underline;text-decoration-line: underline">handleABRTimeout(ctx : void*)</tspan></tspan><tspan
+             id="tspan4828"
+             sodipodi:role="line"
+             y="401.23749"
+             x="-143">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan4830">handlePrefixTimeout(pfx : OffLinkEntry)</tspan></tspan><tspan
+             x="-143"
+             y="416.23749"
+             style="fill:#800000"
+             sodipodi:role="line"
+             id="tspan4832">– <tspan
+   id="tspan4834"
+   style="text-decoration: underline;text-decoration-line: underline">handleRouteTimeout(route : OffLinkEntry)</tspan></tspan><tspan
+             id="tspan4836"
+             sodipodi:role="line"
+             y="431.23749"
+             x="-143">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan4838">handleRtrTimeout(rtr : DefaultRouter)</tspan></tspan><tspan
+             x="-143"
+             y="446.23752"
+             sodipodi:role="line"
+             style="fill:#ffcc00"
+             id="tspan4840">– <tspan
+   id="tspan4842"
+   style="text-decoration: underline;text-decoration-line: underline">handleSearchRtrEvent(netif : NetIf)</tspan></tspan><tspan
+             id="tspan4844"
+             sodipodi:role="line"
+             style="fill:#ff6600"
+             y="461.23752"
+             x="-143">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan4846">handleSndMCRAEvent(netif : NetIf, type : u16_t)</tspan></tspan></text>
+      </g>
+      <g
+         id="lookup-evtimer"
+         transform="translate(620,80)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
+           id="rect3517"
+           width="210"
+           height="50"
+           x="-105"
+           y="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="0"
+           y="12.3"
+           id="text3519"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3521"
+             x="0"
+             y="12.3"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'">LookupEvtimer</tspan></text>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -105,15 210,0"
+           id="path3523"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3541"
+           d="m -105,25 210,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="120%"
+           id="text3543"
+           y="41.237499"
+           x="-103"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             id="tspan3549"
+             y="41.237499"
+             x="-103"
+             sodipodi:role="line">+ lookup(ctx : void*, type : u16_t) : u32</tspan></text>
+      </g>
+      <g
+         transform="translate(620,140)"
+         id="netif">
+        <rect
+           y="0"
+           x="-70"
+           height="115"
+           width="140"
+           id="rect5488"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5492"
+           y="12.3"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
+             y="12.3"
+             x="0"
+             id="tspan5494"
+             sodipodi:role="line">NetIf</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path5490"
+           d="M -70,15 70,15"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="120%"
+           id="text5496"
+           y="31.237499"
+           x="-68"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="31.237499"
+             x="-68"
+             sodipodi:role="line"
+             id="tspan4111"># reachTimeBase : u32_t</tspan><tspan
+             y="46.237499"
+             x="-68"
+             sodipodi:role="line"
+             id="tspan5500"># reachTime : u32_t</tspan><tspan
+             y="61.237499"
+             x="-68"
+             sodipodi:role="line"
+             id="tspan5502"># retransTime : u32_t</tspan><tspan
+             id="tspan5504"
+             y="76.237503"
+             x="-68"
+             sodipodi:role="line"
+             style="fill:#800000;fill-opacity:1"># MCRASent : u8_t</tspan><tspan
+             y="91.237503"
+             x="-68"
+             sodipodi:role="line"
+             id="tspan5591"># MCRSSent : u8_t</tspan><tspan
+             y="106.2375"
+             x="-68"
+             sodipodi:role="line"
+             id="tspan5595"># MCNASent : u8_t</tspan></text>
+      </g>
+      <g
+         id="on-link-entry"
+         transform="translate(620,290)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
+           id="rect4218"
+           width="220"
+           height="275"
+           x="-110"
+           y="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="0"
+           y="12.3"
+           id="text4222"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4224"
+             x="0"
+             y="12.3"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'">OnLinkEntry</tspan></text>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -110,15 220,0"
+           id="path4220"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-108"
+           y="31.237499"
+           id="text4226"
+           sodipodi:linespacing="120%"><tspan
+             id="tspan4228"
+             sodipodi:role="line"
+             x="-108"
+             y="31.237499"
+             style="fill:#7f7f00;fill-opacity:1">– ipv6 : ipv6_addr_t</tspan><tspan
+             sodipodi:role="line"
+             x="-108"
+             y="46.237499"
+             style="fill:#7f007f;fill-opacity:1"
+             id="tspan5299">– uniqueId : eui64_t</tspan><tspan
+             sodipodi:role="line"
+             x="-108"
+             y="61.237499"
+             style="fill:#7f7f00;fill-opacity:1"
+             id="tspan5303">– queue : gnrc_pktqueue_t*</tspan><tspan
+             sodipodi:role="line"
+             x="-108"
+             y="76.237503"
+             style="fill:#7f7f00;fill-opacity:1"
+             id="tspan5307">– l2addr : u8_t[]</tspan><tspan
+             id="tspan4234"
+             sodipodi:role="line"
+             x="-108"
+             y="91.237503"
+             style="fill:#7f7f00;fill-opacity:1">– l2addrLen : u8_t</tspan><tspan
+             sodipodi:role="line"
+             x="-108"
+             y="106.2375"
+             id="tspan5541">– mode : u8_t</tspan><tspan
+             sodipodi:role="line"
+             x="-108"
+             y="121.2375"
+             id="tspan5535"
+             style="fill:#7f7f00;fill-opacity:1">– infoFlags : u16_t</tspan><tspan
+             sodipodi:role="line"
+             x="-108"
+             y="136.2375"
+             id="tspan5589"
+             style="fill:#7f7f00;fill-opacity:1">– nsProbes : u8_t</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4491"
+           d="m -110,145 220,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text4495"
+           y="161.2375"
+           x="-108"
+           xml:space="preserve"
+           sodipodi:linespacing="120%"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+             y="161.2375"
+             x="-108"
+             sodipodi:role="line"
+             id="tspan5175"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan3672">resolveAddress(dst : ipv6_addr_t,</tspan></tspan><tspan
+             y="176.2375"
+             x="-108"
+             sodipodi:role="line"
+             id="tspan5179"><tspan
+               style="fill:#ffffff;fill-opacity:1"
+               id="tspan4278">0000000</tspan><tspan
+               style="text-decoration: underline;text-decoration-line: underline"
+               id="tspan3674">iface : NetIf, pkt : gnrc_pktsnip_t,</tspan></tspan><tspan
+             y="191.2375"
+             x="-108"
+             sodipodi:role="line"
+             id="tspan5221"><tspan
+               style="fill:#ffffff;fill-opacity:1"
+               id="tspan4292">0000000</tspan><tspan
+               style="text-decoration: underline;text-decoration-line: underline"
+               id="tspan3676">entry : OnLinkEntry) : NIB_NC</tspan></tspan><tspan
+             y="206.2375"
+             x="-108"
+             sodipodi:role="line"
+             id="tspan4494"># probe()</tspan><tspan
+             y="221.2375"
+             x="-108"
+             sodipodi:role="line"
+             style="fill:#000000"
+             id="tspan6389"># getNC() : NIB_NC</tspan><tspan
+             y="236.2375"
+             x="-108"
+             sodipodi:role="line"
+             style="fill:#000000"
+             id="tspan6395"># getState() : unsigned</tspan><tspan
+             y="251.2375"
+             x="-108"
+             sodipodi:role="line"
+             style="fill:#000000"
+             id="tspan4415"># setState(unsigned)</tspan><tspan
+             y="266.23752"
+             x="-108"
+             sodipodi:role="line"
+             style="fill:#008000;fill-opacity:1"
+             id="tspan6176">– revertIID(addr : ipv6_addr_t) : NIB_NC</tspan></text>
+      </g>
+      <g
+         id="def-rtr"
+         transform="translate(150,585)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
+           id="rect4155"
+           width="160"
+           height="80"
+           x="-80"
+           y="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="0"
+           y="12.3"
+           id="text4157"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4159"
+             x="0"
+             y="12.3"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'">DefaultRouter</tspan></text>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M -80,15 80,15"
+           id="path4161"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-78"
+           y="31.237499"
+           id="text4171"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4173"
+             x="-78"
+             y="31.237499">– lifetime : u16_t</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3672"
+           d="M -80,40 80,40"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3674"
+           y="56.237499"
+           x="-78"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="56.237499"
+             x="-78"
+             id="tspan3677"
+             sodipodi:role="line"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan3926">getCurrent() : DefaultRouter</tspan></tspan><tspan
+             y="71.862503"
+             x="-78"
+             sodipodi:role="line"
+             id="tspan4025"># getDRL() : NIB_DRL</tspan></text>
+      </g>
+      <g
+         id="route-entry"
+         transform="translate(390,585)">
+        <rect
+           y="0"
+           x="-135"
+           height="60"
+           width="270"
+           id="rect4138"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4473"
+           y="12.3"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
+             y="12.3"
+             x="0"
+             id="tspan4475"
+             sodipodi:role="line">«interface»</tspan><tspan
+             id="tspan4477"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold Italic'"
+             y="29.692602"
+             x="0"
+             sodipodi:role="line">RouteEntry</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4523"
+           d="m -135,35 270,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4527"
+           y="51.237499"
+           x="-133"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="51.237499"
+             x="-133"
+             id="tspan4529"
+             sodipodi:role="line"># getLinkLayerAddr(pkt : gnrc_pktsnip_t) : NIB_NC </tspan></text>
+      </g>
+      <g
+         transform="translate(620,610)"
+         id="nib-nc">
+        <rect
+           y="0"
+           x="-40"
+           height="35"
+           width="80"
+           id="rect4589"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5257"
+           y="12.3"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
+             y="12.3"
+             x="0"
+             id="tspan5259"
+             sodipodi:role="line">«view»</tspan><tspan
+             id="tspan5261"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
+             y="29.692602"
+             x="0"
+             sodipodi:role="line">NIB_NC</tspan></text>
+      </g>
+      <g
+         transform="translate(150,695)"
+         id="nib-drl">
+        <rect
+           y="0"
+           x="-40"
+           height="35"
+           width="80"
+           id="rect5360"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5362"
+           y="12.3"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
+             y="12.3"
+             x="0"
+             id="tspan5364"
+             sodipodi:role="line">«view»</tspan><tspan
+             id="tspan5366"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
+             y="29.692602"
+             x="0"
+             sodipodi:role="line">NIB_DRL</tspan></text>
+      </g>
+      <g
+         transform="translate(390,730)"
+         id="off-link-entry">
+        <rect
+           y="0"
+           x="-125"
+           height="140"
+           width="250"
+           id="rect4179"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4185"
+           y="12.3"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
+             y="12.3"
+             x="0"
+             id="tspan4187"
+             sodipodi:role="line">OffLinkEntry</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4181"
+           d="m -125,15 250,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="120%"
+           id="text4189"
+           y="31.237499"
+           x="-123"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="31.237499"
+             x="-123"
+             sodipodi:role="line"
+             id="tspan4201">– prefix : ipv6_addr_t</tspan><tspan
+             y="46.237499"
+             x="-123"
+             sodipodi:role="line"
+             id="tspan4197">– prefixLen : u8_t</tspan><tspan
+             y="61.237499"
+             x="-123"
+             sodipodi:role="line"
+             id="tspan4205">– valid : u32_t</tspan><tspan
+             y="76.237503"
+             x="-123"
+             sodipodi:role="line"
+             id="tspan4207">– preferred : u32_t</tspan></text>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -125,85 250,0"
+           id="path5680"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-123"
+           y="101.2375"
+           id="text5886"
+           sodipodi:linespacing="120%"><tspan
+             id="tspan5894"
+             sodipodi:role="line"
+             x="-123"
+             y="101.2375"
+             style="fill:#000080"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan3928">dcAdd(ipv6_addr_t *dst, ipv6_addr_t *nh</tspan>,</tspan><tspan
+             sodipodi:role="line"
+             x="-123"
+             y="116.2375"
+             id="tspan4516"
+             style="text-decoration: underline;text-decoration-line: underline;fill:#000080"><tspan
+   style="text-decoration: underline;text-decoration-line: underline;fill:#ffffff"
+   id="tspan4518">0000000</tspan>NetIf iface) : OffLinkEntry</tspan><tspan
+             sodipodi:role="line"
+             x="-123"
+             y="131.2375"
+             id="tspan6062"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan3924">getBestMatch() : OffLinkEntry</tspan></tspan></text>
+      </g>
+      <g
+         id="nib-ft"
+         transform="translate(620,730)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
+           id="rect5630"
+           width="80"
+           height="35"
+           x="-40"
+           y="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="0"
+           y="12.3"
+           id="text5632"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5634"
+             x="0"
+             y="12.3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#800000">«view»</tspan><tspan
+             sodipodi:role="line"
+             x="0"
+             y="29.692602"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#800000"
+             id="tspan5636">NIB_FT</tspan></text>
+      </g>
+      <g
+         id="nib-dc"
+         transform="translate(620,782.5)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
+           id="rect5271"
+           width="80"
+           height="35"
+           x="-40"
+           y="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="0"
+           y="12.3"
+           id="text5273"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5275"
+             x="0"
+             y="12.3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#000080">«view»</tspan><tspan
+             sodipodi:role="line"
+             x="0"
+             y="29.692602"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#000080"
+             id="tspan5277">NIB_DC</tspan></text>
+      </g>
+      <g
+         transform="translate(620,835)"
+         id="nib-pl">
+        <rect
+           y="0"
+           x="-40"
+           height="35"
+           width="80"
+           id="rect5700"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5702"
+           y="12.3"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
+             y="12.3"
+             x="0"
+             id="tspan5704"
+             sodipodi:role="line">«view»</tspan><tspan
+             id="tspan5706"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
+             y="29.692602"
+             x="0"
+             sodipodi:role="line">NIB_PL</tspan></text>
+      </g>
+      <g
+         transform="translate(300,80)"
+         id="realize-nib-interface">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#inherit)"
+           d="M 0,0 0,-35"
+           id="path4233"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(620,80)"
+         id="inherit-evtimer-msg-lookup-evtimer">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#inherit)"
+           d="M 0,0 0,-45"
+           id="path3560"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="inherit-route-entry-def-rtr"
+         transform="translate(230,615)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3654"
+           d="M 0,0 25,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#inherit)" />
+      </g>
+      <g
+         transform="translate(390,730)"
+         id="inherit-route-entry-off-link-entry">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#inherit)"
+           d="M 0,0 0,-85"
+           id="path3991"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(620,610)"
+         id="dep-on-link-entry-nib-nc">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep)"
+           d="M 0,0 0,-45"
+           id="path4661"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="2"
+           y="-19.349386"
+           id="text3981"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3983"
+             x="2"
+             y="-19.349386">«basedOn»</tspan></text>
+      </g>
+      <g
+         id="dep-def-rtr-nib-drl"
+         transform="translate(150,695)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep)"
+           d="M 0,0 0,-30"
+           id="path5352"
+           inkscape:connector-curvature="0" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5354"
+           y="-11.849385"
+           x="2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="-11.849385"
+             x="2"
+             id="tspan5356"
+             sodipodi:role="line">«basedOn»</tspan></text>
+      </g>
+      <g
+         id="dep-def-rtr-nib-ft"
+         transform="translate(620,730)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep-rtr)"
+           d="m 0,0 0,-40 -410,0 0,-25"
+           id="path3622"
+           inkscape:connector-curvature="0" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3624"
+           y="-16.849386"
+           x="-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="-2"
+             x="-2"
+             id="tspan3626"
+             sodipodi:role="line">«basedOn»</tspan></text>
+      </g>
+      <g
+         transform="translate(580,747.5)"
+         id="dep-off-link-entry-nib-ft">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4003"
+           d="M 0,0 -65,0"
+           style="fill:none;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep-rtr)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           x="-27.5"
+           y="-2"
+           id="text4005"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4007"
+             x="-27.5"
+             y="-2">«basedOn»</tspan></text>
+      </g>
+      <g
+         id="dep-off-link-entry-nib-dc"
+         transform="translate(580,800)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep-dc)"
+           d="M 0,0 -65,0"
+           id="path4011"
+           inkscape:connector-curvature="0" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4013"
+           y="-2"
+           x="-27.5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           xml:space="preserve"><tspan
+             y="-2"
+             x="-27.5"
+             id="tspan4015"
+             sodipodi:role="line">«basedOn»</tspan></text>
+      </g>
+      <g
+         transform="translate(580,852.5)"
+         id="dep-off-link-entry-nib-pl">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4019"
+           d="M 0,0 -65,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-27.5"
+           y="-2"
+           id="text4021"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4023"
+             x="-27.5"
+             y="-2">«basedOn»</tspan></text>
+      </g>
+      <g
+         transform="translate(445,105)"
+         id="assoc-lookup-evtimer-evtimer-msg">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)"
+           d="M 0,0 70,0"
+           id="path3564"
+           inkscape:connector-curvature="0" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3566"
+           y="-2"
+           x="2"
+           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="-2"
+             x="2"
+             id="tspan3568"
+             sodipodi:role="line">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="2"
+           y="10"
+           id="text3570"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3709"
+             x="2"
+             y="10"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan3656">evtimer</tspan></tspan></text>
+      </g>
+      <g
+         transform="translate(620,290)"
+         id="assoc-netif-on-link-entry">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)"
+           d="M 0,0 0,-35"
+           id="path5876"
+           inkscape:connector-curvature="0" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5878"
+           y="-2"
+           x="-2"
+           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="-2"
+             x="-2"
+             id="tspan5880"
+             sodipodi:role="line">0..1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="2"
+           y="-2"
+           id="text5882"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5884"
+             x="2"
+             y="-2"># iface</tspan></text>
+      </g>
+      <g
+         transform="translate(445,420)"
+         id="assoc-on-link-entry-nib">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)"
+           d="M 0,0 65,0"
+           id="path3932"
+           inkscape:connector-curvature="0" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3934"
+           y="-2"
+           x="2"
+           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="-2"
+             x="2"
+             id="tspan3936"
+             sodipodi:role="line">*</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="2"
+           y="10"
+           id="text3938"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3940"
+             x="2"
+             y="10">– <tspan
+   id="tspan3942"
+   style="text-decoration: underline;text-decoration-line: underline">onLinks</tspan></tspan></text>
+      </g>
+      <g
+         transform="translate(155,420)"
+         id="assoc-off-link-entry-nib">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)"
+           d="m 0,0 -100,0 0,380 210,0"
+           id="path3948"
+           inkscape:connector-curvature="0" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3950"
+           y="-2"
+           x="-2"
+           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="-2"
+             x="-2"
+             id="tspan3952"
+             sodipodi:role="line">*</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-2"
+           y="10"
+           id="text3954"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3956"
+             x="-2"
+             y="10">– <tspan
+   id="tspan3958"
+   style="text-align:end;text-decoration: underline;text-decoration-line: underline;text-anchor:end">offLinks</tspan></tspan></text>
+      </g>
+      <g
+         id="assoc-def-rtr-nib"
+         transform="translate(155,490)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5506"
+           d="m 0,0 -60,0 0,95"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-2"
+           y="-2"
+           id="text5515"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5517"
+             x="-2"
+             y="-2">*</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text6505"
+           y="10"
+           x="-2"
+           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="10"
+             x="-2"
+             id="tspan6507"
+             sodipodi:role="line">– <tspan
+   style="text-align:end;text-decoration: underline;text-decoration-line: underline;text-anchor:end"
+   id="tspan3658">defRtrs</tspan></tspan></text>
+      </g>
+      <g
+         id="assoc-on-link-entry-route-entry"
+         transform="translate(475,585)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3662"
+           d="m 0,0 0,-95 35,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-2"
+           y="-2"
+           id="text3664"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3666"
+             x="-2"
+             y="-2">1</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3668"
+           y="-2"
+           x="2"
+           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="-2"
+             x="2"
+             id="tspan3670"
+             sodipodi:role="line"># next_hop</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
