@@ -26,7 +26,9 @@ Lastly, there are features the user can decide to de-/activate:
 
 - Asynchronous error reporting is marked <span style="color: #ff0000; font-weight: bold;">red</span>
 - Usage of a destination cache is marked <span style="color: #000080; font-weight: bold;">navy</span>
-- Handling of redirect messages (which requires a destination cache) is marked <span style="color: #2ad4ff; font-weight: bold;">blue</span>
+- Handling of redirect messages (which requires a destination cache) is marked <span style="color: #2ad4ff; font-weight: bold;">azure</span>
+
+[6lowpan-host-behavior]: https://tools.ietf.org/html/rfc6775#section-5.6
 
 ## API
 ![NIB: API architecture](class_api.svg)
