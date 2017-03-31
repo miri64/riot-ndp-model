@@ -75,7 +75,7 @@ TODO
 TODO
 
 ## Receive packet event
-![Sequence diagram: Receive packet event](seq_nib_use_case_004.svg)
+![Sequence diagram: Receive packet event](seq_nib_use_case_007.svg)
 
 ### Handle Neighbor Solicitation
 TODO
