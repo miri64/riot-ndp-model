@@ -27,6 +27,7 @@ Furthermore, there are features the user can decide to de-/activate:
 - Asynchronous error reporting is marked <span style="color: #ff0000; font-weight: bold;">red</span>
 - Queueing of packets for address resolution is marked <span style="color: #00ff00; font-weight: bold;">lime</span>
 - Usage of a destination cache is marked <span style="color: #000080; font-weight: bold;">navy</span>
+- Stateless Address Autoconfiguration according to [RFC4862] is marked <span style="color: #c0c0c0; font-weight: bold;">silver</span>
 - Handling of redirect messages (which requires a destination cache) is marked <span style="color: #2ad4ff; font-weight: bold;">azure</span>
 
 Lastly, there are the components related to [6LoWPAN's two substitutable features][6lowpan-subst-feat]:
@@ -36,6 +37,7 @@ Lastly, there are the components related to [6LoWPAN's two substitutable feature
 
 [6lowpan-host-behavior]: https://tools.ietf.org/html/rfc6775#section-5.6
 [6lowpan-subst-feat]: https://tools.ietf.org/html/rfc6775#section-8
+[RFC4862]: https://tools.ietf.org/html/rfc4862
 
 ## API
 ![NIB: API architecture](class_api.svg)
