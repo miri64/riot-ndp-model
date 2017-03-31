@@ -25,6 +25,7 @@ The reasoning for not including the NDP address resolution state-machine on non-
 Lastly, there are features the user can decide to de-/activate:
 
 - Asynchronous error reporting is marked <span style="color: #ff0000; font-weight: bold;">red</span>
+- Queueing of packets for address resolution is marked <span style="color: #00ff00; font-weight: bold;">lime</span>
 - Usage of a destination cache is marked <span style="color: #000080; font-weight: bold;">navy</span>
 - Handling of redirect messages (which requires a destination cache) is marked <span style="color: #2ad4ff; font-weight: bold;">azure</span>
 
