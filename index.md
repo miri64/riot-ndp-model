@@ -57,10 +57,10 @@ Lastly, there are features the user can decide to de-/activate:
 ## Probe neighbor
 ![Sequence diagram: Probe neighbor](seq_nib_use_case_003.svg)
 
-## Become an router advertising interface
+## Become a router advertising interface
 TODO
 
-## Cease to be an router advertising interface
+## Cease to be a router advertising interface
 TODO
 
 ## Upper-layer reachability confirmation
