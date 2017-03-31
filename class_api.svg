@@ -228,12 +228,12 @@
              y="96.237495"
              sodipodi:role="line"
              id="tspan5139"
-             style="fill:#808000">+ NUD_REACH_TIMEOUT : u16_t = 0x4fc3</tspan><tspan
+             style="fill:#808000">+ REACH_TIMEOUT : u16_t = 0x4fc3</tspan><tspan
              x="-163"
              y="111.2375"
              sodipodi:role="line"
              id="tspan5143"
-             style="fill:#808000">+ NUD_DELAY_TIMEOUT : u16_t = 0x4fc4</tspan><tspan
+             style="fill:#808000">+ DELAY_TIMEOUT : u16_t = 0x4fc4</tspan><tspan
              x="-163"
              y="126.2375"
              sodipodi:role="line"

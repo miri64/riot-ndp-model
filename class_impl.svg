@@ -926,7 +926,7 @@
              y="116.2375"
              style="fill:#000080"># <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan3928">dcAdd(ipv6_addr_t *dst, ipv6_addr_t *nh</tspan>,</tspan><tspan
+   id="tspan3928">addDC(ipv6_addr_t *dst, ipv6_addr_t *nh</tspan>,</tspan><tspan
              sodipodi:role="line"
              x="-123"
              y="131.2375"

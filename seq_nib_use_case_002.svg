@@ -404,7 +404,7 @@
                  id="tspan3502"
                  x="80"
                  y="-4"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">dcAdd(dst, nce::ipv6, nce::iface)</tspan></text>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">addDC(dst, nce::ipv6, nce::iface)</tspan></text>
           </g>
           <g
              id="g4460"
