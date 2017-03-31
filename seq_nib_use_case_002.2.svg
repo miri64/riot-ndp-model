@@ -483,7 +483,7 @@
                  y="-4"
                  x="52.5"
                  id="tspan3733"
-                 sodipodi:role="line">revertIID(dst)</tspan></text>
+                 sodipodi:role="line">add(offset = DELAY_FIRST_PROBE_TIME)</tspan></text>
           </g>
           <g
              id="g4460"
@@ -674,7 +674,7 @@
              sodipodi:role="line"
              id="tspan6358"
              x="40"
-             y="182.75879">[else]</tspan></text>
+             y="197.75879">[else]</tspan></text>
         <g
            id="opt-entry-null"
            transform="translate(10,205)">
