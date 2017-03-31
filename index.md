@@ -22,14 +22,20 @@ Additional to their role in the network there are certain features that are beyo
 
 The reasoning for not including the NDP address resolution state-machine on non-routing 6LN is that on these kinds of nodes [non-link-local addresses are always considered off-link and the link-layer addresses of link-local addresses are derived from their IID][6lowpan-host-behavior]. So none of this information needs to be stored.
 
-Lastly, there are features the user can decide to de-/activate:
+Furthermore, there are features the user can decide to de-/activate:
 
 - Asynchronous error reporting is marked <span style="color: #ff0000; font-weight: bold;">red</span>
 - Queueing of packets for address resolution is marked <span style="color: #00ff00; font-weight: bold;">lime</span>
 - Usage of a destination cache is marked <span style="color: #000080; font-weight: bold;">navy</span>
 - Handling of redirect messages (which requires a destination cache) is marked <span style="color: #2ad4ff; font-weight: bold;">azure</span>
 
+Lastly, there are the components related to [6LoWPAN's two substitutable features][6lowpan-subst-feat]:
+
+- Components related to multihop prefix and context distribution are marked <span style="color: #0000ff; font-weight: bold;">blue</span>, and
+- Components related to multihop Duplicate Address Detetection are marked <span style="color: #ff00ff; font-weight: bold;">magenta</span>
+
 [6lowpan-host-behavior]: https://tools.ietf.org/html/rfc6775#section-5.6
+[6lowpan-subst-feat]: https://tools.ietf.org/html/rfc6775#section-8
 
 ## API
 ![NIB: API architecture](class_api.svg)
