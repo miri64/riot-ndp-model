@@ -15,11 +15,13 @@
    id="svg4653"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="seq_nib_use_case_001.1.svg"
+   sodipodi:docname="seq_nib_use_case_002.1.svg"
    height="212">
   <defs
      id="defs4655">
-    <style type="text/css">
+    <style
+       type="text/css"
+       id="style4">
       @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
     </style>
     <marker
@@ -71,10 +73,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.7925136"
-     inkscape:cx="210.95359"
+     inkscape:cx="150.97179"
      inkscape:cy="71.557159"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="sd-main-label"
      showgrid="true"
      inkscape:window-width="2560"
      inkscape:window-height="1413"
@@ -116,22 +118,22 @@
          id="sd-main-label">
         <path
            inkscape:connector-curvature="0"
-           d="M 0,20 170,20 180,10 180,0 0,0 Z"
+           d="M 0,25 250,25 260,15 260,0 0,0 Z"
            style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path20" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="85"
-           y="12.758789"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="125"
+           y="16.362499"
            sodipodi:linespacing="125%"
            id="text22"><tspan
              sodipodi:role="line"
-             x="85"
-             y="12.758789"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
+             x="125"
+             y="16.362499"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
              id="tspan24">sd</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
              id="tspan26"> Get link-layer address of RouteEntry</tspan></text>
       </g>
       <g

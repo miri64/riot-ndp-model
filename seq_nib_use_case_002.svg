@@ -11,15 +11,17 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="777"
-   viewBox="0 0 777 632"
+   viewBox="0 0 777 637"
    id="svg4653"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="seq_nib_use_case_002.svg"
-   height="632">
+   height="637">
   <defs
      id="defs4655">
-    <style type="text/css">
+    <style
+       type="text/css"
+       id="style4">
       @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
     </style>
     <marker
@@ -110,16 +112,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98730265"
-     inkscape:cx="194.51224"
-     inkscape:cy="199.67463"
+     inkscape:zoom="2.7925136"
+     inkscape:cx="266.56747"
+     inkscape:cy="476.89128"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="sd-main-label"
      showgrid="true"
-     inkscape:window-width="1855"
-     inkscape:window-height="1176"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="2560"
+     inkscape:window-height="1413"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false">
     <inkscape:grid
@@ -148,7 +150,7 @@
       <rect
          y="0"
          x="0"
-         height="630"
+         height="635"
          width="775"
          id="sd-main-frame"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -156,27 +158,27 @@
          id="sd-main-label">
         <path
            inkscape:connector-curvature="0"
-           d="M 0,20 180,20 190,10 190,0 0,0 Z"
+           d="M 0,25 260,25 270,15 270,0 0,0 Z"
            style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path20" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="90"
-           y="12.758789"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="130"
+           y="16.272499"
            sodipodi:linespacing="125%"
            id="text22"><tspan
              sodipodi:role="line"
-             x="90"
-             y="12.758789"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
+             x="130"
+             y="16.272499"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
              id="tspan24">sd</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
              id="tspan26"> Determine next hop link-layer address</tspan></text>
       </g>
       <g
          id="lower-layer-lifeline"
-         transform="translate(730,40)">
+         transform="translate(730,45)">
         <g
            id="link-layer">
           <path
@@ -209,7 +211,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="translate(640,40)"
+         transform="translate(640,45)"
          id="rrq-lifeline">
         <g
            id="g3745">
@@ -267,7 +269,7 @@
         </g>
       </g>
       <g
-         transform="translate(525,40)"
+         transform="translate(525,45)"
          id="off-link-entry-lifeline">
         <g
            id="g5733">
@@ -317,7 +319,7 @@
         </g>
       </g>
       <g
-         transform="translate(365,40)"
+         transform="translate(365,45)"
          id="nib-lifeline">
         <g
            id="g5719">
@@ -490,7 +492,7 @@
         </g>
       </g>
       <g
-         transform="translate(195,100)"
+         transform="translate(195,105)"
          id="nib-nc-critical-region">
         <rect
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
@@ -834,7 +836,7 @@
       </g>
       <g
          id="gnrc-ipv6-lifeline"
-         transform="translate(150,40)">
+         transform="translate(150,45)">
         <g
            id="g5724">
           <rect
@@ -937,7 +939,7 @@
         </g>
       </g>
       <g
-         transform="translate(125,545)"
+         transform="translate(125,550)"
          id="alt-nce-null">
         <rect
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
@@ -992,7 +994,7 @@
       </g>
       <g
          id="sender-lifeline"
-         transform="translate(20,40)">
+         transform="translate(20,45)">
         <g
            id="sender-actor">
           <path
@@ -1046,7 +1048,7 @@
         </g>
       </g>
       <g
-         transform="translate(350,260)"
+         transform="translate(350,265)"
          id="with-dc">
         <rect
            style="fill:none;fill-opacity:1;stroke:#000080;stroke-width:1.07949996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.07949996, 4.31799985;stroke-dashoffset:0;stroke-opacity:1"
@@ -1071,7 +1073,7 @@
       </g>
       <g
          id="on-router"
-         transform="translate(320,440)">
+         transform="translate(320,445)">
         <rect
            ry="10"
            rx="10"
@@ -1095,7 +1097,7 @@
       </g>
       <g
          id="with-neterr"
-         transform="translate(120,575)">
+         transform="translate(120,580)">
         <rect
            ry="10"
            rx="10"

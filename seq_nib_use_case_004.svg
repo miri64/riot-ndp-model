@@ -10,15 +10,17 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="622"
-   viewBox="0 0 622 657"
+   viewBox="0 0 622 662"
    id="svg4653"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="seq_nib_use_case_004.svg"
-   height="657">
+   height="662">
   <defs
      id="defs4655">
-    <style type="text/css">
+    <style
+       type="text/css"
+       id="style4">
       @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
     </style>
     <marker
@@ -97,16 +99,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3962568"
-     inkscape:cx="197.32341"
-     inkscape:cy="297.38538"
+     inkscape:zoom="1.9746053"
+     inkscape:cx="226.97869"
+     inkscape:cy="183.13553"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="sd-main-label"
      showgrid="true"
-     inkscape:window-width="1855"
-     inkscape:window-height="1176"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="2560"
+     inkscape:window-height="1413"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false">
     <inkscape:grid
@@ -135,7 +137,7 @@
       <rect
          y="0"
          x="0"
-         height="655"
+         height="660"
          width="620"
          id="sd-main-frame"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -143,26 +145,26 @@
          id="sd-main-label">
         <path
            inkscape:connector-curvature="0"
-           d="M 0,20 110,20 120,10 120,0 0,0 Z"
+           d="M 0,25 160,25 170,15 170,0 0,0 Z"
            style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path20" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="55"
-           y="12.758789"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="80"
+           y="16.3025"
            sodipodi:linespacing="125%"
            id="text22"><tspan
              sodipodi:role="line"
-             x="55"
-             y="12.758789"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
+             x="80"
+             y="16.3025"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
              id="tspan24">sd</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
              id="tspan26"> Receive packet event</tspan></text>
       </g>
       <g
-         transform="translate(425,40)"
+         transform="translate(425,45)"
          id="nib-lifeline">
         <g
            id="g5719">
@@ -225,7 +227,7 @@
       </g>
       <g
          id="gnrc-ipv6-lifeline"
-         transform="translate(165,40)">
+         transform="translate(165,45)">
         <g
            id="g5724">
           <rect
@@ -351,7 +353,7 @@
       </g>
       <g
          id="opt-ndp-pkt"
-         transform="translate(110,120)">
+         transform="translate(110,125)">
         <rect
            y="0"
            x="0"
@@ -803,7 +805,7 @@
       </g>
       <g
          id="lower-layer-lifeline"
-         transform="translate(35,40)">
+         transform="translate(35,45)">
         <g
            id="link-layer">
           <path
@@ -857,7 +859,7 @@
         </g>
       </g>
       <g
-         transform="translate(390,275)"
+         transform="translate(390,280)"
          id="on-router">
         <rect
            style="fill:none;fill-opacity:1;stroke:#800000;stroke-width:1.07949996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.07949996, 4.31799985;stroke-dashoffset:0;stroke-opacity:1"
@@ -882,7 +884,7 @@
       </g>
       <g
          id="only-with-redirect"
-         transform="translate(390,410)">
+         transform="translate(390,415)">
         <rect
            ry="10"
            rx="10"
@@ -905,7 +907,7 @@
              sodipodi:role="line">Only with Redirect mechanism</tspan></text>
       </g>
       <g
-         transform="translate(390,485)"
+         transform="translate(390,490)"
          id="on-6lr">
         <rect
            style="fill:none;fill-opacity:1;stroke:#800080;stroke-width:1.07949996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.07949996, 4.31799985;stroke-dashoffset:0;stroke-opacity:1"
