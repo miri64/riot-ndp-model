@@ -11,12 +11,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="577"
-   viewBox="0 0 577 437"
+   viewBox="0 0 577 492"
    id="svg4653"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="seq_nib_use_case_003.svg"
-   height="437">
+   height="492">
   <defs
      id="defs4655">
     <style
@@ -72,16 +72,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9492106"
-     inkscape:cx="49.54555"
-     inkscape:cy="334.34639"
+     inkscape:zoom="1.3962568"
+     inkscape:cx="312.03873"
+     inkscape:cy="116.11672"
      inkscape:document-units="px"
      inkscape:current-layer="sd-main-label"
      showgrid="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1413"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:window-width="1280"
+     inkscape:window-height="1000"
+     inkscape:window-x="1280"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true">
     <inkscape:grid
@@ -96,7 +96,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,7 +110,7 @@
       <rect
          y="0"
          x="0"
-         height="435"
+         height="490"
          width="575"
          id="sd-main-frame"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -162,21 +162,21 @@
         </g>
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 0,10 0,395"
+           d="M 0,10 0,450"
            id="path5267"
            inkscape:connector-curvature="0" />
         <g
            id="g3443"
-           transform="translate(0,120)">
+           transform="translate(0,155)">
           <rect
              style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
              id="rect3445"
              width="10"
-             height="15"
+             height="10"
              x="-5"
              y="0" />
           <g
-             transform="translate(0,15)"
+             transform="translate(0,10)"
              id="g3447">
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#async-msg-head)"
@@ -187,7 +187,7 @@
         </g>
         <g
            id="g5269"
-           transform="translate(0,200)">
+           transform="translate(0,235)">
           <rect
              style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
              id="rect5271"
@@ -218,18 +218,18 @@
           </g>
         </g>
         <g
-           transform="translate(0,315)"
+           transform="translate(0,375)"
            id="g3431">
           <rect
              y="0"
              x="-5"
-             height="15"
+             height="10"
              width="10"
              id="rect3433"
              style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
           <g
              id="g3435"
-             transform="translate(0,15)">
+             transform="translate(0,10)">
             <path
                inkscape:connector-curvature="0"
                id="path3437"
@@ -265,21 +265,21 @@
         <path
            inkscape:connector-curvature="0"
            id="path4998"
-           d="M 0,10 0,395"
+           d="M 0,10 0,450"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1" />
         <g
-           transform="translate(0,90)"
+           transform="translate(0,130)"
            id="g5000">
           <rect
              y="0"
              x="-5"
-             height="15"
+             height="10"
              width="10"
              id="rect5002"
              style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
           <g
              id="g5152"
-             transform="translate(0,15)">
+             transform="translate(0,10)">
             <path
                inkscape:connector-curvature="0"
                id="path5154"
@@ -289,16 +289,16 @@
         </g>
         <g
            id="g5309"
-           transform="translate(0,285)">
+           transform="translate(0,350)">
           <rect
              style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
              id="rect5311"
              width="10"
-             height="15"
+             height="10"
              x="-5"
              y="0" />
           <g
-             transform="translate(0,15)"
+             transform="translate(0,10)"
              id="g5313">
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#async-msg-head)"
@@ -335,7 +335,7 @@
         <path
            inkscape:connector-curvature="0"
            id="path5256"
-           d="M 0,10 0,395"
+           d="M 0,10 0,450"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1" />
         <g
            id="g6220"
@@ -343,12 +343,12 @@
           <rect
              y="0"
              x="-5"
-             height="355"
+             height="410"
              width="10"
              id="rect5607"
              style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
           <g
-             transform="translate(0,40)"
+             transform="translate(0,65)"
              id="g5622">
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#sync-msg-head)"
@@ -369,7 +369,7 @@
                  sodipodi:role="line">nsProbe := 0</tspan></text>
           </g>
           <rect
-             y="50"
+             y="75"
              x="0"
              height="5"
              width="10"
@@ -377,7 +377,7 @@
              style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
           <g
              id="g5249"
-             transform="translate(0,60)">
+             transform="translate(0,100)">
             <path
                inkscape:connector-curvature="0"
                id="path5251"
@@ -397,7 +397,7 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">sendNS(dst = entry::ipv6, iface)</tspan></text>
           </g>
           <g
-             transform="translate(0,90)"
+             transform="translate(0,125)"
              id="g3451">
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#sync-msg-head)"
@@ -418,7 +418,7 @@
                  sodipodi:role="line">add(offset = entry::iface::reach_time, msg = { .type = SND_UC_NS, .ctx = entry })</tspan></text>
           </g>
           <g
-             transform="translate(0,125)"
+             transform="translate(0,155)"
              id="g3493">
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#sync-msg-head)"
@@ -439,14 +439,14 @@
                  sodipodi:role="line">nsProbe++</tspan></text>
           </g>
           <rect
-             y="135"
+             y="165"
              x="0"
              height="5"
              width="10"
              id="rect3505"
              style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
           <g
-             transform="translate(0,170)"
+             transform="translate(0,205)"
              id="g5277">
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#sync-msg-head)"
@@ -467,7 +467,7 @@
                  sodipodi:role="line">lookup(entry, SND_MC_NS)</tspan></text>
           </g>
           <g
-             transform="translate(0,225)"
+             transform="translate(0,285)"
              id="g5623">
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#sync-msg-head)"
@@ -488,14 +488,14 @@
                  sodipodi:role="line">nsProbe := 0</tspan></text>
           </g>
           <rect
-             y="235"
+             y="295"
              x="0"
              height="5"
              width="10"
              id="rect92"
              style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
           <g
-             transform="translate(0,255)"
+             transform="translate(0,320)"
              id="g5301">
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#sync-msg-head)"
@@ -517,7 +517,7 @@
           </g>
           <g
              id="g3423"
-             transform="translate(0,285)">
+             transform="translate(0,345)">
             <path
                inkscape:connector-curvature="0"
                id="path3425"
@@ -538,7 +538,7 @@
           </g>
           <g
              id="g3477"
-             transform="translate(0,320)">
+             transform="translate(0,375)">
             <path
                inkscape:connector-curvature="0"
                id="path3479"
@@ -563,9 +563,9 @@
              width="10"
              height="5"
              x="0"
-             y="330" />
+             y="385" />
           <g
-             transform="translate(0,355)"
+             transform="translate(0,410)"
              id="g5954">
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#async-msg-head)"
@@ -581,7 +581,7 @@
         <rect
            y="0"
            x="0"
-           height="340"
+           height="395"
            width="480"
            id="rect6301"
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -612,30 +612,14 @@
              id="tspan6391"
              x="40"
              y="12.758789">[entry::getState() == PROBE]</tspan></text>
-        <path
-           id="path6490"
-           d="m 0,135 480,0"
-           inkscape:connector-curvature="0"
-           style="stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text6493"
-           y="122.75879"
-           x="40"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
-           xml:space="preserve"><tspan
-             y="147.75879"
-             x="40"
-             id="tspan6495"
-             sodipodi:role="line">[entry::getState() == INCOMPLETE]</tspan></text>
         <g
-           transform="translate(10,185)"
-           id="opt-stale">
+           transform="translate(10,25)"
+           id="opt-reset1">
           <rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
              id="rect6339"
-             width="450"
-             height="145"
+             width="110"
+             height="50"
              x="0"
              y="0" />
           <path
@@ -664,7 +648,99 @@
                sodipodi:role="line"
                id="tspan6351"
                x="40"
+               y="12.758789">[reset]</tspan></text>
+        </g>
+        <path
+           id="path6490"
+           d="m 0,165 480,0"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text6493"
+           y="172.75879"
+           x="40"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
+           xml:space="preserve"><tspan
+             y="177.75879"
+             x="40"
+             id="tspan6495"
+             sodipodi:role="line">[entry::getState() == INCOMPLETE]</tspan></text>
+        <g
+           transform="translate(10,220)"
+           id="opt-rate-limit">
+          <rect
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
+             id="rect125"
+             width="450"
+             height="165"
+             x="0"
+             y="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path127"
+             d="M 0,20 25,20 35,10 35,0 0,0 0,20 Z"
+             style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text129"
+             y="12.758789"
+             x="15"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="12.758789"
+               x="15"
+               id="tspan131"
+               sodipodi:role="line">opt</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
+             x="40"
+             y="12.758789"
+             id="text133"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan135"
+               x="40"
                y="12.758789">[nextNS &gt; iface::retransTime]</tspan></text>
+          <g
+             transform="translate(10,25)"
+             id="opt-stale2">
+            <rect
+               style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
+               id="rect138"
+               width="110"
+               height="50"
+               x="0"
+               y="0" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path140"
+               d="M 0,20 25,20 35,10 35,0 0,0 0,20 Z"
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text142"
+               y="12.758789"
+               x="15"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 y="12.758789"
+                 x="15"
+                 id="tspan144"
+                 sodipodi:role="line">opt</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
+               x="40"
+               y="12.758789"
+               id="text146"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan148"
+                 x="40"
+                 y="12.758789">[reset]</tspan></text>
+          </g>
         </g>
       </g>
       <g
@@ -686,7 +762,7 @@
              id="tspan6061"
              x="50"
              y="-4"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'">probe()</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'">probe(reset)</tspan></text>
       </g>
       <use
          x="170"
