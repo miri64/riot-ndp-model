@@ -99,6 +99,9 @@ TODO
 TODO
 
 ## Retransmit Neighbor Solicitation timer event
+![Sequence diagram: Receive packet event](seq_nib_use_case_008.svg)
+(State should be none of the above [UNMANAGED == 0] when OnLinkEntry not in NIB because of previous deletion)
+(Two different types to differentiate in timer, otherwise the same)
 TODO
 
 ## Delayed Neighbor Advertisement timer event

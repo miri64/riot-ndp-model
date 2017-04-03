@@ -96,21 +96,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3962568"
-     inkscape:cx="131.509"
-     inkscape:cy="117.75451"
      inkscape:document-units="px"
-     inkscape:current-layer="sd-main-label"
      showgrid="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1413"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
      showguides="false">
     <inkscape:grid
        type="xygrid"
-       id="grid5201" />
+       id="grid5201"
+       originy="-3" />
   </sodipodi:namedview>
   <metadata
      id="metadata4658">
