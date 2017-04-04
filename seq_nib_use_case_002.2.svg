@@ -278,7 +278,7 @@
         </g>
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 0,50 0,185 m 0,40 0,125"
+           d="m 0,50 0,185 m 0,50 0,115"
            id="path5618"
            inkscape:connector-curvature="0" />
         <g
@@ -513,7 +513,7 @@
              d="M -5,0 -5,155 5,155 5,0"
              id="path6336" />
           <g
-             transform="translate(0,40)"
+             transform="translate(0,50)"
              id="g6346">
             <text
                sodipodi:linespacing="125%"
@@ -526,7 +526,7 @@
                  y="-4"
                  x="65"
                  id="tspan3697"
-                 sodipodi:role="line">«create»</tspan></text>
+                 sodipodi:role="line">addNC(dst)</tspan></text>
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#async-msg-head)"
                d="M 5,0 130,0"
@@ -601,7 +601,7 @@
              sodipodi:role="line"
              id="tspan6391"
              x="40"
-             y="12.758789">[(entry != NULL) &amp;&amp; entry::iface::is6Lo() &amp;&amp; (ipv6_addr_is_link_local(dst))</tspan></text>
+             y="12.758789">[(entry != NULL) &amp;&amp; entry::iface::is6Lo() &amp;&amp; (ipv6_addr_is_link_local(dst))]</tspan></text>
         <path
            id="path6490"
            d="m 0,65 490,0"

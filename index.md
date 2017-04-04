@@ -46,6 +46,7 @@ Lastly, there are the components related to [6LoWPAN's two substitutable feature
 ![NIB: Internal architecture](class_impl.svg)
 
 (**OffLinkEntry** also on non-routers for prefix list.)
+(**OnLinkEntry**::addNC(): cstate == creation state == state if entry is created)
 
 # Use-cases
 ## Initialize interface
@@ -78,7 +79,8 @@ TODO
 ![Sequence diagram: Receive packet event](seq_nib_use_case_007.svg)
 
 ### Handle Neighbor Solicitation
-TODO
+![Sequence diagram: Handle neighbor solicitation](seq_nib_use_case_007.1.svg)
+(nbr_sol_t::isValid(), see [RFC4861])
 
 ### Handle Neighbor Advertisement
 TODO
@@ -96,6 +98,30 @@ TODO
 TODO
 
 ### Handle Duplicate Address Confirmation
+TODO
+
+### Handle Source Link-Layer Address Option
+TODO
+
+### Handle Target Link-Layer Address Option
+TODO
+
+### Handle Prefix Information Option
+TODO
+
+### Handle Redirect Header Option
+TODO
+
+### Handle MTU Option
+TODO
+
+### Handle Address Registration Option
+TODO
+
+### Handle 6LoWPAN Context Option
+TODO
+
+### Handle Authoritative Border Router Option
 TODO
 
 ## Retransmit Neighbor Solicitation timer event
@@ -185,3 +211,5 @@ TODO
 
 ## Remove 6LoWPAN compression context
 TODO
+
+[RFC4861]: https://tools.ietf.org/html/rfc4861
