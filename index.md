@@ -83,7 +83,8 @@ TODO
 (nbr_sol_t::isValid(), see [RFC4861])
 
 ### Handle Neighbor Advertisement
-TODO
+![Sequence diagram: Handle neighbor advertisement](seq_nib_use_case_007.2.svg)
+(nbr_adv_t::isValid(), see [RFC4861])
 
 ### Handle Router Solicitation
 TODO
@@ -103,7 +104,7 @@ TODO
 ### Handle Source Link-Layer Address Option
 TODO
 
-### Handle Target Link-Layer Address Option
+### Handle advertised link-layer
 TODO
 
 ### Handle Prefix Information Option
@@ -116,7 +117,7 @@ TODO
 TODO
 
 ### Handle Address Registration Option
-TODO
+TODO (Send DAR!!)
 
 ### Handle 6LoWPAN Context Option
 TODO
