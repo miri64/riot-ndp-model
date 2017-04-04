@@ -102,7 +102,10 @@ TODO
 ![Sequence diagram: Receive packet event](seq_nib_use_case_008.svg)
 (State should be none of the above [UNMANAGED == 0] when OnLinkEntry not in NIB because of previous deletion)
 (Two different types to differentiate in timer, otherwise the same)
+(PROBE behavior according to [RFC7048])
 TODO
+
+[RFC7048]: https://tools.ietf.org/html/rfc7048
 
 ## Delayed Neighbor Advertisement timer event
 (Advertisement of anycast address)
@@ -112,15 +115,16 @@ TODO
 TODO
 
 ## Reachability timeout timer event
-TODO
+![Sequence diagram: Reachability timeout timer event](seq_nib_use_case_011.svg)
 
 ## Delay timeout timer event
-TODO
+![Sequence diagram: Delay timeout timer event](seq_nib_use_case_012.svg)
 
 ## Address registration timeout timer event
 TODO
 
 ## 6LoWPAN Context timeout timer event
+TODO
 
 ## Authoritive Border Router timeout timer event
 TODO
@@ -146,6 +150,12 @@ TODO
 ## Send final unsolicited Router Advertisement timer event
 TODO
 
+## Add address to interface
+TODO
+
+## Remove address from interface
+TODO
+
 ## Set neighbor cache entry externally
 TODO
 
@@ -165,4 +175,10 @@ TODO
 TODO
 
 ## Set reactive routing callback
+TODO
+
+## Set 6LoWPAN compression context
+TODO
+
+## Remove 6LoWPAN compression context
 TODO

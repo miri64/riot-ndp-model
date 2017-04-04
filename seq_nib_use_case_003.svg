@@ -88,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -650,14 +650,14 @@
         <text
            sodipodi:linespacing="125%"
            id="text6493"
-           y="172.75879"
+           y="177.75879"
            x="40"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
            xml:space="preserve"><tspan
              y="177.75879"
              x="40"
              id="tspan6495"
-             sodipodi:role="line">[entry::getState() == INCOMPLETE]</tspan></text>
+             sodipodi:role="line">[entry::getState() ∊ {INCOMPLETE, UNREACHABLE}]</tspan></text>
         <g
            transform="translate(10,220)"
            id="opt-rate-limit">
