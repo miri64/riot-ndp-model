@@ -150,6 +150,9 @@ TODO
 ## Send final unsolicited Router Advertisement timer event
 TODO
 
+## Wake-up from sleep
+TODO
+
 ## Add address to interface
 TODO
 

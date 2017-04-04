@@ -467,7 +467,7 @@
              id="tspan5644"
              sodipodi:role="line"
              x="-108"
-             y="66.237503">+ next_hop : ipv6_addt_t</tspan><tspan
+             y="66.237503">+ nextHop : ipv6_addt_t</tspan><tspan
              id="tspan5650"
              sodipodi:role="line"
              x="-108"
@@ -525,7 +525,7 @@
                style="fill:none"
                id="tspan5690">0000000</tspan><tspan
                style="text-decoration: underline;text-decoration-line: underline"
-               id="tspan3690">next_hop : ipv6_addr_t,</tspan></tspan><tspan
+               id="tspan3690">nextHop : ipv6_addr_t,</tspan></tspan><tspan
              y="196.2375"
              x="-108"
              sodipodi:role="line"
@@ -769,7 +769,7 @@
              id="tspan5291"
              sodipodi:role="line"
              x="-68"
-             y="66.237503">+ next_hop : ipv6_addr_t</tspan></text>
+             y="66.237503">+ nextHop : ipv6_addr_t</tspan></text>
         <path
            inkscape:connector-curvature="0"
            id="path5326"
