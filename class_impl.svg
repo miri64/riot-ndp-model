@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="762"
-   height="922"
-   viewBox="0 0 762 922"
+   height="907"
+   viewBox="0 0 762 907"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -126,7 +126,7 @@
       <rect
          y="0"
          x="0"
-         height="920"
+         height="905"
          width="760"
          id="sd-main-frame"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -182,7 +182,7 @@
       </g>
       <g
          id="evtimer"
-         transform="translate(620,20)">
+         transform="translate(630,20)">
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
            id="rect3481"
@@ -209,9 +209,9 @@
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
            id="rect4218-9"
-           width="290"
+           width="280"
            height="470"
-           x="-145"
+           x="-140"
            y="0" />
         <text
            xml:space="preserve"
@@ -227,17 +227,17 @@
              id="tspan5460">NIBImpl</tspan></text>
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m -145,15 290,0"
+           d="m -140,15 280,0"
            id="path4220-9"
            inkscape:connector-curvature="0" />
         <text
            id="text6517"
            y="31.237492"
-           x="-143"
+           x="-138"
            xml:space="preserve"
            sodipodi:linespacing="120%"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
-             x="-143"
+             x="-138"
              y="31.237492"
              sodipodi:role="line"
              id="tspan5161"
@@ -245,16 +245,16 @@
         <path
            inkscape:connector-curvature="0"
            id="path6521"
-           d="m -145,40 290,0"
+           d="m -140,40 280,0"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <text
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            sodipodi:linespacing="120%"
            xml:space="preserve"
-           x="-143"
+           x="-138"
            y="56.237488"
            id="text4688"><tspan
-             x="-143"
+             x="-138"
              y="56.237488"
              sodipodi:role="line"
              id="tspan4718">– <tspan
@@ -263,13 +263,13 @@
              id="tspan4722"
              sodipodi:role="line"
              y="71.237488"
-             x="-143">– <tspan
+             x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4724">handleNbrSol(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
              id="tspan4726"
              sodipodi:role="line"
              y="86.237488"
-             x="-143"><tspan
+             x="-138"><tspan
                id="tspan4728"
                style="fill:none">0000000</tspan><tspan
                id="tspan4730"
@@ -277,13 +277,13 @@
              id="tspan4732"
              sodipodi:role="line"
              y="101.23749"
-             x="-143">– <tspan
+             x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4734">handleNbrAdv(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
              id="tspan4736"
              sodipodi:role="line"
              y="116.23749"
-             x="-143"><tspan
+             x="-138"><tspan
                id="tspan4738"
                style="fill:none">0000000</tspan><tspan
                id="tspan4740"
@@ -292,13 +292,13 @@
              sodipodi:role="line"
              style="fill:#800000"
              y="131.23749"
-             x="-143">– <tspan
+             x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4744">handleRtrSol(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
              id="tspan4746"
              sodipodi:role="line"
              y="146.23749"
-             x="-143"><tspan
+             x="-138"><tspan
                id="tspan4748"
                style="fill:none">0000000</tspan><tspan
                id="tspan4750"
@@ -306,13 +306,13 @@
              id="tspan4752"
              sodipodi:role="line"
              y="161.23749"
-             x="-143">– <tspan
+             x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4754">handleRtrAdv(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
              id="tspan4756"
              sodipodi:role="line"
              y="176.23749"
-             x="-143"><tspan
+             x="-138"><tspan
                id="tspan4758"
                style="fill:none">0000000</tspan><tspan
                id="tspan4760"
@@ -321,13 +321,13 @@
              sodipodi:role="line"
              style="fill:#2ad4ff"
              y="191.23749"
-             x="-143">– <tspan
+             x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4764">handleRedirect(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
              id="tspan4766"
              sodipodi:role="line"
              y="206.23749"
-             x="-143"><tspan
+             x="-138"><tspan
                id="tspan4768"
                style="fill:none">0000000</tspan><tspan
                id="tspan4770"
@@ -336,13 +336,13 @@
              sodipodi:role="line"
              style="fill:#800080"
              y="221.23749"
-             x="-143">– <tspan
+             x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4774">handleDAR(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
              id="tspan4776"
              sodipodi:role="line"
              y="236.23749"
-             x="-143"><tspan
+             x="-138"><tspan
                id="tspan4778"
                style="fill:none">0000000</tspan><tspan
                id="tspan4780"
@@ -351,13 +351,13 @@
              sodipodi:role="line"
              style="fill:#800080"
              y="251.2375"
-             x="-143">– <tspan
+             x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4784">handleDAC(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
              id="tspan4786"
              sodipodi:role="line"
              y="266.23749"
-             x="-143"><tspan
+             x="-138"><tspan
                id="tspan4788"
                style="fill:none">0000000</tspan><tspan
                id="tspan4790"
@@ -365,10 +365,10 @@
              id="tspan4792"
              sodipodi:role="line"
              y="281.23749"
-             x="-143">– <tspan
+             x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4794">handleSndNSEvent(nbr : OnLinkEntry)</tspan></tspan><tspan
-             x="-143"
+             x="-138"
              y="296.23749"
              sodipodi:role="line"
              id="tspan4796">– <tspan
@@ -377,24 +377,24 @@
              id="tspan4800"
              sodipodi:role="line"
              y="311.23749"
-             x="-143">– <tspan
+             x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4802">handleReconfirmRouterEvent(nbr : OnLinkEntry)</tspan></tspan><tspan
              id="tspan4804"
              sodipodi:role="line"
              style="fill:#808000"
              y="326.23749"
-             x="-143">– <tspan
+             x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4806">handleNUDReachTimeout(nbr : OnLinkEntry)</tspan></tspan><tspan
-             x="-143"
+             x="-138"
              y="341.23749"
              sodipodi:role="line"
              style="fill:#808000"
              id="tspan4808">– <tspan
    id="tspan4810"
    style="text-decoration: underline;text-decoration-line: underline">handleNUDDelayTimeout(nbr : OnLinkEntry)</tspan></tspan><tspan
-             x="-143"
+             x="-138"
              y="356.23749"
              sodipodi:role="line"
              style="fill:#800080"
@@ -405,10 +405,10 @@
              sodipodi:role="line"
              style="fill:#008000"
              y="371.23749"
-             x="-143">– <tspan
+             x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4822">handle6LoCtxTimeout(ctx : void*)</tspan></tspan><tspan
-             x="-143"
+             x="-138"
              y="386.23749"
              sodipodi:role="line"
              style="fill:#008000"
@@ -418,10 +418,10 @@
              id="tspan4828"
              sodipodi:role="line"
              y="401.23749"
-             x="-143">– <tspan
+             x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4830">handlePrefixTimeout(pfx : OffLinkEntry)</tspan></tspan><tspan
-             x="-143"
+             x="-138"
              y="416.23749"
              style="fill:#800000"
              sodipodi:role="line"
@@ -431,10 +431,10 @@
              id="tspan4836"
              sodipodi:role="line"
              y="431.23749"
-             x="-143">– <tspan
+             x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4838">handleRtrTimeout(rtr : DefaultRouter)</tspan></tspan><tspan
-             x="-143"
+             x="-138"
              y="446.23752"
              sodipodi:role="line"
              style="fill:#ffcc00"
@@ -445,13 +445,13 @@
              sodipodi:role="line"
              style="fill:#ff6600"
              y="461.23752"
-             x="-143">– <tspan
+             x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4846">handleSndMCRAEvent(netif : NetIf, type : u16_t)</tspan></tspan></text>
       </g>
       <g
          id="lookup-evtimer"
-         transform="translate(620,80)">
+         transform="translate(630,80)">
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
            id="rect3517"
@@ -494,7 +494,7 @@
              sodipodi:role="line">+ lookup(ctx : void*, type : u16_t) : u32</tspan></text>
       </g>
       <g
-         transform="translate(620,140)"
+         transform="translate(630,140)"
          id="netif">
         <rect
            y="0"
@@ -555,12 +555,12 @@
       </g>
       <g
          id="on-link-entry"
-         transform="translate(620,290)">
+         transform="translate(630,280)">
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
            id="rect4218"
            width="220"
-           height="275"
+           height="395"
            x="-110"
            y="0" />
         <text
@@ -619,8 +619,7 @@
              sodipodi:role="line"
              x="-108"
              y="121.2375"
-             id="tspan5535"
-             style="fill:#7f7f00;fill-opacity:1">– infoFlags : u16_t</tspan><tspan
+             id="tspan5535">– infoFlags : u16_t</tspan><tspan
              sodipodi:role="line"
              x="-108"
              y="136.2375"
@@ -643,43 +642,93 @@
              sodipodi:role="line"
              id="tspan5175"># <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan3672">resolveAddress(dst : ipv6_addr_t,</tspan></tspan><tspan
-             y="176.2375"
-             x="-108"
+   id="tspan3853">delNextHop(entry : OnLinkEntry,</tspan></tspan><tspan
              sodipodi:role="line"
-             id="tspan5179"><tspan
-               style="fill:none"
-               id="tspan4278">00000</tspan><tspan
-               style="text-decoration: underline;text-decoration-line: underline"
-               id="tspan3674">iface : NetIf, pkt : gnrc_pktsnip_t,</tspan></tspan><tspan
+             x="-108"
+             y="176.2375"
+             style="text-decoration: underline;text-decoration-line: underline"
+             id="tspan3865"><tspan
+   style="text-decoration: underline;text-decoration-line: underline;fill:none"
+   id="tspan4518">00000</tspan>NetIf iface, mode : u8_t)</tspan><tspan
              y="191.2375"
              x="-108"
              sodipodi:role="line"
-             id="tspan5221"><tspan
-               style="fill:none"
-               id="tspan4292">00000</tspan><tspan
-               style="text-decoration: underline;text-decoration-line: underline"
-               id="tspan3676">entry : OnLinkEntry) : NIB_NC</tspan></tspan><tspan
+             id="tspan3847"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan3855">delNC(entry : OnLinkEntry, iface : NetIf)</tspan></tspan><tspan
              y="206.2375"
              x="-108"
              sodipodi:role="line"
-             id="tspan4494"># probe(reset : bool = TRUE)</tspan><tspan
+             id="tspan3759"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan3857">addNextHop(ipv6 : ipv6_addr_t,</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="-108"
              y="221.2375"
+             style="text-decoration: underline;text-decoration-line: underline"
+             id="tspan151"><tspan
+   style="text-decoration: underline;text-decoration-line: underline;fill:none"
+   id="tspan153">00000</tspan>NetIf iface,</tspan><tspan
+             sodipodi:role="line"
+             x="-108"
+             y="236.2375"
+             style="text-decoration: underline;text-decoration-line: underline"
+             id="tspan155"><tspan
+   style="text-decoration: underline;text-decoration-line: underline;fill:none"
+   id="tspan157">00000</tspan>mode : u8_t) : OnLinkEntry</tspan><tspan
+             y="251.2375"
+             x="-108"
+             sodipodi:role="line"
+             id="tspan3841"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan3859">addNC(ipv6 : ipv6_addr_t,</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="-108"
+             y="266.2375"
+             style="text-decoration: underline;text-decoration-line: underline"
+             id="tspan161"><tspan
+   style="text-decoration: underline;text-decoration-line: underline;fill:none"
+   id="tspan163">00000</tspan>NetIf iface) : OnLinkEntry</tspan><tspan
+             y="281.23752"
+             x="-108"
+             sodipodi:role="line"
+             id="tspan3757"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan166">resolveAddress(dst : ipv6_addr_t,</tspan></tspan><tspan
+             y="296.23752"
+             x="-108"
+             sodipodi:role="line"
+             style="text-decoration: underline;text-decoration-line: underline"
+             id="tspan5179"><tspan
+   style="text-decoration: underline;text-decoration-line: underline;fill:none"
+   id="tspan4278">00000</tspan>iface : NetIf, pkt : gnrc_pktsnip_t,</tspan><tspan
+             y="311.23752"
+             x="-108"
+             sodipodi:role="line"
+             style="text-decoration: underline;text-decoration-line: underline"
+             id="tspan5221"><tspan
+   style="text-decoration: underline;text-decoration-line: underline;fill:none"
+   id="tspan4292">00000</tspan>entry : OnLinkEntry) : NIB_NC</tspan><tspan
+             y="326.23752"
+             x="-108"
+             sodipodi:role="line"
+             id="tspan3722"># probe(reset : bool = TRUE)</tspan><tspan
+             y="341.23752"
              x="-108"
              sodipodi:role="line"
              style="fill:#000000"
-             id="tspan6389"># getNC() : NIB_NC</tspan><tspan
-             y="236.2375"
+             id="tspan3718"># getNC() : NIB_NC</tspan><tspan
+             y="356.23752"
              x="-108"
              sodipodi:role="line"
              style="fill:#000000"
              id="tspan6395"># getState() : unsigned</tspan><tspan
-             y="251.2375"
+             y="371.23752"
              x="-108"
              sodipodi:role="line"
              style="fill:#000000"
              id="tspan4415"># setState(unsigned)</tspan><tspan
-             y="266.23752"
+             y="386.23752"
              x="-108"
              sodipodi:role="line"
              style="fill:#008000;fill-opacity:1"
@@ -687,13 +736,13 @@
       </g>
       <g
          id="def-rtr"
-         transform="translate(150,585)">
+         transform="translate(135,565)">
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
            id="rect4155"
-           width="160"
-           height="95"
-           x="-80"
+           width="170"
+           height="125"
+           x="-85"
            y="0" />
         <text
            xml:space="preserve"
@@ -709,7 +758,7 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'">DefaultRouter</tspan></text>
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M -80,15 80,15"
+           d="M -85,15 85,15"
            id="path4161"
            inkscape:connector-curvature="0" />
         <text
@@ -726,7 +775,7 @@
         <path
            inkscape:connector-curvature="0"
            id="path3672"
-           d="M -80,40 80,40"
+           d="M -85,40 85,40"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <text
            sodipodi:linespacing="125%"
@@ -738,23 +787,38 @@
              y="56.237499"
              x="-78"
              sodipodi:role="line"
-             id="tspan4025"># getCurrent() : DefaultRouter</tspan><tspan
+             id="tspan4025"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan3798">delDRL(entry : DefaultRouter)</tspan></tspan><tspan
              y="71.862503"
              x="-78"
              sodipodi:role="line"
-             id="tspan4469"># getDRL() : NIB_DRL</tspan><tspan
+             id="tspan3775"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan3796">addDRL(nh : ipv6_addr_t,</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="-78"
              y="87.487503"
+             style="text-decoration: underline;text-decoration-line: underline"
+             id="tspan190"><tspan
+   style="text-decoration: underline;text-decoration-line: underline;fill:none"
+   id="tspan192">000</tspan>NetIf iface) : DefaultRouter</tspan><tspan
+             y="103.1125"
              x="-78"
              sodipodi:role="line"
-             id="tspan4467"># getFT() : NIB_FT</tspan></text>
+             id="tspan3773"># getCurrent() : DefaultRouter</tspan><tspan
+             y="118.7375"
+             x="-78"
+             sodipodi:role="line"
+             id="tspan3771"># getDRL() : NIB_DRL</tspan></text>
       </g>
       <g
          id="route-entry"
-         transform="translate(390,585)">
+         transform="translate(375,565)">
         <rect
            y="0"
            x="-135"
-           height="60"
+           height="105"
            width="270"
            id="rect4138"
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -765,35 +829,61 @@
            x="0"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
-             y="12.3"
-             x="0"
-             id="tspan4475"
-             sodipodi:role="line">«interface»</tspan><tspan
              id="tspan4477"
              style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold Italic'"
-             y="29.692602"
+             y="12.3"
              x="0"
              sodipodi:role="line">RouteEntry</tspan></text>
         <path
            inkscape:connector-curvature="0"
            id="path4523"
-           d="m -135,35 270,0"
+           d="m -135,15 270,0"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <text
            sodipodi:linespacing="125%"
            id="text4527"
-           y="51.237499"
+           y="31.237499"
            x="-133"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             y="51.237499"
+             y="31.237499"
              x="-133"
              id="tspan4529"
-             sodipodi:role="line"># getLinkLayerAddr(pkt : gnrc_pktsnip_t) : NIB_NC </tspan></text>
+             sodipodi:role="line"
+             style="fill:#800000"># <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Italic';text-decoration: underline;text-decoration-line: underline"
+   id="tspan3767">delFT(entry : RouteEntry)</tspan></tspan><tspan
+             y="46.862499"
+             x="-133"
+             sodipodi:role="line"
+             id="tspan3810"
+             style="fill:#800000"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan3820">addFT(pfx : ipv6_addr_t, pfxLen : unsigned,</tspan></tspan><tspan
+             y="62.487499"
+             x="-133"
+             sodipodi:role="line"
+             style="text-decoration: underline;text-decoration-line: underline;fill:#800000"
+             id="tspan3814"><tspan
+   style="text-decoration: underline;text-decoration-line: underline;fill:none"
+   id="tspan207">0000000</tspan>NetIf iface) : RouteEntry</tspan><tspan
+             y="78.237499"
+             x="-133"
+             sodipodi:role="line"
+             id="tspan3765"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Italic'"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
+   id="tspan3818"># </tspan>getLinkLayerAddr(pkt : gnrc_pktsnip_t) : NIB_NC</tspan><tspan
+             y="93.737503"
+             x="-133"
+             sodipodi:role="line"
+             id="tspan3750"
+             style="fill:#800000"># <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Italic'"
+   id="tspan3783">getFT() : NIB_FT  </tspan></tspan></text>
       </g>
       <g
-         transform="translate(620,610)"
+         transform="translate(630,710)"
          id="nib-nc">
         <rect
            y="0"
@@ -821,12 +911,12 @@
              sodipodi:role="line">NIB_NC</tspan></text>
       </g>
       <g
-         transform="translate(390,730)"
+         transform="translate(375,690)"
          id="off-link-entry">
         <rect
            y="0"
            x="-125"
-           height="140"
+           height="200"
            width="250"
            id="rect4179"
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -888,24 +978,51 @@
              y="101.2375"
              style="fill:#000080"># <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan3928">addDC(ipv6_addr_t *dst, ipv6_addr_t *nh</tspan>,</tspan><tspan
+   id="tspan3871">delDC(entry : OffLinkEntry)</tspan></tspan><tspan
              sodipodi:role="line"
              x="-123"
              y="116.2375"
-             id="tspan4516"
-             style="text-decoration: underline;text-decoration-line: underline;fill:#000080"><tspan
-   style="text-decoration: underline;text-decoration-line: underline;fill:none"
-   id="tspan4518">0000000</tspan>NetIf iface) : OffLinkEntry</tspan><tspan
+             style="fill:#000000"
+             id="tspan3861"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan233">delPL(entry : OffLinkEntry)</tspan></tspan><tspan
              sodipodi:role="line"
              x="-123"
              y="131.2375"
-             id="tspan6062"># <tspan
+             style="fill:#000080"
+             id="tspan3785"># <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan3924">getBestMatch() : OffLinkEntry</tspan></tspan></text>
+   id="tspan236">addDC(ipv6_addr_t *dst, ipv6_addr_t *nh,</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="-123"
+             y="146.2375"
+             style="text-decoration: underline;text-decoration-line: underline;fill:#000080"
+             id="tspan238"><tspan
+   style="text-decoration: underline;text-decoration-line: underline;fill:none"
+   id="tspan240">0000000</tspan>NetIf iface) : OffLinkEntry</tspan><tspan
+             sodipodi:role="line"
+             x="-123"
+             y="161.2375"
+             id="tspan6062"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline;"
+   id="tspan243">addPL(ipv6_addr_t *pfx, pfxLen : unsigned,</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="-123"
+             y="176.2375"
+             style="text-decoration: underline;text-decoration-line: underline"
+             id="tspan245"><tspan
+   style="text-decoration: underline;text-decoration-line: underline;fill:none"
+   id="tspan247">0000000</tspan>NetIf iface) : OffLinkEntry</tspan><tspan
+             sodipodi:role="line"
+             x="-123"
+             y="191.2375"
+             id="tspan3873"># <tspan
+   style="text-decoration: underline;text-decoration-line: underline;"
+   id="tspan250">getBestMatch() : OffLinkEntry</tspan></tspan></text>
       </g>
       <g
          id="nib-ft"
-         transform="translate(195,730)">
+         transform="translate(190,710)">
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
            id="rect5630"
@@ -933,7 +1050,7 @@
       </g>
       <g
          id="nib-dc"
-         transform="translate(620,782.5)">
+         transform="translate(610,782.5)">
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
            id="rect5271"
@@ -960,7 +1077,7 @@
              id="tspan5277">NIB_DC</tspan></text>
       </g>
       <g
-         transform="translate(620,835)"
+         transform="translate(610,835)"
          id="nib-pl">
         <rect
            y="0"
@@ -997,7 +1114,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="translate(620,80)"
+         transform="translate(630,80)"
          id="inherit-evtimer-msg-lookup-evtimer">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#inherit)"
@@ -1007,44 +1124,44 @@
       </g>
       <g
          id="inherit-route-entry-def-rtr"
-         transform="translate(230,615)">
+         transform="translate(220,595)">
         <path
            inkscape:connector-curvature="0"
            id="path3654"
-           d="M 0,0 25,0"
+           d="M 0,0 20,0"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#inherit)" />
       </g>
       <g
-         transform="translate(390,730)"
+         transform="translate(375,690)"
          id="inherit-route-entry-off-link-entry">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#inherit)"
-           d="M 0,0 0,-85"
+           d="M 0,0 0,-20"
            id="path3991"
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="translate(620,610)"
+         transform="translate(630,710)"
          id="dep-on-link-entry-nib-nc">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep)"
-           d="M 0,0 0,-45"
+           d="M 0,0 0,-35"
            id="path4661"
            inkscape:connector-curvature="0" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="2"
-           y="-19.349386"
+           y="-14.349385"
            id="text3981"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3983"
              x="2"
-             y="-19.349386">«basedOn»</tspan></text>
+             y="-14.349385">«basedOn»</tspan></text>
       </g>
       <g
-         transform="translate(105,730)"
+         transform="translate(90,710)"
          id="nib-drl">
         <rect
            y="0"
@@ -1073,102 +1190,103 @@
       </g>
       <g
          id="dep-def-rtr-nib-drl"
-         transform="translate(105,730)">
+         transform="translate(90,710)">
         <path
+           transform="translate(0,6)v"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep)"
-           d="M 0,0 0,-50"
+           d="M 0,0 0,-20"
            id="path5352"
            inkscape:connector-curvature="0" />
         <text
            sodipodi:linespacing="125%"
            id="text5354"
-           y="-22.849386"
+           y="-2.849386"
            x="2"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             y="-22.849386"
+             y="-2.849386"
              x="2"
              id="tspan5356"
              sodipodi:role="line">«basedOn»</tspan></text>
       </g>
       <g
          id="dep-def-rtr-nib-ft"
-         transform="translate(195,730)">
+         transform="translate(190,710)">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep-rtr)"
-           d="M 0,0 0,-50"
+           d="M 0,0 0,-20"
            id="path3622"
            inkscape:connector-curvature="0" />
         <text
            sodipodi:linespacing="125%"
            id="text3624"
-           y="-22.849386"
+           y="-2.849386"
            x="2"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             y="-22.849386"
+             y="-2.849386"
              x="2"
              id="tspan3626"
              sodipodi:role="line">«basedOn»</tspan></text>
       </g>
       <g
-         transform="translate(195,765)"
+         transform="translate(190,745)"
          id="dep-off-link-entry-nib-ft">
         <path
            inkscape:connector-curvature="0"
            id="path4003"
-           d="m 0,0 0,15 70,0"
+           d="m 0,0 0,15 55,0"
            style="fill:none;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep-rtr)" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="30"
-           y="13"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-2"
+           y="14.139754"
            id="text4005"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan4007"
-             x="30"
-             y="13">«basedOn»</tspan></text>
+             x="-2"
+             y="14.139754">«basedOn»</tspan></text>
       </g>
       <g
          id="dep-off-link-entry-nib-dc"
-         transform="translate(580,800)">
+         transform="translate(570,800)">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep-dc)"
-           d="M 0,0 -65,0"
+           d="M 0,0 -70,0"
            id="path4011"
            inkscape:connector-curvature="0" />
         <text
            sodipodi:linespacing="125%"
            id="text4013"
            y="-2"
-           x="-27.5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           x="-35"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
              y="-2"
-             x="-27.5"
+             x="-35"
              id="tspan4015"
              sodipodi:role="line">«basedOn»</tspan></text>
       </g>
       <g
-         transform="translate(580,852.5)"
+         transform="translate(570,852.5)"
          id="dep-off-link-entry-nib-pl">
         <path
            inkscape:connector-curvature="0"
            id="path4019"
-           d="M 0,0 -65,0"
+           d="M 0,0 -70,0"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep)" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="-27.5"
+           x="-35"
            y="-2"
            id="text4021"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan4023"
-             x="-27.5"
+             x="-35"
              y="-2">«basedOn»</tspan></text>
       </g>
       <g
@@ -1176,7 +1294,7 @@
          id="assoc-lookup-evtimer-evtimer-msg">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)"
-           d="M 0,0 70,0"
+           d="M 0,0 80,0"
            id="path3564"
            inkscape:connector-curvature="0" />
         <text
@@ -1205,11 +1323,11 @@
    id="tspan3656">evtimer</tspan></tspan></text>
       </g>
       <g
-         transform="translate(620,290)"
+         transform="translate(630,280)"
          id="assoc-netif-on-link-entry">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)"
-           d="M 0,0 0,-35"
+           d="M 0,0 0,-25"
            id="path5876"
            inkscape:connector-curvature="0" />
         <text
@@ -1236,11 +1354,11 @@
              y="-2"># iface</tspan></text>
       </g>
       <g
-         transform="translate(445,420)"
+         transform="translate(440,420)"
          id="assoc-on-link-entry-nib">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)"
-           d="M 0,0 65,0"
+           d="M 0,0 80,0"
            id="path3932"
            inkscape:connector-curvature="0" />
         <text
@@ -1269,11 +1387,11 @@
    style="text-decoration: underline;text-decoration-line: underline">onLinks</tspan></tspan></text>
       </g>
       <g
-         transform="translate(155,420)"
+         transform="translate(160,420)"
          id="assoc-off-link-entry-nib">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)"
-           d="m 0,0 -100,0 0,380 210,0"
+           d="m 0,0 -128,0 0,380 220,0"
            id="path3948"
            inkscape:connector-curvature="0" />
         <text
@@ -1303,11 +1421,11 @@
       </g>
       <g
          id="assoc-def-rtr-nib"
-         transform="translate(155,490)">
+         transform="translate(160,490)">
         <path
            inkscape:connector-curvature="0"
            id="path5506"
-           d="m 0,0 -60,0 0,95"
+           d="m 0,0 -60,0 0,75"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)" />
         <text
            xml:space="preserve"
@@ -1336,11 +1454,11 @@
       </g>
       <g
          id="assoc-on-link-entry-route-entry"
-         transform="translate(475,585)">
+         transform="translate(465,565)">
         <path
            inkscape:connector-curvature="0"
            id="path3662"
-           d="m 0,0 0,-95 35,0"
+           d="m 0,0 0,-95 55,0"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)" />
         <text
            xml:space="preserve"
