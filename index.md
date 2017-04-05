@@ -79,11 +79,11 @@ TODO
 ![Sequence diagram: Receive packet event](seq_nib_use_case_007.svg)
 
 ### Handle Neighbor Solicitation
-![Sequence diagram: Handle neighbor solicitation](seq_nib_use_case_007.1.svg)
+![Sequence diagram: Handle neighbor solicitation](seq_nib_use_case_007.01.svg)
 (nbr_sol_t::isValid(), see [RFC4861])
 
 ### Handle Neighbor Advertisement
-![Sequence diagram: Handle neighbor advertisement](seq_nib_use_case_007.2.svg)
+![Sequence diagram: Handle neighbor advertisement](seq_nib_use_case_007.02.svg)
 (nbr_adv_t::isValid(), see [RFC4861])
 
 ### Handle Router Solicitation
@@ -96,7 +96,7 @@ TODO
 TODO
 
 ### Handle advertised link-layer
-![Sequence diagram: Handle advertised link-layer (TLLAO)](seq_nib_use_case_007.6.svg)
+![Sequence diagram: Handle advertised link-layer (TLLAO)](seq_nib_use_case_007.06.svg)
 
 ### Handle Duplicate Address Request
 TODO
@@ -119,6 +119,7 @@ TODO
 
 ### Handle Address Registration Option
 TODO (Send DAR!!)
+![Sequence diagram: Handle Address Registration Option](seq_nib_use_case_007.13.svg)
 
 ### Handle 6LoWPAN Context Option
 TODO
