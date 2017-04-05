@@ -95,6 +95,9 @@ TODO
 ### Handle Redirect
 TODO
 
+### Handle advertised link-layer
+![Sequence diagram: Handle advertised link-layer (TLLAO)](seq_nib_use_case_007.6.svg)
+
 ### Handle Duplicate Address Request
 TODO
 
@@ -104,13 +107,11 @@ TODO
 ### Handle Source Link-Layer Address Option
 TODO
 
-### Handle advertised link-layer
-TODO
-
 ### Handle Prefix Information Option
 TODO
 
 ### Handle Redirect Header Option
+(TLLAO => if NCE created: set STALE)
 TODO
 
 ### Handle MTU Option
