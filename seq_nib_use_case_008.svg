@@ -549,15 +549,15 @@
                sodipodi:role="line"
                x="35"
                y="12.758789"
-               id="tspan4962">[((nbr::getState() = INCOMPLETE) &amp;&amp; (nbr::nsProbe &lt; MAX_MULTICAST_SOLICIT)) ||</tspan><tspan
+               id="tspan4962">[((nbr::getState() == INCOMPLETE) &amp;&amp; (nbr::nsProbe &lt; MAX_MULTICAST_SOLICIT)) ||</tspan><tspan
                sodipodi:role="line"
                x="35"
                y="25.258789"
                id="tspan5594"> ((nbr::getState() == PROBE) &amp;&amp; (nbr::nsProbe &lt; MAX_UNICAST_SOLICIT)) ||</tspan><tspan
                sodipodi:role="line"
                x="35"
-               y="37.758789"
-               id="tspan5008"> (nbr::getState() == UNREACHABLE)]</tspan></text>
+               y="37.941078"
+               id="tspan5008"> (nbr::getState() ∉ {INCOMPLETE, PROBE, UNMANAGED})]</tspan></text>
           <g
              transform="translate(10,45)"
              id="ref-probe-neighbor1">

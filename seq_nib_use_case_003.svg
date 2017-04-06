@@ -603,7 +603,7 @@
              sodipodi:role="line"
              id="tspan6391"
              x="40"
-             y="12.758789">[entry::getState() == PROBE]</tspan></text>
+             y="12.758789">[entry::getState() ∉ {INCOMPLETE, UNREACHABLE, UNMANAGED}]</tspan></text>
         <g
            transform="translate(10,25)"
            id="opt-reset1">
@@ -657,7 +657,7 @@
              y="177.75879"
              x="40"
              id="tspan6495"
-             sodipodi:role="line">[entry::getState() ∊ {INCOMPLETE, UNREACHABLE}]</tspan></text>
+             sodipodi:role="line">[entry::getState() ∈ {INCOMPLETE, UNREACHABLE}]</tspan></text>
         <g
            transform="translate(10,220)"
            id="opt-rate-limit">

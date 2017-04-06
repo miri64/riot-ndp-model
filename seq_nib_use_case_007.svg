@@ -379,7 +379,7 @@
              sodipodi:role="line"
              id="tspan6391"
              x="40"
-             y="12.758789">[icmpv6_hdr::type ∊ {NBR_SOL, NBR_ADV, <tspan
+             y="12.758789">[icmpv6_hdr::type ∈ {NBR_SOL, NBR_ADV, <tspan
    style="fill:#800000"
    id="tspan3459">RTR_SOL</tspan>, RTR_ADV, <tspan
    style="fill:#2ad4ff"
