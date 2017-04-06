@@ -14,6 +14,8 @@ Depending on the node class certain features are compiled into the RIOT image of
 - features for 6LoWPAN routers (6LR) are marked <span style="color: #800080; font-weight: bold;">purple</span>, and
 - features for 6LoWPAN border routers (6LBR) are marked <span style="color: #008080; font-weight: bold;">teal</span>.
 
+Note, that any node can have any of these classes at any point. This is why additional dynamic checks on an interface if it really is e.g. a 6LoWPAN interface are needed.
+
 Additional to their role in the network there are certain features that are beyond orthogonal to these roles:
 
 - Components and behaviors required for the NDP address resolution state-machine (typically provided on non-6LoWPAN hosts and all routers) are marked <span style="color: #808000; font-weight: bold;">olive</span>,
@@ -81,6 +83,7 @@ TODO
 ### Handle Neighbor Solicitation
 ![Sequence diagram: Handle neighbor solicitation](seq_nib_use_case_007.01.svg)
 (nbr_sol_t::isValid(), see [RFC4861])
+(flags see [RFC4861])
 
 ### Handle Neighbor Advertisement
 ![Sequence diagram: Handle neighbor advertisement](seq_nib_use_case_007.02.svg)
@@ -118,8 +121,12 @@ TODO
 TODO
 
 ### Handle Address Registration Option
-TODO (Send DAR!!)
 ![Sequence diagram: Handle Address Registration Option](seq_nib_use_case_007.13.svg)
+(nbr_sol_t::isValid(), see [RFC6775])
+(x == 'before the Lifetime expires')
+
+### Register address upstream
+![Sequence diagram: Register address upstream](seq_nib_use_case_007.14.svg)
 
 ### Handle 6LoWPAN Context Option
 TODO
@@ -216,3 +223,4 @@ TODO
 TODO
 
 [RFC4861]: https://tools.ietf.org/html/rfc4861
+[RFC6775]: https://tools.ietf.org/html/rfc6775
