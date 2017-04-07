@@ -47,8 +47,11 @@ Lastly, there are the components related to [6LoWPAN's two substitutable feature
 ## Implementation
 ![NIB: Internal architecture](class_impl.svg)
 
+OnLinkEntry::addNC() treats the **OnLinkEntry** collection as a cache:
+
+![Activity diagram: OnLinkEntry::addNC()](act_onlinkentry_addnc.svg)
+
 (**OffLinkEntry** also on non-routers for prefix list.)
-(**OnLinkEntry**::addNC(): cstate == creation state == state if entry is created)
 
 # Use-cases
 ## Initialize interface
