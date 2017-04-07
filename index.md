@@ -157,7 +157,7 @@ TODO
 ![Sequence diagram: Delay timeout timer event](seq_nib_use_case_012.svg)
 
 ## Address registration timeout timer event
-TODO
+![Sequence diagram: Address registration timeout timer event](seq_nib_use_case_013.svg)
 
 ## 6LoWPAN Context timeout timer event
 TODO
