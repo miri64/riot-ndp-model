@@ -322,14 +322,14 @@
              sodipodi:role="line"
              id="tspan4846"
              x="15"
-             y="-4">[((<tspan
+             y="-14">[((<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start"
    id="tspan4870">nce</tspan>::ipv6 == ipv6) || (<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
    id="tspan4365">nce</tspan>::ipv6 == NULL)) &amp;&amp;</tspan><tspan
              sodipodi:role="line"
              x="15"
-             y="6"
+             y="-4"
              id="tspan4362"> (<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
    id="tspan4885">nce</tspan>::iface == iface)]</tspan></text>
@@ -714,7 +714,7 @@
              sodipodi:role="line">[else]</tspan></text>
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#async-msg-head)"
-           d="m 170,-15 0,-35"
+           d="m 170,-15 0,-75"
            id="path4542"
            inkscape:connector-curvature="0" />
       </g>
@@ -836,7 +836,7 @@
    id="tspan4361">nce</tspan>)</tspan></text>
       </g>
       <g
-         transform="translate(440,423)"
+         transform="translate(550,225)"
          id="g4443">
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -861,11 +861,6 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
    id="tspan4455">candidate</tspan>::ipv6 := ipv6</tspan></text>
       </g>
-      <path
-         inkscape:connector-curvature="0"
-         id="path4643"
-         d="m 440,408 0,-25"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#async-msg-head)" />
       <g
          id="g4620"
          transform="translate(440,383)">
@@ -934,8 +929,13 @@
          d="m 455,260 50,0"
          id="path4698"
          inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4700"
+         d="m 550,245 0,-20"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#async-msg-head)" />
       <g
-         transform="translate(550,210)"
+         transform="translate(550,170)"
          id="g4684">
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -964,13 +964,8 @@
              x="0"
              y="9.8099995">cstate)</tspan></text>
       </g>
-      <path
-         inkscape:connector-curvature="0"
-         id="path4700"
-         d="m 550,195 0,-20"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#async-msg-head)" />
       <g
-         transform="translate(550,165)"
+         transform="translate(550,125)"
          id="g4702">
         <circle
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -985,6 +980,11 @@
            id="circle4706"
            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#async-msg-head)"
+         d="m 550,155 0,-20"
+         id="path4368"
+         inkscape:connector-curvature="0" />
       <g
          transform="translate(270,638)"
          id="g4204-5">
@@ -1061,6 +1061,11 @@
              x="2"
              y="23">[no new entry]</tspan></text>
       </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4643"
+         d="m 550,210 0,-25"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#async-msg-head)" />
       <g
          transform="translate(270,738)"
          id="g4457">
