@@ -148,17 +148,20 @@ TODO
 ## Delayed Neighbor Advertisement timer event
 ![Sequence diagram: Delayed Neighbor Advertisement timer event](seq_nib_use_case_009.svg)
 
+## Search router timer event
+TODO
+
 ## Reconfirm router timer event
 TODO
 
 ## Reachability timeout timer event
-![Sequence diagram: Reachability timeout timer event](seq_nib_use_case_011.svg)
+![Sequence diagram: Reachability timeout timer event](seq_nib_use_case_012.svg)
 
 ## Delay timeout timer event
-![Sequence diagram: Delay timeout timer event](seq_nib_use_case_012.svg)
+![Sequence diagram: Delay timeout timer event](seq_nib_use_case_013.svg)
 
 ## Address registration timeout timer event
-![Sequence diagram: Address registration timeout timer event](seq_nib_use_case_013.svg)
+![Sequence diagram: Address registration timeout timer event](seq_nib_use_case_014.svg)
 
 ## 6LoWPAN Context timeout timer event
 TODO
@@ -173,9 +176,6 @@ TODO
 TODO
 
 ## Router timer event
-TODO
-
-## Search router timer event
 TODO
 
 ## Send initial unsolicited Router Advertisement timer event
