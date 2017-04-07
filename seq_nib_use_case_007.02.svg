@@ -495,7 +495,7 @@
                sodipodi:role="line"
                id="tspan4488"
                x="40"
-               y="102.75879">[(nce := OnLinkEntry::findAddr(nbrAdv::tgt)) != NULL]</tspan></text>
+               y="102.75879">[(nce := OnLinkEntry::findNC(nbrAdv::tgt, iface)) != NULL]</tspan></text>
           <g
              transform="translate(10,110)"
              id="loop-opt">
