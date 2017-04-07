@@ -142,13 +142,11 @@ TODO
 (State should be none of the above [UNMANAGED == 0] when OnLinkEntry not in NIB because of previous deletion)
 (Two different types to differentiate in timer, otherwise the same)
 (PROBE behavior according to [RFC7048])
-TODO
 
 [RFC7048]: https://tools.ietf.org/html/rfc7048
 
 ## Delayed Neighbor Advertisement timer event
-(Advertisement of anycast address)
-TODO
+![Sequence diagram: Delayed Neighbor Advertisement timer event](seq_nib_use_case_009.svg)
 
 ## Reconfirm router timer event
 TODO
