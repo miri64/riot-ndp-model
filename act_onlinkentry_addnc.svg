@@ -764,7 +764,7 @@
         <path
            inkscape:connector-curvature="0"
            id="path4383"
-           d="m 15,0 155,0 0,-45"
+           d="m 15,0 155,0 0,-13"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#async-msg-head)" />
         <text
            sodipodi:linespacing="125%"
@@ -806,12 +806,17 @@
       </g>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#async-msg-head)"
-         d="m 440,518 0,-30"
+         d="m 440,513 0,-25"
          id="path4453"
          inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4384"
+         d="m 440,550 0,-22"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#async-msg-head)" />
       <g
          id="g4353"
-         transform="translate(440,533)">
+         transform="translate(440,528)">
         <rect
            id="rect4355"
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -834,6 +839,34 @@
              y="-3.95">delNC(<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
    id="tspan4361">nce</tspan>)</tspan></text>
+      </g>
+      <g
+         transform="translate(440,565)"
+         id="g4371">
+        <rect
+           ry="5"
+           rx="5"
+           y="-15"
+           x="-45"
+           height="15"
+           width="90"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4373" />
+        <text
+           sodipodi:linespacing="125%"
+           y="-3.95"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"
+           id="text4375"><tspan
+             y="-3.95"
+             x="0"
+             sodipodi:role="line"
+             id="tspan4378"><tspan
+   style="-inkscape-font-specification:'Source Sans Pro Bold';font-family:'Source Sans Pro';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4382">candidate</tspan> := <tspan
+   id="tspan4380"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'">nce</tspan></tspan></text>
       </g>
       <g
          transform="translate(550,225)"
