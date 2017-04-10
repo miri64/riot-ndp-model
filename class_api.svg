@@ -267,7 +267,7 @@
              y="246.2375"
              sodipodi:role="line"
              id="tspan5161"
-             style="fill:#ff6600">+ SND_MC_RA : u16_t = 0x4fcd</tspan></text>
+             style="fill:#800000">+ SND_MC_RA : u16_t = 0x4fcd</tspan></text>
         <path
            inkscape:connector-curvature="0"
            id="path6521"
