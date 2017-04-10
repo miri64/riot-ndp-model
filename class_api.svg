@@ -261,8 +261,7 @@
              x="-163"
              y="231.2375"
              sodipodi:role="line"
-             id="tspan5159"
-             style="fill:#ffcc00">+ SEARCH_RTR : u16_t = 0x4fcc</tspan><tspan
+             id="tspan5159">+ SEARCH_RTR : u16_t = 0x4fcc</tspan><tspan
              x="-163"
              y="246.2375"
              sodipodi:role="line"
@@ -501,7 +500,7 @@
                id="tspan5663"
                style="fill:none">0000000</tspan><tspan
                style="text-decoration: underline;text-decoration-line: underline"
-               id="tspan3682">ctx : gnrc_pktsnip_t)</tspan></tspan><tspan
+               id="tspan3682">ctx : gnrc_pktsnip_t) : int</tspan></tspan><tspan
              id="tspan5665"
              y="136.2375"
              x="-108"
@@ -555,7 +554,7 @@
              sodipodi:role="line"
              id="tspan5673">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan3696">iter() : NIB_FT</tspan></tspan></text>
+   id="tspan3696">iter(nextHop : ipv6_addr_t) : NIB_FT</tspan></tspan></text>
       </g>
       <g
          transform="translate(200,405)"

@@ -10,12 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="742"
-   viewBox="0 0 742 227"
+   viewBox="0 0 742 192"
    id="svg4653"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="seq_nib_use_case_012.svg"
-   height="227">
+   sodipodi:docname="seq_nib_use_case_011.svg"
+   height="192">
   <defs
      id="defs4655">
     <style
@@ -195,7 +195,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -209,7 +209,7 @@
       <rect
          y="0"
          x="0"
-         height="225"
+         height="190"
          width="740"
          id="sd-main-frame"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -233,7 +233,7 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
              id="tspan24">sd</tspan><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
-             id="tspan26"> Delay timeout timer event</tspan></text>
+             id="tspan26"> Reachability timeout timer event</tspan></text>
       </g>
       <g
          id="on-link-entry"
@@ -262,7 +262,7 @@
         <path
            inkscape:connector-curvature="0"
            id="path4122"
-           d="M 0,10 0,180"
+           d="M 0,10 0,145"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1" />
         <g
            transform="translate(0,100)"
@@ -270,13 +270,13 @@
           <rect
              y="0"
              x="-5"
-             height="45"
+             height="10"
              width="10"
              id="rect4126"
              style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
           <g
              id="g4140"
-             transform="translate(0,45)">
+             transform="translate(0,10)">
             <path
                inkscape:connector-curvature="0"
                id="path4142"
@@ -311,7 +311,7 @@
         </g>
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 0,10 0,180"
+           d="M 0,10 0,145"
            id="path5618"
            inkscape:connector-curvature="0" />
         <g
@@ -321,7 +321,7 @@
              style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
              id="rect5620"
              width="10"
-             height="75"
+             height="40"
              x="-5"
              y="0" />
           <g
@@ -343,7 +343,7 @@
                  id="tspan3563"
                  x="7"
                  y="-4"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start">handleNUDDelayTimeout(nbr : OnLinkEntry)</tspan></text>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start">handleNUDDelayTimeout(nbr)</tspan></text>
           </g>
           <g
              id="g4097"
@@ -352,7 +352,7 @@
                style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
                id="rect3879"
                width="10"
-               height="55"
+               height="20"
                x="-5"
                y="0" />
             <g
@@ -374,11 +374,11 @@
                    y="-4"
                    x="102.5"
                    id="tspan4154"
-                   sodipodi:role="line">nbr::setState(PROBE)</tspan></text>
+                   sodipodi:role="line">nbr::setState(STALE)</tspan></text>
             </g>
           </g>
           <g
-             transform="translate(0,75)"
+             transform="translate(0,40)"
              id="g5954">
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#async-msg-head)"
@@ -415,7 +415,7 @@
         <path
            inkscape:connector-curvature="0"
            id="path5256"
-           d="M 0,10 0,180"
+           d="M 0,10 0,145"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1" />
         <g
            id="g4538"
@@ -423,7 +423,7 @@
           <rect
              y="0"
              x="-5"
-             height="130"
+             height="95"
              width="10"
              id="rect5607"
              style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -456,7 +456,7 @@
         <rect
            y="0"
            x="0"
-           height="110"
+           height="75"
            width="305"
            id="rect6301"
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -476,44 +476,6 @@
              id="tspan6307"
              x="20"
              y="12.758789">critical</tspan></text>
-        <g
-           transform="translate(190,55)"
-           id="ref-handle-rtr-adv">
-          <rect
-             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
-             id="rect3722"
-             width="105"
-             height="30"
-             x="0"
-             y="0" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path3724"
-             d="M 0,20 25,20 35,10 35,0 0,0 0,20 Z"
-             style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <text
-             sodipodi:linespacing="125%"
-             id="text3726"
-             y="12.758789"
-             x="15"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               y="12.758789"
-               x="15"
-               id="tspan3728"
-               sodipodi:role="line">ref</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg-3-3-6)"
-             x="70"
-             y="17.780001"
-             id="text3730"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               id="tspan3732"
-               x="70"
-               y="17.780001">Probe Neighbor</tspan></text>
-        </g>
       </g>
       <g
          id="evtimer-lifeline"
@@ -539,7 +501,7 @@
              sodipodi:role="line">evtimer</tspan></text>
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 0,25 0,180"
+           d="M 0,25 0,145"
            id="path5238"
            inkscape:connector-curvature="0" />
         <g
@@ -561,7 +523,7 @@
                id="tspan5392"
                x="70"
                y="-2.5"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'">DELAY_TIMEOUT</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'">REACH_TIMEOUT</tspan></text>
         </g>
       </g>
     </g>
@@ -572,7 +534,7 @@
          style="fill:none;fill-opacity:1;stroke:#808000;stroke-width:1.07949996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.07949996, 4.31799985;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3518"
          width="540"
-         height="120"
+         height="85"
          x="0"
          y="0"
          rx="10"

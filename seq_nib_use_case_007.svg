@@ -294,7 +294,7 @@
                    id="tspan3702"
                    x="7"
                    y="-4"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start">- demuxIcmpv6(pkt, ipv6Hdr. icmpv6Hdr, icmpv6Len)</tspan></text>
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start">- demuxIcmpv6(pkt, ipv6Hdr, icmpv6Hdr, icmpv6Len)</tspan></text>
             </g>
             <g
                transform="translate(5,25)"
@@ -314,6 +314,18 @@
                    d="M 5,0 245,0"
                    id="path3729"
                    inkscape:connector-curvature="0" />
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration: underline;text-decoration-line: underline;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-underline:underline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
+                     x="125"
+                     y="-4"
+                     id="text3700"
+                     sodipodi:linespacing="125%"><tspan
+                       sodipodi:role="line"
+                       id="tspan3702"
+                       x="125"
+                       y="-4"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:middle;text-anchor:middle">handlePkt(pkt, ipv6Hdr, icmpv6Hdr, icmpv6Len)</tspan></text>
               </g>
             </g>
           </g>
@@ -360,7 +372,7 @@
    id="tspan3459">RTR_SOL</tspan>, RTR_ADV, <tspan
    style="fill:#2ad4ff"
    id="tspan3832">REDIRECT</tspan>, <tspan
-   style="fill:#800080"
+   style="fill:#ff00ff"
    id="tspan3834">DAR, DAC</tspan>}]</tspan></text>
         <g
            transform="translate(290,35)"
@@ -876,9 +888,9 @@
       </g>
       <g
          transform="translate(390,490)"
-         id="on-6lr">
+         id="with-dad">
         <rect
-           style="fill:none;fill-opacity:1;stroke:#800080;stroke-width:1.07949996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.07949996, 4.31799985;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:1.07949996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.07949996, 4.31799985;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3808"
            width="215"
            height="130"
@@ -888,7 +900,7 @@
            ry="10" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.49374962px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.49374962px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="5"
            y="14.758789"
            id="text3810"
@@ -896,7 +908,7 @@
              sodipodi:role="line"
              id="tspan3812"
              x="5"
-             y="14.758789">Only on 6LR</tspan></text>
+             y="14.758789">Only with multihop DAD</tspan></text>
       </g>
     </g>
   </g>

@@ -610,7 +610,6 @@
              x="-138"
              y="806.23749"
              sodipodi:role="line"
-             style="fill:#ffcc00"
              id="tspan4840">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan218">handleSearchRtrEvent(netif : NetIf)</tspan></tspan><tspan
@@ -953,7 +952,7 @@
              x="-108"
              sodipodi:role="line"
              style="fill:#008000;fill-opacity:1"
-             id="tspan5808">– revertIID(addr : ipv6_addr_t) : NIB_NC</tspan></text>
+             id="tspan5808">– <tspan style="text-decoration: underline;">revertIID(addr : ipv6_addr_t) : NIB_NC</tspan></tspan></text>
       </g>
       <g
          id="def-rtr"
