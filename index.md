@@ -70,7 +70,7 @@ OnLinkEntry::addNC() treats the **OnLinkEntry** collection as a cache:
 ![Sequence diagram: Probe neighbor](seq_nib_use_case_003.svg)
 
 ## Become a router advertising interface
-TODO
+![Sequence diagram: Become a router advertising interface](seq_nib_use_case_004.svg)
 
 ## Cease to be a router advertising interface
 TODO
