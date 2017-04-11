@@ -75,6 +75,7 @@ OnLinkEntry::addNC() treats the **OnLinkEntry** collection as a cache:
 ![Sequence diagram: Become a router advertising interface](seq_nib_use_case_004.svg)
 
 ## Cease to be a router advertising interface
+![Sequence diagram: Cease to be a router advertising interface](seq_nib_use_case_005.svg)
 TODO
 
 ## Upper-layer reachability confirmation
@@ -140,8 +141,11 @@ TODO
 ## Search router
 ![Sequence diagram: Search router](seq_nib_use_case_008.svg)
 
+## Advertise router
+![Sequence diagram: Advertise router](seq_nib_use_case_009.svg)
+
 ## Retransmit Neighbor Solicitation timer event
-![Sequence diagram: Receive packet event](seq_nib_use_case_009.svg)
+![Sequence diagram: Receive packet event](seq_nib_use_case_010.svg)
 (State should be none of the above [UNMANAGED == 0] when OnLinkEntry not in NIB because of previous deletion)
 (Two different types to differentiate in timer, otherwise the same)
 (PROBE behavior according to [RFC7048])
@@ -149,7 +153,7 @@ TODO
 [RFC7048]: https://tools.ietf.org/html/rfc7048
 
 ## Delayed Neighbor Advertisement timer event
-![Sequence diagram: Delayed Neighbor Advertisement timer event](seq_nib_use_case_010.svg)
+![Sequence diagram: Delayed Neighbor Advertisement timer event](seq_nib_use_case_011.svg)
 
 ## Search router timer event
 TODO
@@ -158,13 +162,13 @@ TODO
 TODO
 
 ## Reachability timeout timer event
-![Sequence diagram: Reachability timeout timer event](seq_nib_use_case_013.svg)
+![Sequence diagram: Reachability timeout timer event](seq_nib_use_case_014.svg)
 
 ## Delay timeout timer event
-![Sequence diagram: Delay timeout timer event](seq_nib_use_case_014.svg)
+![Sequence diagram: Delay timeout timer event](seq_nib_use_case_015.svg)
 
 ## Address registration timeout timer event
-![Sequence diagram: Address registration timeout timer event](seq_nib_use_case_015.svg)
+![Sequence diagram: Address registration timeout timer event](seq_nib_use_case_016.svg)
 
 ## 6LoWPAN Context timeout timer event
 TODO
