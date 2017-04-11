@@ -20,7 +20,6 @@ Additional to their role in the network there are certain features that are beyo
 
 - Components and behaviors required for the NDP address resolution state-machine (typically provided on non-6LoWPAN hosts and all routers) are marked <span style="color: #808000; font-weight: bold;">olive</span>,
 - Nodes that start advertising themselves as routers on start-up are marked <span style="color: #ff6600; font-weight: bold;">orange</span>, and
-- Nodes that do not advertise themselves as routers on start-up are marked <span style="color: #ffcc00; font-weight: bold;">gold</span>.
 
 The reasoning for not including the NDP address resolution state-machine on non-routing 6LN is that on these kinds of nodes [non-link-local addresses are always considered off-link and the link-layer addresses of link-local addresses are derived from their IID][6lowpan-host-behavior]. So none of this information needs to be stored.
 
