@@ -155,7 +155,7 @@ TODO
 ![Sequence diagram: Delayed Neighbor Advertisement timer event](seq_nib_use_case_011.svg)
 
 ## Search router timer event
-TODO
+![Sequence diagram: Search router timer event](seq_nib_use_case_012.svg)
 
 ## Reconfirm router timer event
 TODO
