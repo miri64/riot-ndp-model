@@ -185,13 +185,10 @@ TODO
 ## Router timer event
 TODO
 
-## Send initial unsolicited Router Advertisement timer event
-TODO
-
 ## Send unsolicited Router Advertisement timer event
 TODO
 
-## Send final unsolicited Router Advertisement timer event
+## Send solicited Router Advertisement timer event
 TODO
 
 ## Wake-up from sleep

@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="762"
-   height="1252"
-   viewBox="0 0 762 1252"
+   height="1272"
+   viewBox="0 0 762 1272"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -126,7 +126,7 @@
       <rect
          y="0"
          x="0"
-         height="1250"
+         height="1270"
          width="760"
          id="sd-main-frame"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -210,7 +210,7 @@
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
            id="rect4218-9"
            width="280"
-           height="845"
+           height="860"
            x="-140"
            y="0" />
         <text
@@ -236,7 +236,7 @@
            x="-138"
            xml:space="preserve"
            sodipodi:linespacing="120%"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration:underline;text-decoration-line:underline;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration: underline;text-decoration-line: underline;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
              x="-138"
              y="31.237492"
              sodipodi:role="line"
@@ -620,8 +620,15 @@
              x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan221">handleSndMCRAEvent(netif : NetIf, type : u16_t)</tspan></tspan><tspan
-             x="-138"
+             id="tspan4844"
+             sodipodi:role="line"
+             style="fill:#800000"
              y="836.23749"
+             x="-138">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan221">handleSndUCRAEvent(netif : NetIf, type : u16_t)</tspan></tspan><tspan
+             x="-138"
+             y="851.23749"
              sodipodi:role="line"
              id="tspan4796">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
@@ -662,12 +669,12 @@
         <text
            sodipodi:linespacing="120%"
            id="text3543"
-           y="41.2375"
+           y="41.237499"
            x="-103"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
              id="tspan3549"
-             y="41.2375"
+             y="41.237499"
              x="-103"
              sodipodi:role="line">+ lookup(ctx : void*, type : u16_t) : u32</tspan></text>
       </g>
@@ -701,19 +708,19 @@
         <text
            sodipodi:linespacing="120%"
            id="text5496"
-           y="31.2375"
+           y="31.237499"
            x="-68"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             y="31.2375"
+             y="31.237499"
              x="-68"
              sodipodi:role="line"
              id="tspan4111"># reachTimeBase : u32_t</tspan><tspan
-             y="46.2375"
+             y="46.237499"
              x="-68"
              sodipodi:role="line"
              id="tspan5500"># reachTime : u32_t</tspan><tspan
-             y="61.2375"
+             y="61.237499"
              x="-68"
              sodipodi:role="line"
              id="tspan5502"># retransTime : u32_t</tspan><tspan
@@ -814,7 +821,7 @@
              x="-108"
              sodipodi:role="line"
              id="tspan5175"># <tspan
-   style="text-decoration:underline"
+   style="text-decoration: underline;text-decoration-line: underline"
    id="tspan259">delNextHop(entry : OnLinkEntry,</tspan></tspan><tspan
              sodipodi:role="line"
              x="-108"
@@ -827,13 +834,13 @@
              x="-108"
              sodipodi:role="line"
              id="tspan3847"># <tspan
-   style="text-decoration:underline"
+   style="text-decoration: underline;text-decoration-line: underline"
    id="tspan264">delNC(entry : OnLinkEntry, iface : NetIf)</tspan></tspan><tspan
              y="191.2375"
              x="-108"
              sodipodi:role="line"
              id="tspan3759"># <tspan
-   style="text-decoration:underline"
+   style="text-decoration: underline;text-decoration-line: underline"
    id="tspan267">addNextHop(ipv6 : ipv6_addr_t,</tspan></tspan><tspan
              sodipodi:role="line"
              x="-108"
@@ -853,7 +860,7 @@
              x="-108"
              sodipodi:role="line"
              id="tspan3841"># <tspan
-   style="text-decoration:underline"
+   style="text-decoration: underline;text-decoration-line: underline"
    id="tspan274">addNC(ipv6 : ipv6_addr_t,</tspan></tspan><tspan
              sodipodi:role="line"
              x="-108"
@@ -880,7 +887,7 @@
              x="-108"
              sodipodi:role="line"
              id="tspan3757"># <tspan
-   style="text-decoration:underline"
+   style="text-decoration: underline;text-decoration-line: underline"
    id="tspan283">findNC(dst : ipv6_addr_t,</tspan></tspan><tspan
              y="311.23752"
              x="-108"
@@ -893,7 +900,7 @@
              x="-108"
              sodipodi:role="line"
              id="tspan4174"># <tspan
-   style="text-decoration:underline"
+   style="text-decoration: underline;text-decoration-line: underline"
    id="tspan288">resolveAddress(dst : ipv6_addr_t,</tspan></tspan><tspan
              y="341.23752"
              x="-108"
@@ -952,11 +959,13 @@
              x="-108"
              sodipodi:role="line"
              style="fill:#008000;fill-opacity:1"
-             id="tspan5808">– <tspan style="text-decoration: underline;">revertIID(addr : ipv6_addr_t) : NIB_NC</tspan></tspan></text>
+             id="tspan5808">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan243">revertIID(addr : ipv6_addr_t) : NIB_NC</tspan></tspan></text>
       </g>
       <g
          id="def-rtr"
-         transform="translate(135,915)">
+         transform="translate(135,935)">
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
            id="rect4155"
@@ -1049,7 +1058,7 @@
       </g>
       <g
          id="route-entry"
-         transform="translate(375,915)">
+         transform="translate(375,935)">
         <rect
            y="0"
            x="-135"
@@ -1146,7 +1155,7 @@
              sodipodi:role="line">NIB_NC</tspan></text>
       </g>
       <g
-         transform="translate(375,1040)"
+         transform="translate(375,1060)"
          id="off-link-entry">
         <rect
            y="0"
@@ -1240,7 +1249,7 @@
              y="161.2375"
              id="tspan6062"># <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan243">addPL(ipv6_addr_t *pfx, pfxLen : unsigned,</tspan></tspan><tspan
+   id="tspan309">addPL(ipv6_addr_t *pfx, pfxLen : unsigned,</tspan></tspan><tspan
              sodipodi:role="line"
              x="-123"
              y="176.2375"
@@ -1257,7 +1266,7 @@
       </g>
       <g
          id="nib-ft"
-         transform="translate(190,1095)">
+         transform="translate(190,1115)">
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
            id="rect5630"
@@ -1285,7 +1294,7 @@
       </g>
       <g
          id="nib-dc"
-         transform="translate(610,1132.5)">
+         transform="translate(610,1152.5)">
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
            id="rect5271"
@@ -1312,7 +1321,7 @@
              id="tspan5277">NIB_DC</tspan></text>
       </g>
       <g
-         transform="translate(610,1185)"
+         transform="translate(610,1205)"
          id="nib-pl">
         <rect
            y="0"
@@ -1359,7 +1368,7 @@
       </g>
       <g
          id="inherit-route-entry-def-rtr"
-         transform="translate(220,965)">
+         transform="translate(220,985)">
         <path
            inkscape:connector-curvature="0"
            id="path3654"
@@ -1367,7 +1376,7 @@
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#inherit)" />
       </g>
       <g
-         transform="translate(375,1040)"
+         transform="translate(375,1060)"
          id="inherit-route-entry-off-link-entry">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#inherit)"
@@ -1396,7 +1405,7 @@
              y="-14.349385">«basedOn»</tspan></text>
       </g>
       <g
-         transform="translate(90,1095)"
+         transform="translate(90,1115)"
          id="nib-drl">
         <rect
            y="0"
@@ -1425,7 +1434,7 @@
       </g>
       <g
          id="dep-def-rtr-nib-drl"
-         transform="translate(90,1095)">
+         transform="translate(90,1115)">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep)"
            d="M 0,0 0,-20"
@@ -1445,7 +1454,7 @@
       </g>
       <g
          id="dep-def-rtr-nib-ft"
-         transform="translate(190,1095)">
+         transform="translate(190,1115)">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep-rtr)"
            d="M 0,0 0,-20"
@@ -1464,7 +1473,7 @@
              sodipodi:role="line">«basedOn»</tspan></text>
       </g>
       <g
-         transform="translate(190,1130)"
+         transform="translate(190,1150)"
          id="dep-off-link-entry-nib-ft">
         <path
            inkscape:connector-curvature="0"
@@ -1485,7 +1494,7 @@
       </g>
       <g
          id="dep-off-link-entry-nib-dc"
-         transform="translate(570,1150)">
+         transform="translate(570,1170)">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep-dc)"
            d="M 0,0 -70,0"
@@ -1504,7 +1513,7 @@
              sodipodi:role="line">«basedOn»</tspan></text>
       </g>
       <g
-         transform="translate(570,1202.5)"
+         transform="translate(570,1222.5)"
          id="dep-off-link-entry-nib-pl">
         <path
            inkscape:connector-curvature="0"
@@ -1625,7 +1634,7 @@
          id="assoc-off-link-entry-nib">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)"
-           d="m 0,0 -128,0 0,670 220,0"
+           d="m 0,0 -128,0 0,690 220,0"
            id="path3948"
            inkscape:connector-curvature="0" />
         <text
@@ -1655,7 +1664,7 @@
       </g>
       <g
          id="assoc-def-rtr-nib"
-         transform="translate(160,570)">
+         transform="translate(160,590)">
         <path
            inkscape:connector-curvature="0"
            id="path5506"
@@ -1688,7 +1697,7 @@
       </g>
       <g
          id="assoc-on-link-entry-route-entry"
-         transform="translate(465,915)">
+         transform="translate(465,935)">
         <path
            inkscape:connector-curvature="0"
            id="path3662"
