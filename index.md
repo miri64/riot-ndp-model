@@ -158,7 +158,7 @@ TODO
 ![Sequence diagram: Search router timer event](seq_nib_use_case_012.svg)
 
 ## Reconfirm router timer event
-TODO
+![Sequence diagram: Reconfirm router timer event](seq_nib_use_case_013.svg)
 
 ## Reachability timeout timer event
 ![Sequence diagram: Reachability timeout timer event](seq_nib_use_case_014.svg)
