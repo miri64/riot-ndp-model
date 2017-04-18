@@ -271,7 +271,7 @@
              y="261.23749"
              sodipodi:role="line"
              style="fill:#800000"
-             id="tspan4419">+ SND_UC_RA : u16_t = 0x4fce</tspan></text>
+             id="tspan4419">+ REPLY_RS : u16_t = 0x4fce</tspan></text>
         <path
            inkscape:connector-curvature="0"
            id="path6521"

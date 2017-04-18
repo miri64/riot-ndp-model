@@ -516,7 +516,7 @@
                y="12.758789"
                x="40"
                id="tspan3438"
-               sodipodi:role="line">[isRtrAdv() || MCRASent &gt; (UINT8_MAX – MAX_FIN_RTR_ADV)]</tspan></text>
+               sodipodi:role="line">[!is6Lo() &amp;&amp; (isRtrAdv() || MCRASent &gt; (UINT8_MAX – MAX_FIN_RTR_ADV))]</tspan></text>
           <g
              id="opt-mcra-sent"
              transform="translate(10,45)">

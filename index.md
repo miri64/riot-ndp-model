@@ -93,7 +93,8 @@ TODO
 (nbr_adv_t::isValid(), see [RFC4861])
 
 ### Handle Router Solicitation
-TODO
+![Sequence diagram: Handle router solicitation](seq_nib_use_case_007.03.svg)
+(rtr_sol_t::isValid(), see [RFC4861])
 
 ### Handle Router Advertisement
 TODO
@@ -186,9 +187,11 @@ TODO
 
 ## Send unsolicited Router Advertisement timer event
 ![Sequence diagram: Send unsolicited Router Advertisement timer event](seq_nib_use_case_022.svg)
+sendRA() sets iface::lastMCRA to current time in milliseconds
 
 ## Send solicited Router Advertisement timer event
 ![Sequence diagram: Send solicited Router Advertisement timer event](seq_nib_use_case_023.svg)
+(IPv6 router MAY, 6LR MUST send unicast)
 
 ## Wake-up from sleep
 TODO

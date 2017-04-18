@@ -567,8 +567,15 @@
              id="tspan4808">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan197">handleNUDDelayTimeout(nbr : OnLinkEntry)</tspan></tspan><tspan
-             x="-138"
+             id="tspan169"
+             sodipodi:role="line"
+             style="fill:#800000"
              y="716.23749"
+             x="-138">– <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan171">handleReplyRSEvent(rtr : OnLinkEntry, type : u16_t)</tspan></tspan><tspan
+             x="-138"
+             y="731.23749"
              sodipodi:role="line"
              style="fill:#800080"
              id="tspan4816">– <tspan
@@ -577,12 +584,12 @@
              id="tspan4820"
              sodipodi:role="line"
              style="fill:#008000"
-             y="731.23749"
+             y="746.23749"
              x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan203">handle6LoCtxTimeout(ctx : void*)</tspan></tspan><tspan
              x="-138"
-             y="746.23749"
+             y="761.23749"
              sodipodi:role="line"
              style="fill:#008000"
              id="tspan4824">– <tspan
@@ -590,12 +597,12 @@
    id="tspan206">handleABRTimeout(ctx : void*)</tspan></tspan><tspan
              id="tspan4828"
              sodipodi:role="line"
-             y="761.23749"
+             y="776.23749"
              x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan209">handlePrefixTimeout(pfx : OffLinkEntry)</tspan></tspan><tspan
              x="-138"
-             y="776.23749"
+             y="791.23749"
              style="fill:#800000"
              sodipodi:role="line"
              id="tspan4832">– <tspan
@@ -603,12 +610,12 @@
    id="tspan212">handleRouteTimeout(route : OffLinkEntry)</tspan></tspan><tspan
              id="tspan4836"
              sodipodi:role="line"
-             y="791.23749"
+             y="806.23749"
              x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan215">handleRtrTimeout(rtr : DefaultRouter)</tspan></tspan><tspan
              x="-138"
-             y="806.23749"
+             y="821.23749"
              sodipodi:role="line"
              id="tspan4840">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
@@ -616,17 +623,10 @@
              id="tspan4844"
              sodipodi:role="line"
              style="fill:#800000"
-             y="821.23749"
-             x="-138">– <tspan
-   style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan221">handleSndMCRAEvent(netif : NetIf, type : u16_t)</tspan></tspan><tspan
-             id="tspan4844"
-             sodipodi:role="line"
-             style="fill:#800000"
              y="836.23749"
              x="-138">– <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan221">handleSndUCRAEvent(netif : NetIf, type : u16_t)</tspan></tspan><tspan
+   id="tspan221">handleSndMCRAEvent(netif : NetIf, type : u16_t)</tspan></tspan><tspan
              x="-138"
              y="851.23749"
              sodipodi:role="line"
@@ -684,7 +684,7 @@
         <rect
            y="0"
            x="-70"
-           height="115"
+           height="130"
            width="140"
            id="rect5488"
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -724,23 +724,28 @@
              x="-68"
              sodipodi:role="line"
              id="tspan5502"># retransTime : u32_t</tspan><tspan
-             id="tspan5504"
              y="76.237503"
              x="-68"
              sodipodi:role="line"
-             style="fill:#800000;fill-opacity:1"># MCRASent : u8_t</tspan><tspan
+             id="tspan3737"
+             style="fill:#800000"># lastMCRA : u32_t</tspan><tspan
+             id="tspan5504"
              y="91.237503"
              x="-68"
              sodipodi:role="line"
-             id="tspan5591"># MCRSSent : u8_t</tspan><tspan
+             style="fill:#800000;fill-opacity:1"># MCRASent : u8_t</tspan><tspan
              y="106.2375"
+             x="-68"
+             sodipodi:role="line"
+             id="tspan5591"># MCRSSent : u8_t</tspan><tspan
+             y="121.2375"
              x="-68"
              sodipodi:role="line"
              id="tspan5595"># MCNASent : u8_t</tspan></text>
       </g>
       <g
          id="on-link-entry"
-         transform="translate(630,280)">
+         transform="translate(630,300)">
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
            id="rect4218"
@@ -1127,7 +1132,7 @@
    id="tspan3783">getFT() : NIB_FT  </tspan></tspan></text>
       </g>
       <g
-         transform="translate(630,815)"
+         transform="translate(630,835)"
          id="nib-nc">
         <rect
            y="0"
@@ -1385,7 +1390,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="translate(630,815)"
+         transform="translate(630,835)"
          id="dep-on-link-entry-nib-nc">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep)"
@@ -1566,11 +1571,11 @@
    id="tspan3656">evtimer</tspan></tspan></text>
       </g>
       <g
-         transform="translate(630,280)"
+         transform="translate(630,300)"
          id="assoc-netif-on-link-entry">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)"
-           d="M 0,0 0,-25"
+           d="M 0,0 0,-30"
            id="path5876"
            inkscape:connector-curvature="0" />
         <text
