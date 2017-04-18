@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="322"
-   viewBox="0 0 322 222"
+   width="332"
+   viewBox="0 0 332 222"
    id="svg4653"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -89,7 +89,10 @@
      inkscape:pageshadow="2"
      inkscape:document-units="px"
      showgrid="true"
-     showguides="true">
+     showguides="true"
+     inkscape:cx="165.46896"
+     inkscape:cy="95.241052"
+     inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid5201"
@@ -126,7 +129,7 @@
          y="0"
          x="0"
          height="220"
-         width="320"
+         width="330"
          id="sd-main-frame"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
       <g
@@ -209,7 +212,7 @@
                  y="-4"
                  x="7"
                  id="tspan5628"
-                 sodipodi:role="line">MCRASent := 0</tspan></text>
+                 sodipodi:role="line">MCRASent := UINT8_MAX – MAX_FIN_RTR_ADV + 1</tspan></text>
           </g>
           <g
              transform="translate(0,60)"
@@ -272,7 +275,7 @@
            y="0"
            x="0"
            height="110"
-           width="200"
+           width="270"
            id="rect6301"
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
         <path
@@ -338,7 +341,7 @@
                sodipodi:role="line"
                id="tspan6351"
                x="80"
-               y="18.5">Address Resolution</tspan></text>
+               y="18.5">Advertise router</tspan></text>
         </g>
       </g>
       <g
@@ -368,7 +371,7 @@
         <rect
            style="fill:none;fill-opacity:1;stroke:#800000;stroke-width:1.07949996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.07949996, 4.31799985;stroke-dashoffset:0;stroke-opacity:1"
            id="rect4764"
-           width="210"
+           width="280"
            height="135"
            x="0"
            y="0"

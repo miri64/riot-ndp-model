@@ -185,7 +185,7 @@ TODO
 TODO
 
 ## Send unsolicited Router Advertisement timer event
-TODO
+![Sequence diagram: Send unsolicited Router Advertisement timer event](seq_nib_use_case_022.svg)
 
 ## Send solicited Router Advertisement timer event
 TODO
