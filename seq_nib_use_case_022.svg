@@ -155,6 +155,22 @@
          in2="result1"
          id="feComposite5519" />
     </filter>
+    <filter
+       id="text-bg-5-3"
+       x="0"
+       y="0"
+       height="1"
+       width="1">
+      <feFlood
+         flood-color="#fff"
+         flood-opacity="1"
+         result="result1"
+         id="feFlood9-3-6" />
+      <feComposite
+         in="SourceGraphic"
+         in2="result1"
+         id="feComposite11-5-7" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -771,6 +787,34 @@
            id="tspan3522"
            x="5"
            y="14.758789">Only on Router</tspan></text>
+    </g>
+    <g
+       id="comment-mcrasent0"
+       transform="translate(195,270)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3474"
+         d="m 95,0 15,15 0,25 -110,0 0,-40 95,0 0,15 15,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg-5-3)"
+         x="2"
+         y="11.575"
+         id="text3626-5"
+         sodipodi:linespacing="110%"><tspan
+           id="tspan3630-3"
+           sodipodi:role="line"
+           x="2"
+           y="11.575">Only FALSE after</tspan><tspan
+           sodipodi:role="line"
+           x="2"
+           y="22.575001"
+           id="tspan4342">MAX_FIN_RTR_ADV</tspan><tspan
+           sodipodi:role="line"
+           x="2"
+           y="33.575001"
+           id="tspan4344">were finally sent</tspan></text>
     </g>
   </g>
 </svg>

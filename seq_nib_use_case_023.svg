@@ -358,7 +358,7 @@
                    y="-4"
                    x="95"
                    id="tspan4491"
-                   sodipodi:role="line">sendRA(nbr::ipv6 || &quot;ff02::1&quot;, nbr::iface)</tspan></text>
+                   sodipodi:role="line">sendRA(nbr::ipv6, nbr::iface)</tspan></text>
             </g>
           </g>
           <g

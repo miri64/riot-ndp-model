@@ -10,12 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="612"
-   viewBox="0 0 612 542"
+   viewBox="0 0 612 487"
    id="svg4653"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="seq_nib_use_case_007.03.svg"
-   height="542">
+   height="487">
   <defs
      id="defs4655">
     <style
@@ -87,6 +87,22 @@
          d="M -12,6 0,0 -12,-6"
          inkscape:connector-curvature="0" />
     </marker>
+    <filter
+       id="text-bg-3-3"
+       x="0"
+       y="0"
+       height="1"
+       width="1">
+      <feFlood
+         flood-color="#fff"
+         flood-opacity="1"
+         result="result1"
+         id="feFlood9-6-6" />
+      <feComposite
+         in="SourceGraphic"
+         in2="result1"
+         id="feComposite11-7-7" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -125,7 +141,7 @@
       <rect
          y="0"
          x="0"
-         height="540"
+         height="485"
          width="610"
          id="sd-main-frame"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -177,59 +193,27 @@
         </g>
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 0,10 0,500"
+           d="M 0,10 0,445"
            id="path3745"
            inkscape:connector-curvature="0" />
         <g
-           id="g3747"
-           transform="translate(0,325)">
+           id="g3517"
+           transform="translate(0,315)">
           <rect
              style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
-             id="rect3749"
+             id="rect3519"
              width="10"
-             height="15"
+             height="10"
              x="-5"
              y="0" />
           <g
-             transform="translate(0,15)"
-             id="g3751">
+             transform="translate(0,10)"
+             id="g3521">
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#async-msg-head)"
                d="M -5,0 -370,0"
-               id="path3753"
+               id="path3523"
                inkscape:connector-curvature="0" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
-               x="-187.5"
-               y="-4"
-               id="text3691"
-               sodipodi:linespacing="125%"><tspan
-                 sodipodi:role="line"
-                 id="tspan3693"
-                 x="-187.5"
-                 y="-4"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">nextMCRA</tspan></text>
-          </g>
-        </g>
-        <g
-           transform="translate(0,450)"
-           id="g3808">
-          <rect
-             y="0"
-             x="-5"
-             height="10"
-             width="10"
-             id="rect3810"
-             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
-          <g
-             id="g3812"
-             transform="translate(0,10)">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3814"
-               d="M -5,0 -370,0"
-               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#async-msg-head)" />
           </g>
         </g>
       </g>
@@ -260,7 +244,7 @@
         <path
            inkscape:connector-curvature="0"
            id="path4998"
-           d="M 0,10 0,500"
+           d="M 0,10 0,445"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1" />
         <g
            transform="translate(0,245)"
@@ -341,7 +325,7 @@
         </g>
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 0,10 0,500"
+           d="M 0,10 0,445"
            id="path5618"
            inkscape:connector-curvature="0" />
       </g>
@@ -372,7 +356,7 @@
         <path
            inkscape:connector-curvature="0"
            id="path5256"
-           d="M 0,10 0,500"
+           d="M 0,10 0,445"
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1" />
         <g
            id="g6220"
@@ -380,7 +364,7 @@
           <rect
              y="0"
              x="-5"
-             height="460"
+             height="405"
              width="10"
              id="rect5607"
              style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -459,16 +443,16 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">setRouter(FALSE)</tspan></text>
           </g>
           <g
-             transform="translate(0,295)"
-             id="g3727">
+             transform="translate(0,285)"
+             id="g3509">
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#sync-msg-head)"
                d="M 5,0 370,0"
-               id="path3729"
+               id="path3511"
                inkscape:connector-curvature="0" />
             <text
                sodipodi:linespacing="125%"
-               id="text3731"
+               id="text3513"
                y="-4"
                x="187.5"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
@@ -476,64 +460,11 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
                  y="-4"
                  x="187.5"
-                 id="tspan3733"
-                 sodipodi:role="line">lookup(SND_MC_RA, iface)</tspan></text>
+                 id="tspan3515"
+                 sodipodi:role="line">add(offset = delay, msg = { .type = REPLY_RS, .ctx = nce)})</tspan></text>
           </g>
           <g
-             id="g3788"
-             transform="translate(0,375)">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3790"
-               d="m 5,0 15,0 0,10 -10,0"
-               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#sync-msg-head)" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
-               x="7"
-               y="-4"
-               id="text3792"
-               sodipodi:linespacing="125%"><tspan
-                 sodipodi:role="line"
-                 id="tspan3794"
-                 x="7"
-                 y="-4"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start">delay += MIN_DELAY_BETWEEN_RAS</tspan></text>
-          </g>
-          <g
-             transform="translate(5,385)"
-             id="g3796">
-            <rect
-               style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
-               id="rect3798"
-               width="10"
-               height="5"
-               x="-5"
-               y="0" />
-          </g>
-          <g
-             id="g3800"
-             transform="translate(0,420)">
-            <path
-               inkscape:connector-curvature="0"
-               id="path3802"
-               d="M 5,0 370,0"
-               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#sync-msg-head)" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
-               x="187.5"
-               y="-4"
-               id="text3804"
-               sodipodi:linespacing="125%"><tspan
-                 sodipodi:role="line"
-                 id="tspan3806"
-                 x="187.5"
-                 y="-4"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">add(offset = delay, msg = { .type = REPLY_RS, .ctx = ((nce != NULL) ? nce : iface)})</tspan></text>
-          </g>
-          <g
-             transform="translate(0,460)"
+             transform="translate(0,405)"
              id="g5954">
             <path
                style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#async-msg-head)"
@@ -549,7 +480,7 @@
         <rect
            y="0"
            x="0"
-           height="420"
+           height="365"
            width="475"
            id="rect6301"
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -700,7 +631,7 @@
           <rect
              y="0"
              x="0"
-             height="255"
+             height="130"
              width="455"
              id="rect3608"
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -730,15 +661,15 @@
                sodipodi:role="line"
                id="tspan3618"
                x="40"
-               y="12.758789">[[!is_unspecified(ipv6::src)]</tspan></text>
+               y="12.758789">[!is_unspecified(ipv6::src)]</tspan></text>
           <g
              transform="translate(10,55)"
              id="opt-nce-exists">
             <rect
                style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
                id="rect3652"
-               width="320"
-               height="40"
+               width="435"
+               height="65"
                x="0"
                y="0" />
             <path
@@ -769,81 +700,81 @@
                  id="tspan3662"
                  sodipodi:role="line">[nce != NULL]</tspan></text>
           </g>
+        </g>
+        <g
+           transform="translate(10,290)"
+           id="g3544">
+          <rect
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
+             id="rect3546"
+             width="455"
+             height="65"
+             x="0"
+             y="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3548"
+             d="M 0,20 25,20 35,10 35,0 0,0 0,20 Z"
+             style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3550"
+             y="12.758789"
+             x="15"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="12.758789"
+               x="15"
+               id="tspan3552"
+               sodipodi:role="line">opt</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text3554"
+             y="12.758789"
+             x="40"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
+             xml:space="preserve"><tspan
+               y="12.758789"
+               x="40"
+               id="tspan3556"
+               sodipodi:role="line">[is_unspecified(ipv6::src) || (nce == NULL)]</tspan></text>
           <g
-             id="opt-next-mcra"
-             transform="translate(10,135)">
+             id="ref-probe-neighbor2"
+             transform="translate(10,25)">
             <rect
                y="0"
                x="0"
-               height="85"
-               width="320"
-               id="rect3755"
-               style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
+               height="30"
+               width="115"
+               id="rect3468"
+               style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
             <path
                style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                d="M 0,20 25,20 35,10 35,0 0,0 0,20 Z"
-               id="path3757"
+               id="path3470"
                inkscape:connector-curvature="0" />
             <text
                xml:space="preserve"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                x="15"
                y="12.758789"
-               id="text3759"
+               id="text3472"
                sodipodi:linespacing="125%"><tspan
                  sodipodi:role="line"
-                 id="tspan3761"
+                 id="tspan3474"
                  x="15"
-                 y="12.758789">opt</tspan></text>
+                 y="12.758789">ref</tspan></text>
             <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
-               x="40"
-               y="12.758789"
-               id="text3763"
-               sodipodi:linespacing="125%"><tspan
-                 sodipodi:role="line"
-                 id="tspan3765"
-                 x="40"
-                 y="12.758789">[nextMCRA &gt; delay]</tspan></text>
-            <g
-               transform="translate(10,25)"
-               id="opt-last-mcra">
-              <rect
-                 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
-                 id="rect3769"
-                 width="300"
-                 height="50"
-                 x="0"
-                 y="0" />
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path3771"
-                 d="M 0,20 25,20 35,10 35,0 0,0 0,20 Z"
-                 style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-              <text
-                 sodipodi:linespacing="125%"
-                 id="text3773"
-                 y="12.758789"
-                 x="15"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                 xml:space="preserve"><tspan
-                   y="12.758789"
-                   x="15"
-                   id="tspan3775"
-                   sodipodi:role="line">opt</tspan></text>
-              <text
-                 sodipodi:linespacing="125%"
-                 id="text3777"
-                 y="12.758789"
-                 x="40"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
-                 xml:space="preserve"><tspan
-                   y="12.758789"
-                   x="40"
-                   id="tspan3779"
-                   sodipodi:role="line">[iface::lastMCRA &gt;= (nowMSec() - MIN_DELAY_BETWEEN_RAS)]</tspan></text>
-            </g>
+               sodipodi:linespacing="125%"
+               id="text3476"
+               y="17.780001"
+               x="75"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg-3-3)"
+               xml:space="preserve"><tspan
+                 y="17.780001"
+                 x="75"
+                 id="tspan3478"
+                 sodipodi:role="line">Advertise Router</tspan></text>
           </g>
         </g>
       </g>
@@ -875,7 +806,7 @@
            style="fill:none;fill-opacity:1;stroke:#800000;stroke-width:1.07949996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.07949996, 4.31799985;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3572"
            width="485"
-           height="445"
+           height="390"
            x="0"
            y="0"
            rx="10"

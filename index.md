@@ -191,7 +191,6 @@ sendRA() sets iface::lastMCRA to current time in milliseconds
 
 ## Send solicited Router Advertisement timer event
 ![Sequence diagram: Send solicited Router Advertisement timer event](seq_nib_use_case_023.svg)
-(IPv6 router MAY, 6LR MUST send unicast)
 
 ## Wake-up from sleep
 TODO
