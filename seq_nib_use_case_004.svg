@@ -77,7 +77,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid5201"
-       originy="-3" />
+       originx="1"
+       originy="-4" />
     <sodipodi:guide
        position="-85,157"
        orientation="1,0"
