@@ -47,18 +47,6 @@
          d="M -12,6 0,0 -12,-6"
          inkscape:connector-curvature="0" />
     </marker>
-    <marker
-       style="overflow:visible"
-       id="async-msg-head-neterr"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         inkscape:connector-curvature="0"
-         d="M -12,6 0,0 -12,-6"
-         style="fill:none;stroke:#ff0000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
-         id="path4350" />
-    </marker>
     <filter
        id="text-bg"
        x="0"
@@ -74,86 +62,6 @@
          in="SourceGraphic"
          in2="result1"
          id="feComposite11" />
-    </filter>
-    <filter
-       id="text-bg-3"
-       x="0"
-       y="0"
-       height="1"
-       width="1">
-      <feFlood
-         flood-color="#fff"
-         flood-opacity="1"
-         result="result1"
-         id="feFlood9-6" />
-      <feComposite
-         in="SourceGraphic"
-         in2="result1"
-         id="feComposite11-7" />
-    </filter>
-    <filter
-       id="text-bg-3-3"
-       x="0"
-       y="0"
-       height="1"
-       width="1">
-      <feFlood
-         flood-color="#fff"
-         flood-opacity="1"
-         result="result1"
-         id="feFlood9-6-6" />
-      <feComposite
-         in="SourceGraphic"
-         in2="result1"
-         id="feComposite11-7-7" />
-    </filter>
-    <filter
-       id="text-bg-5"
-       x="0"
-       y="0"
-       height="1"
-       width="1">
-      <feFlood
-         flood-color="#fff"
-         flood-opacity="1"
-         result="result1"
-         id="feFlood9-3" />
-      <feComposite
-         in="SourceGraphic"
-         in2="result1"
-         id="feComposite11-5" />
-    </filter>
-    <filter
-       id="filter5509"
-       x="0"
-       y="0"
-       height="1"
-       width="1">
-      <feFlood
-         flood-color="#fff"
-         flood-opacity="1"
-         result="result1"
-         id="feFlood5511" />
-      <feComposite
-         in="SourceGraphic"
-         in2="result1"
-         id="feComposite5513" />
-    </filter>
-    <filter
-       id="filter5515"
-       x="0"
-       y="0"
-       height="1"
-       width="1">
-      <feFlood
-         flood-color="#fff"
-         flood-opacity="1"
-         result="result1"
-         id="feFlood5517" />
-      <feComposite
-         in="SourceGraphic"
-         in2="result1"
-         id="feComposite5519" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -529,7 +437,7 @@
                sodipodi:role="line">alt</tspan></text>
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg-5)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
              x="35"
              y="12.758789"
              id="text4303"
@@ -574,7 +482,7 @@
                  sodipodi:role="line">ref</tspan></text>
             <text
                xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg-3-3)"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
                x="105"
                y="17.780001"
                id="text3730"
@@ -594,7 +502,7 @@
              id="text4440"
              y="97.758789"
              x="35"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg-5)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
              xml:space="preserve"><tspan
                id="tspan4444"
                y="97.758789"
@@ -607,7 +515,7 @@
              style="stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1" />
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg-5)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
              x="35"
              y="147.75879"
              id="text4610"
@@ -647,7 +555,7 @@
                id="text3476"
                y="17.780001"
                x="105"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg-3-3)"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#text-bg)"
                xml:space="preserve"><tspan
                  y="17.780001"
                  x="105"

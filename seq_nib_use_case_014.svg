@@ -47,18 +47,6 @@
          d="M -12,6 0,0 -12,-6"
          inkscape:connector-curvature="0" />
     </marker>
-    <marker
-       style="overflow:visible"
-       id="async-msg-head-neterr"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         inkscape:connector-curvature="0"
-         d="M -12,6 0,0 -12,-6"
-         style="fill:none;stroke:#ff0000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
-         id="path4350" />
-    </marker>
     <filter
        id="text-bg"
        x="0"
@@ -74,102 +62,6 @@
          in="SourceGraphic"
          in2="result1"
          id="feComposite11" />
-    </filter>
-    <filter
-       id="text-bg-3"
-       x="0"
-       y="0"
-       height="1"
-       width="1">
-      <feFlood
-         flood-color="#fff"
-         flood-opacity="1"
-         result="result1"
-         id="feFlood9-6" />
-      <feComposite
-         in="SourceGraphic"
-         in2="result1"
-         id="feComposite11-7" />
-    </filter>
-    <filter
-       id="text-bg-3-3"
-       x="0"
-       y="0"
-       height="1"
-       width="1">
-      <feFlood
-         flood-color="#fff"
-         flood-opacity="1"
-         result="result1"
-         id="feFlood9-6-6" />
-      <feComposite
-         in="SourceGraphic"
-         in2="result1"
-         id="feComposite11-7-7" />
-    </filter>
-    <filter
-       id="text-bg-5"
-       x="0"
-       y="0"
-       height="1"
-       width="1">
-      <feFlood
-         flood-color="#fff"
-         flood-opacity="1"
-         result="result1"
-         id="feFlood9-3" />
-      <feComposite
-         in="SourceGraphic"
-         in2="result1"
-         id="feComposite11-5" />
-    </filter>
-    <filter
-       id="filter5509"
-       x="0"
-       y="0"
-       height="1"
-       width="1">
-      <feFlood
-         flood-color="#fff"
-         flood-opacity="1"
-         result="result1"
-         id="feFlood5511" />
-      <feComposite
-         in="SourceGraphic"
-         in2="result1"
-         id="feComposite5513" />
-    </filter>
-    <filter
-       id="filter5515"
-       x="0"
-       y="0"
-       height="1"
-       width="1">
-      <feFlood
-         flood-color="#fff"
-         flood-opacity="1"
-         result="result1"
-         id="feFlood5517" />
-      <feComposite
-         in="SourceGraphic"
-         in2="result1"
-         id="feComposite5519" />
-    </filter>
-    <filter
-       id="text-bg-3-3-6"
-       x="0"
-       y="0"
-       height="1"
-       width="1">
-      <feFlood
-         flood-color="#fff"
-         flood-opacity="1"
-         result="result1"
-         id="feFlood9-6-6-7" />
-      <feComposite
-         in="SourceGraphic"
-         in2="result1"
-         id="feComposite11-7-7-5" />
     </filter>
   </defs>
   <sodipodi:namedview
