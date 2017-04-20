@@ -258,7 +258,7 @@
              id="tspan3955"
              style="fill:#0000ff"># <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan5308">abr : abr_t</tspan></tspan></text>
+   id="tspan5308">abrs : Queue&lt;abr_t&gt;</tspan></tspan></text>
         <path
            inkscape:connector-curvature="0"
            id="path6521"
@@ -530,10 +530,10 @@
                style="text-decoration: underline;text-decoration-line: underline;fill:#008000">ndpMsg : icmpv6_hdr_t, sixco : sixco_t)</tspan></tspan><tspan
              id="tspan158"
              sodipodi:role="line"
-             style="fill:#0000ff;"
+             style="fill:#0000ff"
              y="611.23749"
              x="-138">– <tspan
-   style="text-decoration:underline;text-decoration-line:underline;fill:#0000ff;"
+   style="text-decoration: underline;text-decoration-line: underline;fill:#0000ff"
    id="tspan174">handleABRO(iface : NetIf, ipv6Hdr : ipv6_hdr_t,</tspan></tspan><tspan
              sodipodi:role="line"
              y="626.23749"
@@ -542,7 +542,7 @@
                id="tspan164"
                style="fill:none">0000000</tspan><tspan
                id="tspan166"
-               style="text-decoration:underline;text-decoration-line:underline;fill:#0000ff;">ndpMsg : icmpv6_hdr_t, abro : abro_t)</tspan></tspan><tspan
+               style="text-decoration: underline;text-decoration-line: underline;fill:#0000ff">ndpMsg : icmpv6_hdr_t, abro : abro_t)</tspan></tspan><tspan
              sodipodi:role="line"
              y="641.23749"
              x="-138"
@@ -550,7 +550,7 @@
                id="tspan181"
                style="fill:none">00000000000</tspan><tspan
                id="tspan172"
-               style="text-decoration:underline;text-decoration-line:underline;fill:#0000ff;">: abro_t</tspan></tspan><tspan
+               style="text-decoration: underline;text-decoration-line: underline;fill:#0000ff">: abro_t</tspan></tspan><tspan
              id="tspan4792"
              sodipodi:role="line"
              y="656.23749"
@@ -601,10 +601,10 @@
              x="-138"
              y="761.23749"
              sodipodi:role="line"
-             style="fill:#0000ff;"
+             style="fill:#0000ff"
              id="tspan4824">– <tspan
-   style="text-decoration:underline;text-decoration-line:underline;fill:#0000ff;"
-   id="tspan206">handleABRTimeout(ctx : void*)</tspan></tspan><tspan
+   style="text-decoration: underline;text-decoration-line: underline;fill:#0000ff"
+   id="tspan206">handleABRTimeout(ctx : abr_t)</tspan></tspan><tspan
              id="tspan4828"
              sodipodi:role="line"
              y="776.23749"
@@ -1488,7 +1488,7 @@
              sodipodi:role="line">«basedOn»</tspan></text>
       </g>
       <g
-         transform="translate(190,1150)"
+         transform="translate(190,1180)"
          id="dep-off-link-entry-nib-ft">
         <path
            inkscape:connector-curvature="0"
@@ -1649,7 +1649,7 @@
          id="assoc-off-link-entry-nib">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#assoc)"
-           d="m 0,0 -128,0 0,690 220,0"
+           d="m 0,0 -128,0 0,720 220,0"
            id="path3948"
            inkscape:connector-curvature="0" />
         <text

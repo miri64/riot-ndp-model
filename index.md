@@ -97,7 +97,8 @@ TODO
 (rtr_sol_t::isValid(), see [RFC4861])
 
 ### Handle Router Advertisement
-TODO
+![Sequence diagram: Handle router advertisement](seq_nib_use_case_007.04,svg)
+(rtr_adv_t::isValid(), see [RFC4861])
 
 ### Handle Redirect
 TODO
@@ -182,7 +183,7 @@ TODO
 ## Route timeout timer event
 TODO
 
-## Router timer event
+## Router timeout timer event
 TODO
 
 ## Send unsolicited Router Advertisement timer event
@@ -191,6 +192,9 @@ sendRA() sets iface::lastMCRA to current time in milliseconds
 
 ## Send solicited Router Advertisement timer event
 ![Sequence diagram: Send solicited Router Advertisement timer event](seq_nib_use_case_023.svg)
+
+## Recalculate Reachable Time
+TODO (see https://tools.ietf.org/html/rfc4861#section-6.3.4)
 
 ## Wake-up from sleep
 TODO

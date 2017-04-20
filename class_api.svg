@@ -428,7 +428,7 @@
              x="-108"
              y="196.2375">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan3645">iter() : NIB_NC</tspan></tspan></text>
+   id="tspan3645">iter(iface : NetIf) : NIB_NC</tspan></tspan></text>
       </g>
       <g
          id="nib-ft"
@@ -437,7 +437,7 @@
            style="fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect5630"
            width="220"
-           height="250"
+           height="265"
            x="-110"
            y="0" />
         <text
@@ -560,7 +560,15 @@
              sodipodi:role="line"
              id="tspan5673">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan3696">iter(nextHop : ipv6_addr_t) : NIB_FT</tspan></tspan></text>
+   id="tspan3696">iter(nextHop : ipv6_addr_t,</tspan></tspan><tspan
+             y="256.23752"
+             x="-108"
+             sodipodi:role="line"
+             id="tspan3583"><tspan
+               style="fill:none"
+               id="tspan5690">0000000</tspan><tspan
+               style="text-decoration: underline;text-decoration-line: underline"
+               id="tspan3585">iface : NetIf) : NIB_FT</tspan></tspan></text>
       </g>
       <g
          transform="translate(200,425)"
@@ -642,7 +650,7 @@
              y="122.2375"
              id="tspan5384">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan3657">iter() : NIB_DRL</tspan></tspan></text>
+   id="tspan3657">iter(iface : NetIf) : NIB_DRL</tspan></tspan></text>
       </g>
       <g
          transform="translate(455,425)"
@@ -736,7 +744,7 @@
              y="151.2375"
              id="tspan5724">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan3633">iter() : NIB_PL</tspan></tspan></text>
+   id="tspan3633">iter(iface : NetIf) : NIB_PL</tspan></tspan></text>
       </g>
       <g
          id="nib-dc"
@@ -802,7 +810,7 @@
              sodipodi:role="line"
              id="tspan5332">+ <tspan
    id="tspan5420"
-   style="text-decoration: underline;text-decoration-line: underline;fill:#000080">iter() : NIB_DC</tspan></tspan></text>
+   style="text-decoration: underline;text-decoration-line: underline;fill:#000080">iter(iface : NetIf) : NIB_DC</tspan></tspan></text>
       </g>
       <g
          transform="translate(455,615)"
@@ -1114,12 +1122,12 @@
              sodipodi:role="line">+ iface</tspan></text>
       </g>
       <g
-         transform="translate(840,310)"
+         transform="translate(840,325)"
          id="assoc-netif-nib-ft">
         <path
            inkscape:connector-curvature="0"
            id="path3565"
-           d="m 0,0 0,437.5 -265,0"
+           d="m 0,0 0,422.5 -265,0"
            style="fill:none;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;marker-end:url(#assoc-rtr)" />
         <text
            xml:space="preserve"
