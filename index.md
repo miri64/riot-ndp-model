@@ -99,6 +99,7 @@ TODO
 ### Handle Router Advertisement
 ![Sequence diagram: Handle router advertisement](seq_nib_use_case_007.04.svg)
 (rtr_adv_t::isValid(), see [RFC4861])
+(remember changed router lifetime!)
 
 ### Handle Redirect
 TODO
