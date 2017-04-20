@@ -258,7 +258,7 @@
              id="tspan3955"
              style="fill:#0000ff"># <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan5308">abrs : Queue&lt;abr_t&gt;</tspan></tspan></text>
+   id="tspan5308">abrs : ABRQueue&lt;abr_t&gt;</tspan></tspan></text>
         <path
            inkscape:connector-curvature="0"
            id="path6521"
