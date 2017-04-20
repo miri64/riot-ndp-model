@@ -245,7 +245,7 @@
              y="171.2375"
              sodipodi:role="line"
              id="tspan5151"
-             style="fill:#008000">+ ABR_TIMEOUT : u16_t = 0x4fc8</tspan><tspan
+             style="fill:#0000ff">+ ABR_TIMEOUT : u16_t = 0x4fc8</tspan><tspan
              x="-163"
              y="186.2375"
              sodipodi:role="line"

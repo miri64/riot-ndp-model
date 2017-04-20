@@ -137,7 +137,8 @@ TODO
 TODO
 
 ### Handle Authoritative Border Router Option
-TODO
+![Sequence diagram: Address registration timeout timer event](seq_nib_use_case_007.16.svg)
+Model assumes that abro_t::ltime is already converted to ms (and default is set on 0)
 
 ## Search router
 ![Sequence diagram: Search router](seq_nib_use_case_008.svg)
@@ -192,6 +193,7 @@ sendRA() sets iface::lastMCRA to current time in milliseconds
 
 ## Send solicited Router Advertisement timer event
 ![Sequence diagram: Send solicited Router Advertisement timer event](seq_nib_use_case_023.svg)
+(sendRA(): calculate updated lifetimes on send!)
 
 ## Recalculate Reachable Time
 TODO (see https://tools.ietf.org/html/rfc4861#section-6.3.4)
