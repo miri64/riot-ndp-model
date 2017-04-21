@@ -1269,7 +1269,7 @@
              y="191.2375"
              id="tspan3873"># <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan250">getBestMatch() : OffLinkEntry</tspan></tspan></text>
+   id="tspan250">getBestMatch(a : ipv6_addr_t) : OffLinkEntry</tspan></tspan></text>
       </g>
       <g
          id="nib-ft"

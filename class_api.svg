@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="912"
-   height="917"
-   viewBox="0 0 912 917"
+   height="947"
+   viewBox="0 0 912 947"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -139,7 +139,7 @@
       <rect
          y="0"
          x="0"
-         height="915"
+         height="945"
          width="910"
          id="sd-main-frame"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -818,7 +818,7 @@
         <rect
            y="0"
            x="-120"
-           height="290"
+           height="320"
            width="240"
            id="rect5488"
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -921,11 +921,21 @@
              id="tspan4831">+ getAddr(addr : ipv6_addr_t) : ipv6_addr_t</tspan><tspan
              sodipodi:role="line"
              x="-118"
-             y="266.23752"
+             y="266.2375"
+             id="tspan4831">+ iterAddr(pfx : ipv6_addr_t,</tspan><tspan
+             sodipodi:role="line"
+             x="-118"
+             y="281.2375"
+             id="tspan4831"><tspan
+               id="tspan4700"
+               style="fill:none">00000</tspan>pfxLen : unsigned) : ipv6_addr_t</tspan><tspan
+             sodipodi:role="line"
+             x="-118"
+             y="296.23752"
              id="tspan4115">+ joinGroup(group : ipv6_addr_t)</tspan><tspan
              sodipodi:role="line"
              x="-118"
-             y="281.23752"
+             y="311.23752"
              id="tspan4119">+ leaveGroup(group : ipv6_addr_t)</tspan></text>
       </g>
       <g

@@ -118,7 +118,8 @@ TODO
 ![Sequence diagram: Handle Source Link-Layer Address Option](seq_nib_use_case_007.09.svg)
 
 ### Handle Prefix Information Option
-TODO
+![Sequence diagram: Handle Prefix Information Option](seq_nib_use_case_007.10.svg)
+TODO: Add prefix to ABR
 
 ### Handle Redirect Header Option
 (TLLAO => if NCE created: set STALE)
