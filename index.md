@@ -100,6 +100,7 @@ TODO
 ![Sequence diagram: Handle router advertisement](seq_nib_use_case_007.04.svg)
 (rtr_adv_t::isValid(), see [RFC4861])
 (remember changed router lifetime!)
+with persistent storage the ABRs should be stored afterwards
 
 ### Handle Redirect
 TODO
