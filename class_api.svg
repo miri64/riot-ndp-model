@@ -571,88 +571,6 @@
                id="tspan3585">iface : NetIf) : NIB_FT</tspan></tspan></text>
       </g>
       <g
-         transform="translate(200,425)"
-         id="nib-drl">
-        <rect
-           y="0"
-           x="-75"
-           height="130"
-           width="150"
-           id="rect5360"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text5362"
-           y="12.3"
-           x="0"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
-             y="12.3"
-             x="0"
-             id="tspan5364"
-             sodipodi:role="line">«view»</tspan><tspan
-             id="tspan5366"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
-             y="29.692602"
-             x="0"
-             sodipodi:role="line">NIB_DRL</tspan></text>
-        <path
-           inkscape:connector-curvature="0"
-           id="path5368"
-           d="M -75,35 75,35"
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <text
-           sodipodi:linespacing="120%"
-           id="text5370"
-           y="51.237499"
-           x="-73"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             y="51.237499"
-             x="-73"
-             sodipodi:role="line"
-             id="tspan5374">+ router : ipv6_addr_t</tspan></text>
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M -75,60 75,60"
-           id="path5376"
-           inkscape:connector-curvature="0" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="-73"
-           y="77.237495"
-           id="text5378"
-           sodipodi:linespacing="120%"><tspan
-             id="tspan5380"
-             sodipodi:role="line"
-             x="-73"
-             y="77.237495">+ <tspan
-   style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan3651">add(router : ipv6_addr_t,</tspan></tspan><tspan
-             sodipodi:role="line"
-             x="-73"
-             y="92.237495"
-             id="tspan5392"><tspan
-               style="fill:none"
-               id="tspan5430">00000</tspan><tspan
-               style="text-decoration: underline;text-decoration-line: underline"
-               id="tspan3653">iface : NetIf)</tspan></tspan><tspan
-             sodipodi:role="line"
-             x="-73"
-             y="107.2375"
-             id="tspan5396">+ <tspan
-   style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan3655">del(router : ipv6_addr_t)</tspan></tspan><tspan
-             sodipodi:role="line"
-             x="-73"
-             y="122.2375"
-             id="tspan5384">+ <tspan
-   style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan3657">iter(iface : NetIf) : NIB_DRL</tspan></tspan></text>
-      </g>
-      <g
          transform="translate(455,425)"
          id="nib-pl">
         <rect
@@ -745,72 +663,6 @@
              id="tspan5724">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan3633">iter(iface : NetIf) : NIB_PL</tspan></tspan></text>
-      </g>
-      <g
-         id="nib-dc"
-         transform="translate(710,425)">
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:#000080;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294"
-           id="rect5271"
-           width="150"
-           height="100"
-           x="-75"
-           y="0" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="0"
-           y="12.3"
-           id="text5273"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan5275"
-             x="0"
-             y="12.3"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#000080">«view»</tspan><tspan
-             sodipodi:role="line"
-             x="0"
-             y="29.692602"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#000080"
-             id="tspan5277">NIB_DC</tspan></text>
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M -75,35 75,35"
-           id="path5279"
-           inkscape:connector-curvature="0" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="-68"
-           y="51.237499"
-           id="text5281"
-           sodipodi:linespacing="120%"><tspan
-             id="tspan5283"
-             sodipodi:role="line"
-             x="-68"
-             y="51.237499">+ dst : ipv6_addr_t</tspan><tspan
-             id="tspan5291"
-             sodipodi:role="line"
-             x="-68"
-             y="66.237503">+ nextHop : ipv6_addr_t</tspan></text>
-        <path
-           inkscape:connector-curvature="0"
-           id="path5326"
-           d="M -75,75 75,75"
-           style="fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <text
-           sodipodi:linespacing="120%"
-           id="text5328"
-           y="91.237495"
-           x="-68"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             y="91.237495"
-             x="-68"
-             sodipodi:role="line"
-             id="tspan5332">+ <tspan
-   id="tspan5420"
-   style="text-decoration: underline;text-decoration-line: underline;fill:#000080">iter(iface : NetIf) : NIB_DC</tspan></tspan></text>
       </g>
       <g
          transform="translate(455,615)"
@@ -979,26 +831,6 @@
              y="-2">creates</tspan></text>
       </g>
       <g
-         transform="translate(200,425)"
-         id="dep-nib-drl">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3663"
-           d="m 0,0 0,-80 90,0"
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep)" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="45"
-           y="-82"
-           id="text3665"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan3667"
-             x="45"
-             y="-82">creates</tspan></text>
-      </g>
-      <g
          id="dep-nib-pl"
          transform="translate(455,425)">
         <path
@@ -1016,26 +848,6 @@
              y="-17.299385"
              x="-2"
              id="tspan5438"
-             sodipodi:role="line">creates</tspan></text>
-      </g>
-      <g
-         id="dep-nib-dc"
-         transform="translate(710,425)">
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#dep-dc)"
-           d="m 0,0 0,-80 -90,0"
-           id="path3671"
-           inkscape:connector-curvature="0" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text3673"
-           y="-82"
-           x="-45"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             y="-82"
-             x="-45"
-             id="tspan3675"
              sodipodi:role="line">creates</tspan></text>
       </g>
       <g
@@ -1068,68 +880,6 @@
              id="tspan3561"
              x="2"
              y="10">+ iface</tspan></text>
-      </g>
-      <g
-         id="g4424"
-         transform="translate(710,525)">
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;marker-end:url(#assoc-dc)"
-           d="m 0,0 0,180 -135,0"
-           id="path4426"
-           inkscape:connector-curvature="0" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text4428"
-           y="10"
-           x="-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             y="10"
-             x="-2"
-             id="tspan4430"
-             sodipodi:role="line">1</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="2"
-           y="10"
-           id="text4432"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan4434"
-             x="2"
-             y="10">+ iface</tspan></text>
-      </g>
-      <g
-         transform="translate(200,555)"
-         id="assoc-netif-nib-drl">
-        <path
-           inkscape:connector-curvature="0"
-           id="path4414"
-           d="m 0,0 0,150 135,0"
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;marker-end:url(#assoc)" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="-2"
-           y="10"
-           id="text4416"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan4418"
-             x="-2"
-             y="10">1</tspan></text>
-        <text
-           sodipodi:linespacing="125%"
-           id="text4420"
-           y="10"
-           x="2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             y="10"
-             x="2"
-             id="tspan4422"
-             sodipodi:role="line">+ iface</tspan></text>
       </g>
       <g
          transform="translate(840,325)"
