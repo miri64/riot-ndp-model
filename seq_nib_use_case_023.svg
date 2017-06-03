@@ -405,7 +405,7 @@
                sodipodi:role="line"
                x="35"
                y="12.758789"
-               id="tspan5008">[(nbr::iface != NULL) &amp;&amp; (nbr::iface::isRtrAdv())]</tspan></text>
+               id="tspan5008">[(nbr::iface != NULL) &amp;&amp; (nbr::iface::getSendRtrAdv())]</tspan></text>
         </g>
       </g>
       <g

@@ -286,7 +286,7 @@
              sodipodi:role="line"
              id="tspan6391"
              x="40"
-             y="12.758789">[!isRtrAdv()]</tspan></text>
+             y="12.758789">[!getSendRtrAdv()]</tspan></text>
         <g
            transform="translate(10,70)"
            id="ref-adv-rtr">
@@ -345,7 +345,7 @@
              id="tspan6061"
              x="50"
              y="-4"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'">setRtrAdv(TRUE)</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'">setSendRtrAdv(TRUE)</tspan></text>
       </g>
       <g
          transform="translate(45,75)"

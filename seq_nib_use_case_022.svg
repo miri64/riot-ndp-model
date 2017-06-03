@@ -480,7 +480,7 @@
                sodipodi:role="line"
                x="35"
                y="12.758789"
-               id="tspan5008">[(iface::isRtrAdv()) || (iface::MCRASent &gt; UINT8_MAX – MAX_FIN_RTR_ADV)]</tspan></text>
+               id="tspan5008">[(iface::getSendRtrAdv()) || (iface::MCRASent &gt; UINT8_MAX – MAX_FIN_RTR_ADV)]</tspan></text>
           <g
              id="opt-incr"
              transform="translate(10,55)">

@@ -576,7 +576,7 @@
                y="12.758789"
                x="40"
                id="tspan3484"
-               sodipodi:role="line">[foreach addr in iface::ac_uc_addr]</tspan></text>
+               sodipodi:role="line">[foreach addr in iface::ucAddrs]</tspan></text>
         </g>
         <g
            id="opt-router"
@@ -728,7 +728,7 @@
                y="12.758789"
                x="40"
                id="tspan4700"
-               sodipodi:role="line">[!iface::isRtrAdv()]</tspan></text>
+               sodipodi:role="line">[!iface::getSendRtrAdv()]</tspan></text>
         </g>
         <g
            id="ref-adv-if-5"

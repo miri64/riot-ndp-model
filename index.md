@@ -43,6 +43,9 @@ Lastly, there are the components related to [6LoWPAN's two substitutable feature
 ## API
 ![NIB: API architecture](class_api.svg)
 
+(RRQ = Reactive Routing Query, RRN = Reactive Routing Notification, NSC =
+NUD State Change Notification)
+
 * NIB_FT::iter(nextHop) allows for generation of source route trees (default: NULL, for all entries)
 
 ## Implementation

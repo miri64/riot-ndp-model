@@ -414,7 +414,7 @@
                  y="-4"
                  x="95"
                  id="tspan3429"
-                 sodipodi:role="line">rrqCB(dst, pkt)</tspan></text>
+                 sodipodi:role="line">iface::rcib(RRQ, dst, pkt)</tspan></text>
           </g>
         </g>
       </g>
@@ -756,7 +756,7 @@
                    y="97.758789"
                    x="35"
                    id="tspan3543"
-                   sodipodi:role="line">[rrqCB != NULL]</tspan></text>
+                   sodipodi:role="line">[ricb != NULL]</tspan></text>
             </g>
           </g>
         </g>
