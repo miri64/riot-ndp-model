@@ -332,7 +332,7 @@
         <rect
            y="0"
            x="-110"
-           height="205"
+           height="250"
            width="220"
            id="rect4589"
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99485294" />
@@ -397,15 +397,37 @@
            x="-108"
            y="136.2375"
            id="text4617"><tspan
+             y="136.2375"
+             x="-108"
+             sodipodi:role="line"
+             id="tspan5657">+ <tspan
+   style="text-decoration: underline;text-decoration-line: underline"
+   id="tspan3680">regStateChNotification(iface : NetIf,</tspan></tspan><tspan
+             id="tspan5661"
+             y="151.2375"
+             x="-108"
+             sodipodi:role="line"><tspan
+               id="tspan5663"
+               style="fill:none">0000000</tspan><tspan
+               style="text-decoration: underline;text-decoration-line: underline"
+               id="tspan3682">void *(cb)(dst : ipv6_addr_t,</tspan></tspan><tspan
+             id="tspan5665"
+             y="166.2375"
+             x="-108"
+             sodipodi:role="line"><tspan
+               id="tspan5663"
+               style="fill:none">0000000</tspan><tspan
+               style="text-decoration: underline;text-decoration-line: underline"
+               id="tspan3682">new_state : unsigned)</tspan></tspan><tspan
              id="tspan4619"
              sodipodi:role="line"
              x="-108"
-             y="136.2375">+ <tspan
+             y="181.2375">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan3637">set(ipv6 : ipv6_addr_t, iface : NetIf,</tspan></tspan><tspan
              sodipodi:role="line"
              x="-108"
-             y="151.2375"
+             y="196.2375"
              id="tspan4651"><tspan
                style="fill:none"
                id="tspan4653">00000</tspan><tspan
@@ -413,20 +435,20 @@
                id="tspan3639">l2addr : u8_t[], l2addrLen : u8_t)</tspan></tspan><tspan
              sodipodi:role="line"
              x="-108"
-             y="166.2375"
+             y="211.2375"
              id="tspan5398">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan3641">del(ipv6 : ipv6_addr_t)</tspan></tspan><tspan
              id="tspan4629"
              sodipodi:role="line"
              x="-108"
-             y="181.2375">+ <tspan
+             y="226.2375">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan3643">mark_reachable(ipv6 : ipv6_addr_t)</tspan></tspan><tspan
              id="tspan4633"
              sodipodi:role="line"
              x="-108"
-             y="196.2375">+ <tspan
+             y="241.2375">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan3645">iter(iface : NetIf) : NIB_NC</tspan></tspan></text>
       </g>
@@ -437,7 +459,7 @@
            style="fill:#ffffff;fill-opacity:1;stroke:#800000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect5630"
            width="220"
-           height="265"
+           height="295"
            x="-110"
            y="0" />
         <text
@@ -498,7 +520,7 @@
              sodipodi:role="line"
              id="tspan5657">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan3680">regRRQ(void *(cb)(dst : ipv6_addr_t,</tspan></tspan><tspan
+   id="tspan3680">regRRQ(iface : NetIf,</tspan></tspan><tspan
              id="tspan5661"
              y="121.2375"
              x="-108"
@@ -506,20 +528,36 @@
                id="tspan5663"
                style="fill:none">0000000</tspan><tspan
                style="text-decoration: underline;text-decoration-line: underline"
-               id="tspan3682">ctx : gnrc_pktsnip_t) : int</tspan></tspan><tspan
+               id="tspan3682">void *(cb)(dst : ipv6_addr_t,</tspan></tspan><tspan
              id="tspan5665"
              y="136.2375"
              x="-108"
+             sodipodi:role="line"><tspan
+               id="tspan5663"
+               style="fill:none">0000000</tspan><tspan
+               style="text-decoration: underline;text-decoration-line: underline"
+               id="tspan3682">ctx : gnrc_pktsnip_t)</tspan></tspan><tspan
+             id="tspan5665"
+             y="151.2375"
+             x="-108"
              sodipodi:role="line">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
-   id="tspan3694">regRRN(void *(cb)(route : NIB_FT))</tspan></tspan><tspan
-             y="151.2375"
+   id="tspan3694">regRRN(iface : NetIf,</tspan></tspan><tspan
+             id="tspan5665"
+             y="166.2375"
+             x="-108"
+             sodipodi:role="line"><tspan
+               id="tspan5663"
+               style="fill:none">0000000</tspan><tspan
+               style="text-decoration: underline;text-decoration-line: underline"
+               id="tspan3682">void *(cb)(route : NIB_FT))</tspan></tspan><tspan
+             y="181.2375"
              x="-108"
              sodipodi:role="line"
              id="tspan4667">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan3684">get(dst : ipv6_addr_t, iface : NetIf,</tspan></tspan><tspan
-             y="166.2375"
+             y="196.2375"
              x="-108"
              sodipodi:role="line"
              id="tspan5682"><tspan
@@ -527,13 +565,13 @@
                id="tspan5684">0000000</tspan><tspan
                style="text-decoration: underline;text-decoration-line: underline"
                id="tspan3686">ctx : gnrc_pktsnip_t) : NIB_FT</tspan></tspan><tspan
-             y="181.2375"
+             y="211.2375"
              x="-108"
              sodipodi:role="line"
              id="tspan5669">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan3688">add(dst : ipv6_addr_t, dstLen : u8_t,</tspan></tspan><tspan
-             y="196.2375"
+             y="226.2375"
              x="-108"
              sodipodi:role="line"
              id="tspan5686"><tspan
@@ -541,7 +579,7 @@
                id="tspan5690">0000000</tspan><tspan
                style="text-decoration: underline;text-decoration-line: underline"
                id="tspan3690">nextHop : ipv6_addr_t,</tspan></tspan><tspan
-             y="211.2375"
+             y="241.2375"
              x="-108"
              sodipodi:role="line"
              id="tspan5688"><tspan
@@ -549,19 +587,19 @@
                id="tspan5692">0000000</tspan><tspan
                style="text-decoration: underline;text-decoration-line: underline"
                id="tspan3692">iface : NetIf, ltime : u32)</tspan></tspan><tspan
-             y="226.2375"
+             y="256.2375"
              x="-108"
              sodipodi:role="line"
              id="tspan5694">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan4682">del(dst : ipv6_addr_t, dstLen : u8_t)</tspan></tspan><tspan
-             y="241.2375"
+             y="271.2375"
              x="-108"
              sodipodi:role="line"
              id="tspan5673">+ <tspan
    style="text-decoration: underline;text-decoration-line: underline"
    id="tspan3696">iter(nextHop : ipv6_addr_t,</tspan></tspan><tspan
-             y="256.23752"
+             y="286.23752"
              x="-108"
              sodipodi:role="line"
              id="tspan3583"><tspan
@@ -852,10 +890,10 @@
       </g>
       <g
          id="assoc-netif-nib-nc"
-         transform="translate(70,287.5)">
+         transform="translate(70,332.5)">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;marker-end:url(#assoc)"
-           d="m 0,0 0,460 265,0"
+           d="m 0,0 0,415 265,0"
            id="path3553"
            inkscape:connector-curvature="0" />
         <text
@@ -882,12 +920,12 @@
              y="10">+ iface</tspan></text>
       </g>
       <g
-         transform="translate(840,325)"
+         transform="translate(840,355)"
          id="assoc-netif-nib-ft">
         <path
            inkscape:connector-curvature="0"
            id="path3565"
-           d="m 0,0 0,422.5 -265,0"
+           d="m 0,0 0,392.5 -265,0"
            style="fill:none;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;marker-end:url(#assoc-rtr)" />
         <text
            xml:space="preserve"
