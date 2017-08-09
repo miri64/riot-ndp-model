@@ -311,13 +311,13 @@
        y="59"
        id="text4188"
        sodipodi:linespacing="125%"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7456"
+       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7462"
        xlink:show="new"
-       xlink:title="gnrc_ipv6_nib: port to gnrc_netif2"><tspan
+       xlink:title="gnrc_netif2: provide raw adaption layer (for e.g. SLIP)"><tspan
          sodipodi:role="line"
          id="tspan4190"
          x="470"
-         y="59">#7456</tspan></a></text>
+         y="59">#7462</tspan></a></text>
     <text
        class="pr"
        x="270"
