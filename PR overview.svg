@@ -346,17 +346,18 @@
          sodipodi:role="line">#7456</tspan></a></text>
     <text
        xml:space="preserve"
-       class="pr wip"
+       class="pr"
        x="125"
        y="179"
        id="text4197"
        sodipodi:linespacing="125%"><a
-       xlink:href="https://github.com/miri64/RIOT/tree/gnrc_ipv6_nib/feat/ndp-rd"
-       xlink:show="new"><tspan
+       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7479"
+       xlink:show="new"
+       xlink:title="gnrc_ipv6_nib: implement behavior for router discovery"><tspan
          sodipodi:role="line"
          id="tspan4199"
          x="125"
-         y="179">NDP-RD (not PR'd yet)</tspan></a></text>
+         y="179">#7479</tspan></a></text>
     <path
        class="dep"
        sodipodi:nodetypes="cc"
