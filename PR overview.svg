@@ -196,7 +196,7 @@
        id="text4142"
        y="59"
        x="70"
-       class="pr"><a
+       class="pr merged"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7253"
        xlink:show="new"
        xlink:title="gnrc_ipv6_nib: add forwarding table component"><tspan
@@ -470,7 +470,7 @@
        d="m 30,60 c 0,55 95,55 95,110"
        sodipodi:nodetypes="cc" />
     <path
-       class="dep"
+       class="dep merged"
        sodipodi:nodetypes="cc"
        d="m 70,60 c 0,55 55,55 55,110"
        id="path4205"
