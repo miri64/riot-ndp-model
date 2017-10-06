@@ -128,7 +128,7 @@
        id="text4196"
        y="19"
        x="150"
-       class="pr"><a
+       class="pr merged"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/6988"
        xlink:show="new"
        xlink:title="gnrc_ipv6_nib: add neighbor cache component"><tspan
