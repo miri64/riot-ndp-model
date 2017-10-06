@@ -140,7 +140,7 @@
          id="tspan4198"
          sodipodi:role="line">#6988</tspan></a></text>
     <text
-       class="pr"
+       class="pr merged"
        x="190"
        y="19"
        id="text4200"
@@ -384,7 +384,7 @@
        id="path4290"
        inkscape:connector-curvature="0" />
     <path
-       class="dep"
+       class="dep merged"
        inkscape:connector-curvature="0"
        id="path4301"
        d="m 190,20 c 0,15 -20,15 -20,30" />
