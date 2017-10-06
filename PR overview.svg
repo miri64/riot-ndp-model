@@ -35,9 +35,12 @@
         .wip {
           font-family: sans-serif;
         }
-        .merged {
+        text.merged {
           text-decoration: line-through;
           fill-opacity: 0.5;
+        }
+        path.merged {
+          stroke-opacity: 0.5;
         }
         .dep {
           fill: none;
@@ -376,7 +379,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       class="dep"
+       class="dep merged"
        d="m 150,20 c 0,15 20,15 20,30"
        id="path4290"
        inkscape:connector-curvature="0" />
