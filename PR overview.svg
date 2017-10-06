@@ -179,7 +179,7 @@
          x="470"
          y="19">#7381</tspan></a></text>
     <text
-       class="pr"
+       class="pr merged"
        x="30"
        y="59"
        id="text4138"
@@ -464,7 +464,7 @@
        id="path4191"
        d="m 270,100 c 0,15 -50,15 -50,30" />
     <path
-       class="dep"
+       class="dep merged"
        inkscape:connector-curvature="0"
        id="path4201"
        d="m 30,60 c 0,55 95,55 95,110"
