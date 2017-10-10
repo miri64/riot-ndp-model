@@ -157,7 +157,7 @@
        id="text4204"
        y="19"
        x="350"
-       class="pr"><a
+       class="pr merged"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7370"
        xlink:show="new"
        xlink:title="gnrc_netif2: Introduction of a new GNRC network interface API [RFC]"><tspan
@@ -389,42 +389,42 @@
        id="path4301"
        d="m 190,20 c 0,15 -20,15 -20,30" />
     <path
-       class="dep"
+       class="dep merged"
        d="M 350,20 C 350,35.5 230,35.5 230,50"
        id="path4216"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       class="dep"
+       class="dep merged"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path4220"
        d="m 350,20 c 0,15.5 -80,15.5 -80,30" />
     <path
-       class="dep"
+       class="dep merged"
        d="m 350,20 c 0,15.5 -40,15.5 -40,30"
        id="path4222"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       class="dep"
+       class="dep merged"
        inkscape:connector-curvature="0"
        id="path4224"
        d="m 350,20 0,30" />
     <path
-       class="dep"
+       class="dep merged"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path4230"
        d="m 350,20 c 0,15.5 40,15.5 40,30" />
     <path
-       class="dep"
+       class="dep merged"
        d="m 350,20 c 0,15.5 80,15.5 80,30"
        id="path4228"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       class="dep"
+       class="dep merged"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path4226"
