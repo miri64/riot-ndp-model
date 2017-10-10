@@ -222,7 +222,7 @@
        id="text4150"
        y="59"
        x="170"
-       class="pr"><a
+       class="pr merged"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7014"
        xlink:show="new"
        xlink:title="nib: implement public NIB functions up to link-local AR"><tspan
@@ -452,7 +452,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       class="dep"
+       class="dep merged"
        sodipodi:nodetypes="cc"
        d="m 170,60 c 0,35 50,35 50,70"
        id="path4189"
