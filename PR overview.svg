@@ -115,9 +115,9 @@
        sodipodi:nodetypes="csscccc" />
     <text
        class="pr merged"
+       id="pr7212"
        x="70"
        y="19"
-       id="text4192"
        sodipodi:linespacing="125%"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7212"
        xlink:show="new"
@@ -127,11 +127,11 @@
          x="70"
          y="19">#7212</tspan></a></text>
     <text
+       class="pr merged"
+       id="pr6988"
        sodipodi:linespacing="125%"
-       id="text4196"
        y="19"
-       x="150"
-       class="pr merged"><a
+       x="150"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/6988"
        xlink:show="new"
        xlink:title="gnrc_ipv6_nib: add neighbor cache component"><tspan
@@ -141,9 +141,9 @@
          sodipodi:role="line">#6988</tspan></a></text>
     <text
        class="pr merged"
+       id="pr7064"
        x="190"
        y="19"
-       id="text4200"
        sodipodi:linespacing="125%"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7064"
        xlink:show="new"
@@ -153,11 +153,11 @@
          x="190"
          y="19">#7064</tspan></a></text>
     <text
+       class="pr merged"
+       id="pr7370"
        sodipodi:linespacing="125%"
-       id="text4204"
        y="19"
-       x="350"
-       class="pr merged"><a
+       x="350"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7370"
        xlink:show="new"
        xlink:title="gnrc_netif2: Introduction of a new GNRC network interface API [RFC]"><tspan
@@ -167,9 +167,9 @@
          sodipodi:role="line">#7370</tspan></a></text>
     <text
        class="pr"
+       id="pr7381"
        x="470"
        y="19"
-       id="text4208"
        sodipodi:linespacing="125%"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7381"
        xlink:show="new"
@@ -180,9 +180,9 @@
          y="19">#7381</tspan></a></text>
     <text
        class="pr merged"
+       id="pr7222"
        x="30"
        y="59"
-       id="text4138"
        sodipodi:linespacing="125%"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7222"
        xlink:show="new"
@@ -192,11 +192,11 @@
          x="30"
          y="59">#7222</tspan></a></text>
     <text
+       class="pr merged"
+       id="pr7253"
        sodipodi:linespacing="125%"
-       id="text4142"
        y="59"
-       x="70"
-       class="pr merged"><a
+       x="70"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7253"
        xlink:show="new"
        xlink:title="gnrc_ipv6_nib: add forwarding table component"><tspan
@@ -206,9 +206,9 @@
          sodipodi:role="line">#7253</tspan></a></text>
     <text
        class="pr merged"
+       id="pr7270"
        x="110"
        y="59"
-       id="text4146"
        sodipodi:linespacing="125%"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7270"
        xlink:show="new"
@@ -218,11 +218,11 @@
          x="110"
          y="59">#7270</tspan></a></text>
     <text
+       class="pr merged"
+       id="pr7014"
        sodipodi:linespacing="125%"
-       id="text4150"
        y="59"
-       x="170"
-       class="pr merged"><a
+       x="170"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7014"
        xlink:show="new"
        xlink:title="nib: implement public NIB functions up to link-local AR"><tspan
@@ -232,9 +232,9 @@
          sodipodi:role="line">#7014</tspan></a></text>
     <text
        class="pr"
+       id="pr7404"
        x="230"
        y="59"
-       id="text4164"
        sodipodi:linespacing="125%"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7404"
        xlink:show="new"
@@ -244,11 +244,11 @@
          x="230"
          y="59">#7404</tspan></a></text>
     <text
+       class="pr"
+       id="pr7409"
        sodipodi:linespacing="125%"
-       id="text4168"
        y="59"
-       x="270"
-       class="pr"><a
+       x="270"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7409"
        xlink:show="new"
        xlink:title="gnrc_netif2: add IEEE 802.15.4 support"><tspan
@@ -258,9 +258,9 @@
          sodipodi:role="line">#7409</tspan></a></text>
     <text
        class="pr"
+       id="pr7410"
        x="310"
        y="59"
-       id="text4172"
        sodipodi:linespacing="125%"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7410"
        xlink:show="new"
@@ -270,11 +270,11 @@
          x="310"
          y="59">#7410</tspan></a></text>
     <text
+       class="pr"
+       id="pr7414"
        sodipodi:linespacing="125%"
-       id="text4176"
        y="59"
-       x="350"
-       class="pr"><a
+       x="350"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7414"
        xlink:show="new"
        xlink:title="cc110x: port to gnrc_netif2"><tspan
@@ -284,9 +284,9 @@
          sodipodi:role="line">#7414</tspan></a></text>
     <text
        class="pr"
+       id="pr7417"
        x="390"
        y="59"
-       id="text4180"
        sodipodi:linespacing="125%"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7417"
        xlink:show="new"
@@ -296,11 +296,11 @@
          x="390"
          y="59">#7417</tspan></a></text>
     <text
+       class="pr"
+       id="pr7419"
        sodipodi:linespacing="125%"
-       id="text4184"
        y="59"
-       x="430"
-       class="pr"><a
+       x="430"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7419"
        xlink:show="new"
        xlink:title="pkg: port nordic_softdevice_ble to gnrc_netif2"><tspan
@@ -310,9 +310,9 @@
          sodipodi:role="line">#7419</tspan></a></text>
     <text
        class="pr"
+       id="pr7462"
        x="470"
        y="59"
-       id="text4188"
        sodipodi:linespacing="125%"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7462"
        xlink:show="new"
@@ -323,9 +323,9 @@
          y="59">#7462</tspan></a></text>
     <text
        class="pr"
+       id="pr7424"
        x="270"
        y="99"
-       id="text4242"
        sodipodi:linespacing="125%"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7424"
        xlink:show="new"
@@ -335,11 +335,11 @@
          x="270"
          y="99">#7424</tspan></a></text>
     <text
+       class="pr"
+       id="pr7456"
        sodipodi:linespacing="125%"
-       id="text4185"
        y="139"
-       x="220"
-       class="pr"><a
+       x="220"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7456"
        xlink:show="new"
        xlink:title="gnrc_ipv6_nib: port to gnrc_netif2"><tspan
@@ -348,11 +348,11 @@
          id="tspan4187"
          sodipodi:role="line">#7456</tspan></a></text>
     <text
-       xml:space="preserve"
        class="pr"
+       id="pr7479"
+       xml:space="preserve"
        x="125"
        y="179"
-       id="text4197"
        sodipodi:linespacing="125%"><a
        xlink:href="https://github.com/RIOT-OS/RIOT/pull/7479"
        xlink:show="new"
@@ -363,144 +363,144 @@
          y="179">#7479</tspan></a></text>
     <path
        class="dep merged"
+       id="pr7212-7222"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
-       id="path4246"
        d="M 70,20 C 70,35.5 30,35.5 30,50" />
     <path
        class="dep merged"
+       id="pr7212-7253"
        d="m 70,20 0,30"
-       id="path4248"
        inkscape:connector-curvature="0" />
     <path
        class="dep merged"
+       id="pr7212-7270"
        d="m 70,20 c 0,15.5 40,15.5 40,30"
-       id="path4250"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        class="dep merged"
+       id="pr6988-7014"
        d="m 150,20 c 0,15 20,15 20,30"
-       id="path4290"
        inkscape:connector-curvature="0" />
     <path
        class="dep merged"
+       id="pr7064-7014"
        inkscape:connector-curvature="0"
-       id="path4301"
        d="m 190,20 c 0,15 -20,15 -20,30" />
     <path
        class="dep merged"
+       id="pr7370-7404"
        d="M 350,20 C 350,35.5 230,35.5 230,50"
-       id="path4216"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        class="dep merged"
+       id="pr7370-7409"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
-       id="path4220"
        d="m 350,20 c 0,15.5 -80,15.5 -80,30" />
     <path
        class="dep merged"
+       id="pr7370-7410"
        d="m 350,20 c 0,15.5 -40,15.5 -40,30"
-       id="path4222"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        class="dep merged"
+       id="pr7370-7414"
        inkscape:connector-curvature="0"
-       id="path4224"
        d="m 350,20 0,30" />
     <path
        class="dep merged"
+       id="pr7370-7417"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
-       id="path4230"
        d="m 350,20 c 0,15.5 40,15.5 40,30" />
     <path
        class="dep merged"
+       id="pr7370-7419"
        d="m 350,20 c 0,15.5 80,15.5 80,30"
-       id="path4228"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        class="dep merged"
+       id="pr7370-7462"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
-       id="path4226"
        d="m 350,20 c 0,15.5 120,15.5 120,30" />
     <path
        class="dep"
+       id="pr7381-7462"
        d="m 470,20 0,30"
-       id="path4212"
        inkscape:connector-curvature="0" />
     <path
        class="dep"
+       id="pr7404-7424"
        inkscape:connector-curvature="0"
-       id="path4303"
        d="m 230,60 c 0,15 40,15 40,30"
        sodipodi:nodetypes="cc" />
     <path
        class="dep"
+       id="pr7409-7424"
        inkscape:connector-curvature="0"
-       id="path4307"
        d="m 270,60 0,30" />
     <path
        class="dep"
+       id="pr7410-7424"
        d="m 310,60 c 0,15 -40,15 -40,30"
-       id="path4305"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        class="dep merged"
+       id="pr7014-7456"
        sodipodi:nodetypes="cc"
        d="m 170,60 c 0,35 50,35 50,70"
-       id="path4189"
        inkscape:connector-curvature="0" />
     <path
        class="dep"
+       id="pr7424-7456"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
-       id="path4191"
        d="m 270,100 c 0,15 -50,15 -50,30" />
     <path
        class="dep merged"
+       id="pr7222-7479"
        inkscape:connector-curvature="0"
-       id="path4201"
        d="m 30,60 c 0,55 95,55 95,110"
        sodipodi:nodetypes="cc" />
     <path
        class="dep merged"
+       id="pr7253-7479"
        sodipodi:nodetypes="cc"
        d="m 70,60 c 0,55 55,55 55,110"
-       id="path4205"
        inkscape:connector-curvature="0" />
     <path
        class="dep merged"
+       id="pr7270-7479"
        inkscape:connector-curvature="0"
-       id="path4207"
        d="M 110.17857,60.357143 C 110.17857,115.35714 125,115 125,170"
        sodipodi:nodetypes="cc" />
     <path
        class="dep"
+       id="pr7456-7479"
        d="m 220,140 c 0,15 -95,15 -95,30"
-       id="path4203"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
+       id="text4209"
        class="theme"
        x="5"
        y="200"
-       id="text4209"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4211"
          x="5"
          y="200">gnrc_ipv6_nib</tspan></text>
     <text
+       id="text4213"
        class="theme"
        sodipodi:linespacing="125%"
-       id="text4213"
        y="200"
        x="490"
        style="text-align:end;text-anchor:end"><tspan
