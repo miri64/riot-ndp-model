@@ -336,6 +336,19 @@
          y="99">#7424</tspan></a></text>
     <text
        class="pr"
+       id="pr7926"
+       x="170"
+       y="139"
+       sodipodi:linespacing="125%"><a
+       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7926"
+       xlink:show="new"
+       xlink:title="gnrc_ipv6_nib: fix for 'holey' NIB"><tspan
+         sodipodi:role="line"
+         id="tspan4244"
+         x="170"
+         y="139">#7926</tspan></a></text>
+    <text
+       class="pr"
        id="pr7456"
        sodipodi:linespacing="125%"
        y="139"
@@ -480,6 +493,12 @@
        id="pr7270-7479"
        inkscape:connector-curvature="0"
        d="M 110.17857,60.357143 C 110.17857,115.35714 125,115 125,170"
+       sodipodi:nodetypes="cc" />
+    <path
+       class="dep"
+       id="pr7926-7479"
+       d="m 170,140 c 0,15 -45,15 -45,30"
+       inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        class="dep"
