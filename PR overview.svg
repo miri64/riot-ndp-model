@@ -7,19 +7,21 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="990"
-   height="410"
-   viewBox="0 0 495 205"
+   width="1070"
+   height="490"
+   viewBox="0 0 535 245"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="PR overview.svg">
-  <defs>
-    <style type="text/css">
-      <![CDATA[
+  <defs
+     id="defs3">
+    <style
+       type="text/css"
+       id="style5"><![CDATA[
         .bg-green {
           fill: #ccffcc;
         }
@@ -32,8 +34,8 @@
           text-align: center;
           text-anchor:middle;fill:#000000;
         }
-        .wip {
-          font-family: sans-serif;
+        .bugfix {
+          font-style: italic;
         }
         text.merged {
           text-decoration: line-through;
@@ -53,8 +55,7 @@
           font-size: 15px;
           font-weight: bold;
         }
-      ]]>
-    </style>
+      ]]></style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -92,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -103,263 +104,414 @@
     <rect
        class="bg-green"
        id="rect4195"
-       width="495"
-       height="205"
+       width="535"
+       height="245"
        x="0"
-       y="0" />
+       y="0"
+       style="fill:#ccffcc" />
     <path
        class="bg-blue"
-       d="m 210,0 0,60 c 0,35 10,35 10,70 l 0,75 275,0 0,-205 z"
+       d="m 210,0 0,60 c 0,35 10,35 10,70 l 0,115 315,0 0,-245 z"
        id="path4193"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csscccc" />
+       sodipodi:nodetypes="csscccc"
+       style="fill:#ccccff" />
     <text
        class="pr merged"
        id="pr7212"
        x="70"
        y="19"
-       sodipodi:linespacing="125%"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7212"
-       xlink:show="new"
-       xlink:title="gnrc_ipv6_nib: provide internal implementation for off-link entries"><tspan
-         sodipodi:role="line"
-         id="tspan4194"
-         x="70"
-         y="19">#7212</tspan></a></text>
+       sodipodi:linespacing="125%">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7212"
+         xlink:show="new"
+         xlink:title="gnrc_ipv6_nib: provide internal implementation for off-link entries"
+         id="a15">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4194"
+           x="70"
+           y="19">#7212</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr6988"
        sodipodi:linespacing="125%"
        y="19"
-       x="150"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/6988"
-       xlink:show="new"
-       xlink:title="gnrc_ipv6_nib: add neighbor cache component"><tspan
-         y="19"
-         x="150"
-         id="tspan4198"
-         sodipodi:role="line">#6988</tspan></a></text>
+       x="150">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/6988"
+         xlink:show="new"
+         xlink:title="gnrc_ipv6_nib: add neighbor cache component"
+         id="a19">
+        <tspan
+           y="19"
+           x="150"
+           id="tspan4198"
+           sodipodi:role="line">#6988</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr7064"
        x="190"
        y="19"
-       sodipodi:linespacing="125%"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7064"
-       xlink:show="new"
-       xlink:title="gnrc_ndp2: Provide GNRC abstraction layer for NIB for sending"><tspan
-         sodipodi:role="line"
-         id="tspan4202"
-         x="190"
-         y="19">#7064</tspan></a></text>
+       sodipodi:linespacing="125%">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7064"
+         xlink:show="new"
+         xlink:title="gnrc_ndp2: Provide GNRC abstraction layer for NIB for sending"
+         id="a23">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4202"
+           x="190"
+           y="19">#7064</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr7370"
        sodipodi:linespacing="125%"
        y="19"
-       x="350"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7370"
-       xlink:show="new"
-       xlink:title="gnrc_netif2: Introduction of a new GNRC network interface API [RFC]"><tspan
-         y="19"
-         x="350"
-         id="tspan4206"
-         sodipodi:role="line">#7370</tspan></a></text>
+       x="350">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7370"
+         xlink:show="new"
+         xlink:title="gnrc_netif2: Introduction of a new GNRC network interface API [RFC]"
+         id="a27">
+        <tspan
+           y="19"
+           x="350"
+           id="tspan4206"
+           sodipodi:role="line">#7370</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr7381"
        x="470"
        y="19"
-       sodipodi:linespacing="125%"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7381"
-       xlink:show="new"
-       xlink:title="slip: port to be used with netdev"><tspan
-         sodipodi:role="line"
-         id="tspan4210"
-         x="470"
-         y="19">#7381</tspan></a></text>
+       sodipodi:linespacing="125%">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7381"
+         xlink:show="new"
+         xlink:title="slip: port to be used with netdev"
+         id="a31">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4210"
+           x="470"
+           y="19">#7381</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr7222"
        x="30"
        y="59"
-       sodipodi:linespacing="125%"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7222"
-       xlink:show="new"
-       xlink:title="gnrc_ipv6_nib: add prefix list component"><tspan
-         sodipodi:role="line"
-         id="tspan4140"
-         x="30"
-         y="59">#7222</tspan></a></text>
+       sodipodi:linespacing="125%">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7222"
+         xlink:show="new"
+         xlink:title="gnrc_ipv6_nib: add prefix list component"
+         id="a35">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4140"
+           x="30"
+           y="59">#7222</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr7253"
        sodipodi:linespacing="125%"
        y="59"
-       x="70"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7253"
-       xlink:show="new"
-       xlink:title="gnrc_ipv6_nib: add forwarding table component"><tspan
-         y="59"
-         x="70"
-         id="tspan4144"
-         sodipodi:role="line">#7253</tspan></a></text>
+       x="70">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7253"
+         xlink:show="new"
+         xlink:title="gnrc_ipv6_nib: add forwarding table component"
+         id="a39">
+        <tspan
+           y="59"
+           x="70"
+           id="tspan4144"
+           sodipodi:role="line">#7253</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr7270"
        x="110"
        y="59"
-       sodipodi:linespacing="125%"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7270"
-       xlink:show="new"
-       xlink:title="gnrc_ipv6_nib: provide component to handle ABRO"><tspan
-         sodipodi:role="line"
-         id="tspan4148"
-         x="110"
-         y="59">#7270</tspan></a></text>
+       sodipodi:linespacing="125%">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7270"
+         xlink:show="new"
+         xlink:title="gnrc_ipv6_nib: provide component to handle ABRO"
+         id="a43">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4148"
+           x="110"
+           y="59">#7270</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr7014"
        sodipodi:linespacing="125%"
        y="59"
-       x="170"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7014"
-       xlink:show="new"
-       xlink:title="nib: implement public NIB functions up to link-local AR"><tspan
-         y="59"
-         x="170"
-         id="tspan4152"
-         sodipodi:role="line">#7014</tspan></a></text>
+       x="170">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7014"
+         xlink:show="new"
+         xlink:title="nib: implement public NIB functions up to link-local AR"
+         id="a47">
+        <tspan
+           y="59"
+           x="170"
+           id="tspan4152"
+           sodipodi:role="line">#7014</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr7404"
        x="230"
        y="59"
-       sodipodi:linespacing="125%"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7404"
-       xlink:show="new"
-       xlink:title="shell_commands: port ifconfig command for gnrc_netif2"><tspan
-         sodipodi:role="line"
-         id="tspan4166"
-         x="230"
-         y="59">#7404</tspan></a></text>
+       sodipodi:linespacing="125%">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7404"
+         xlink:show="new"
+         xlink:title="shell_commands: port ifconfig command for gnrc_netif2"
+         id="a51">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4166"
+           x="230"
+           y="59">#7404</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr7409"
        sodipodi:linespacing="125%"
        y="59"
-       x="270"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7409"
-       xlink:show="new"
-       xlink:title="gnrc_netif2: add IEEE 802.15.4 support"><tspan
-         y="59"
-         x="270"
-         id="tspan4170"
-         sodipodi:role="line">#7409</tspan></a></text>
+       x="270">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7409"
+         xlink:show="new"
+         xlink:title="gnrc_netif2: add IEEE 802.15.4 support"
+         id="a55">
+        <tspan
+           y="59"
+           x="270"
+           id="tspan4170"
+           sodipodi:role="line">#7409</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr7410"
        x="310"
        y="59"
-       sodipodi:linespacing="125%"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7410"
-       xlink:show="new"
-       xlink:title="auto_init: upgrade bootstrap of Ethernet devices for gnrc_netif2"><tspan
-         sodipodi:role="line"
-         id="tspan4174"
-         x="310"
-         y="59">#7410</tspan></a></text>
+       sodipodi:linespacing="125%">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7410"
+         xlink:show="new"
+         xlink:title="auto_init: upgrade bootstrap of Ethernet devices for gnrc_netif2"
+         id="a59">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4174"
+           x="310"
+           y="59">#7410</tspan>
+      </a>
+    </text>
     <text
        class="pr"
        id="pr7414"
        sodipodi:linespacing="125%"
        y="59"
-       x="350"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7414"
-       xlink:show="new"
-       xlink:title="cc110x: port to gnrc_netif2"><tspan
-         y="59"
-         x="350"
-         id="tspan4178"
-         sodipodi:role="line">#7414</tspan></a></text>
+       x="350">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7414"
+         xlink:show="new"
+         xlink:title="cc110x: port to gnrc_netif2"
+         id="a63">
+        <tspan
+           y="59"
+           x="350"
+           id="tspan4178"
+           sodipodi:role="line">#7414</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr7417"
        x="390"
        y="59"
-       sodipodi:linespacing="125%"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7417"
-       xlink:show="new"
-       xlink:title="nrfmin: port for gnrc_netif2"><tspan
-         sodipodi:role="line"
-         id="tspan4182"
-         x="390"
-         y="59">#7417</tspan></a></text>
+       sodipodi:linespacing="125%">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7417"
+         xlink:show="new"
+         xlink:title="nrfmin: port for gnrc_netif2"
+         id="a67">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4182"
+           x="390"
+           y="59">#7417</tspan>
+      </a>
+    </text>
     <text
        class="pr"
        id="pr7419"
        sodipodi:linespacing="125%"
        y="59"
-       x="430"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7419"
-       xlink:show="new"
-       xlink:title="pkg: port nordic_softdevice_ble to gnrc_netif2"><tspan
-         y="59"
-         x="430"
-         id="tspan4186"
-         sodipodi:role="line">#7419</tspan></a></text>
+       x="430">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7419"
+         xlink:show="new"
+         xlink:title="pkg: port nordic_softdevice_ble to gnrc_netif2"
+         id="a71">
+        <tspan
+           y="59"
+           x="430"
+           id="tspan4186"
+           sodipodi:role="line">#7419</tspan>
+      </a>
+    </text>
     <text
        class="pr"
        id="pr7462"
        x="470"
        y="59"
-       sodipodi:linespacing="125%"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7462"
-       xlink:show="new"
-       xlink:title="gnrc_netif2: provide raw adaption layer (for e.g. SLIP)"><tspan
-         sodipodi:role="line"
-         id="tspan4190"
-         x="470"
-         y="59">#7462</tspan></a></text>
+       sodipodi:linespacing="125%">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7462"
+         xlink:show="new"
+         xlink:title="gnrc_netif2: provide raw adaption layer (for e.g. SLIP)"
+         id="a75">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4190"
+           x="470"
+           y="59">#7462</tspan>
+      </a>
+    </text>
+    <text
+       class="pr"
+       id="pr7898"
+       x="510"
+       y="59"
+       sodipodi:linespacing="125%">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7898"
+         xlink:show="new"
+         xlink:title="xbee: port to gnrc_netif2"
+         id="a79">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4191"
+           x="510"
+           y="59">#7898</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr7424"
        x="270"
        y="99"
-       sodipodi:linespacing="125%"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7424"
-       xlink:show="new"
-       xlink:title="gnrc: integrate gnrc_netif2 unintrusively"><tspan
-         sodipodi:role="line"
-         id="tspan4244"
-         x="270"
-         y="99">#7424</tspan></a></text>
+       sodipodi:linespacing="125%">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7424"
+         xlink:show="new"
+         xlink:title="gnrc: integrate gnrc_netif2 unintrusively"
+         id="a83">
+        <tspan
+           sodipodi:role="line"
+           id="tspan4244"
+           x="270"
+           y="99">#7424</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr7926"
        x="170"
        y="139"
-       sodipodi:linespacing="125%"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7926"
-       xlink:show="new"
-       xlink:title="gnrc_ipv6_nib: fix for 'holey' NIB"><tspan
-         sodipodi:role="line"
-         id="tspan4244"
-         x="170"
-         y="139">#7926</tspan></a></text>
+       sodipodi:linespacing="125%">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7926"
+         xlink:show="new"
+         xlink:title="gnrc_ipv6_nib: fix for 'holey' NIB"
+         id="a87">
+        <tspan
+           sodipodi:role="line"
+           id="tspan89"
+           x="170"
+           y="139">#7926</tspan>
+      </a>
+    </text>
     <text
        class="pr merged"
        id="pr7456"
        sodipodi:linespacing="125%"
        y="139"
-       x="220"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7456"
-       xlink:show="new"
-       xlink:title="gnrc_ipv6_nib: port to gnrc_netif2"><tspan
-         y="139"
-         x="220"
-         id="tspan4187"
-         sodipodi:role="line">#7456</tspan></a></text>
+       x="220">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7456"
+         xlink:show="new"
+         xlink:title="gnrc_ipv6_nib: port to gnrc_netif2"
+         id="a92">
+        <tspan
+           y="139"
+           x="220"
+           id="tspan4187"
+           sodipodi:role="line">#7456</tspan>
+      </a>
+    </text>
+    <text
+       class="pr bugfix"
+       id="pr7961"
+       sodipodi:linespacing="125%"
+       y="139"
+       x="270">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7961"
+         xlink:show="new"
+         xlink:title="shell_commands: fix sc_gnrc_netif2 for MSP430"
+         id="a96">
+        <tspan
+           y="139"
+           x="270"
+           id="tspan4189"
+           sodipodi:role="line">#7961</tspan>
+      </a>
+    </text>
+    <text
+       class="pr bugfix"
+       id="pr7966"
+       sodipodi:linespacing="125%"
+       y="139"
+       x="370">
+      <a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7966"
+         xlink:show="new"
+         xlink:title="examples: tests: port applications to gnrc_netif2"
+         id="a100">
+        <tspan
+           y="139"
+           x="370"
+           id="tspan4188"
+           sodipodi:role="line">#7966</tspan>
+      </a>
+    </text>
     <text
        class="pr"
        id="pr7479"
@@ -367,13 +519,44 @@
        x="125"
        y="179"
        sodipodi:linespacing="125%"><a
-       xlink:href="https://github.com/RIOT-OS/RIOT/pull/7479"
-       xlink:show="new"
-       xlink:title="gnrc_ipv6_nib: implement behavior for router discovery"><tspan
-         sodipodi:role="line"
-         id="tspan4199"
-         x="125"
-         y="179">#7479</tspan></a></text>
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7479"
+         xlink:show="new"
+         xlink:title="gnrc_ipv6_nib: implement behavior for router discovery"
+         id="a104"><tspan
+           sodipodi:role="line"
+           id="tspan4199"
+           x="125"
+           y="179">#7479</tspan></a></text>
+    <text
+       class="pr"
+       id="pr8010"
+       xml:space="preserve"
+       x="175"
+       y="179"
+       sodipodi:linespacing="125%"><a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/8010"
+         xlink:show="new"
+         xlink:title="gnrc_rpl: port to nib"
+         id="a108"><tspan
+           sodipodi:role="line"
+           id="tspan4200"
+           x="175"
+           y="179">#8010</tspan></a></text>
+    <text
+       class="pr"
+       id="pr7925"
+       xml:space="preserve"
+       x="220"
+       y="219"
+       sodipodi:linespacing="125%"><a
+         xlink:href="https://github.com/RIOT-OS/RIOT/pull/7925"
+         xlink:show="new"
+         xlink:title="gnrc_netif: gnrc_ipv6_nib: full integration into GNRC"
+         id="a112"><tspan
+           sodipodi:role="line"
+           id="tspan114"
+           x="220"
+           y="219">#7925</tspan></a></text>
     <path
        class="dep merged"
        id="pr7212-7222"
@@ -471,11 +654,47 @@
        d="m 170,60 c 0,35 50,35 50,70"
        inkscape:connector-curvature="0" />
     <path
+       class="dep"
+       id="pr7414-7925"
+       d="m 350,60 c 0,115 -130,115 -130,150"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       class="dep"
+       id="pr7419-7925"
+       d="m 430,60 c 0,150 -210,115 -210,150"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       class="dep"
+       id="pr7462-7925"
+       d="m 470,60 c 0,150 -250,115 -250,150"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       class="dep"
+       id="pr7898-7925"
+       d="m 510,60 c 0,150 -290,115 -290,150"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
        class="dep merged"
        id="pr7424-7456"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        d="m 270,100 c 0,15 -50,15 -50,30" />
+    <path
+       class="dep"
+       id="pr7961-7925"
+       d="m 270,140 c 0,35 -50,35 -50,70"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       class="dep"
+       id="pr7966-7925"
+       d="m 370,140 c 0,40 -150,45 -150,70"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        class="dep merged"
        id="pr7222-7479"
@@ -506,26 +725,42 @@
        d="m 220,140 c 0,15 -95,15 -95,30"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <path
+       class="dep"
+       id="pr7479-7925"
+       d="m 125,180 c 0,15 95,15 95,30"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       class="dep"
+       id="pr8010-7925"
+       d="m 175,180 c 0,15 45,15 45,30"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <text
        id="text4209"
        class="theme"
        x="5"
-       y="200"
-       sodipodi:linespacing="125%"><tspan
+       y="240"
+       sodipodi:linespacing="125%">
+      <tspan
          sodipodi:role="line"
          id="tspan4211"
          x="5"
-         y="200">gnrc_ipv6_nib</tspan></text>
+         y="240">gnrc_ipv6_nib</tspan>
+    </text>
     <text
        id="text4213"
        class="theme"
        sodipodi:linespacing="125%"
-       y="200"
-       x="490"
-       style="text-align:end;text-anchor:end"><tspan
-         y="200"
-         x="490"
+       y="240"
+       x="530"
+       style="text-align:end;text-anchor:end">
+      <tspan
+         y="240"
+         x="530"
          id="tspan4215"
-         sodipodi:role="line">gnrc_netif2</tspan></text>
+         sodipodi:role="line">gnrc_netif2</tspan>
+    </text>
   </g>
 </svg>
