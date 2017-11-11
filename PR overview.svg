@@ -335,7 +335,7 @@
          x="270"
          y="99">#7424</tspan></a></text>
     <text
-       class="pr"
+       class="pr merged"
        id="pr7926"
        x="170"
        y="139"
@@ -495,7 +495,7 @@
        d="M 110.17857,60.357143 C 110.17857,115.35714 125,115 125,170"
        sodipodi:nodetypes="cc" />
     <path
-       class="dep"
+       class="dep merged"
        id="pr7926-7479"
        d="m 170,140 c 0,15 -45,15 -45,30"
        inkscape:connector-curvature="0"
