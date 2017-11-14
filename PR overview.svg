@@ -405,7 +405,7 @@
       </a>
     </text>
     <text
-       class="pr"
+       class="pr merged"
        id="pr7898"
        x="510"
        y="59"
@@ -672,7 +672,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       class="dep"
+       class="dep merged"
        id="pr7898-7925"
        d="m 510,60 c 0,150 -290,115 -290,150"
        inkscape:connector-curvature="0"
