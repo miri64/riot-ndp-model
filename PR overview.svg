@@ -477,7 +477,7 @@
       </a>
     </text>
     <text
-       class="pr bugfix"
+       class="pr bugfix merged"
        id="pr7961"
        sodipodi:linespacing="125%"
        y="139"
@@ -684,7 +684,7 @@
        inkscape:connector-curvature="0"
        d="m 270,100 c 0,15 -50,15 -50,30" />
     <path
-       class="dep"
+       class="dep merged"
        id="pr7961-7925"
        d="m 270,140 c 0,35 -50,35 -50,70"
        inkscape:connector-curvature="0"
